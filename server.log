@@ -1,0 +1,34 @@
+Request: /
+File: 
+Request: /loading.gif
+File: loading.gif
+Request: /?cmd=call&line=cat%20/home/pi/webserver/volume.txt
+Processing: cmd=call
+Run: cat /home/pi/webserver/volume.txt
+{ stdout: '0.14599896776278312\n', stderr: '', status: 0 }
+Request: /favicon.ico
+File: favicon.ico
+Request: /?cmd=run&line=/opt/vc/bin/tvservice%20-p%20&&%20chvt%201%20&&%20chvt%207
+Processing: cmd=run
+Run: /opt/vc/bin/tvservice -p && chvt 1 && chvt 7
+Request: /
+File: 
+Request: /?cmd=run&line=/opt/vc/bin/tvservice%20-p%20&&%20chvt%201%20&&%20chvt%207
+Processing: cmd=run
+Run: /opt/vc/bin/tvservice -p && chvt 1 && chvt 7
+Request: /?cmd=run&line=/opt/vc/bin/tvservice%20-p%20&&%20chvt%201%20&&%20chvt%207
+Processing: cmd=run
+Run: /opt/vc/bin/tvservice -p && chvt 1 && chvt 7
+Request: /
+File: 
+Request: /
+File: 
+stdout: Powering on HDMI with preferred settings
+
+stderr: 
+stdout: Powering on HDMI with preferred settings
+
+stderr: 
+stdout: Powering on HDMI with preferred settings
+
+stderr: 

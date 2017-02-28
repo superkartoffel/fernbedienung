@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+>
+<channel>
+  <title>Quarks &amp; Co - zum Mitnehmen</title>
+  <link>http://www.quarks.de</link>
+  <atom:link href="http://podcast.wdr.de/quarks.xml" rel="self" type="application/rss+xml" />
+  <description>Quarks &amp; Co: Das Wissenschaftsmagazin</description>
+  <language>de</language>
+  <generator>wdr-podcast</generator>
+  <copyright>Copyright 2012, WDR</copyright>
+  <image>
+    <url>http://www.wdr.de/podcast_php/img/vodcast_quarks.jpg</url>
+    <title>Quarks &amp; Co - zum Mitnehmen</title>
+    <link>http://www.quarks.de</link>
+  </image>
+  <ttl>360</ttl>
+  <category>TV &amp; Film</category>
+  <lastBuildDate>Tue, 01 Dec 2015 18:00:07 +0100</lastBuildDate>
+  <pubDate>Tue, 01 Dec 2015 18:00:07 +0100</pubDate>
+  <managingEditor>redaktion@www.wdr.de (redaktion)</managingEditor>
+  <webMaster>webmaster@www.wdr.de (webmaster)</webMaster>
+
+  <itunes:summary>
+Quarks &amp; Co: Das Wissenschaftsmagazin  </itunes:summary>
+  <itunes:keywords></itunes:keywords>
+  <itunes:author>Westdeutscher Rundfunk</itunes:author>
+  <itunes:category text="TV &amp; Film" />
+  <itunes:image href="http://www.wdr.de/podcast_php/img/itunes_quarks.jpg" />
+  <itunes:owner>
+    <itunes:name>Westdeutscher Rundfunk</itunes:name>
+    <itunes:email>redaktion@www.wdr.de (redaktion)</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>no</itunes:explicit>
+
+<item>
+  <title>Quarks &amp; Co: 01.12.2015, Einstein - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1448980546/quarks/wdr_fernsehen_quarks_und_co_20151201.mp4</link>
+  <pubDate>Tue, 01 Dec 2015 15:35:46 +0100</pubDate>
+  <description>Er ist der berühmteste Wissenschaftler aller Zeiten: Albert Einstein  Genie und Revolutionär der Physik. Er stellte unser Weltbild auf den Kopf und wurde zum Superstar der Wissenschaft. - Aber was genau war seine geniale Idee? Was hat es mit der Relativitätstheorie auf sich? Und was ist eigentlich mit seinem Gehirn passiert? 7 erstaunliche Dinge über Einstein!</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151201.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1448980546/quarks/wdr_fernsehen_quarks_und_co_20151201.mp4" length="173847811" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.11.2015, Der Klimavertrag: Kriegen wir Menschen das hin?</title>
+  <link>http://medien.wdr.de/m/1448384661/quarks/wdr_fernsehen_quarks_und_co_20151124.mp4</link>
+  <pubDate>Tue, 24 Nov 2015 18:04:21 +0100</pubDate>
+  <description>Am 30. November 2015 beginnt die größte und wahrscheinlich wichtigste Konferenz der Menschheitsgeschichte: der 21. UN-Klimagipfel. Damit die berühmte &quot;2-Grad-Grenze&quot; der Erderwärmung noch eingehalten werden kann, muss sich die Staatengemeinschaft über die Verpflichtungen zum Klimaschutz einig werden. Quarks &amp; Co berichtet über die Hintergründe, Chancen und Risiken der Pariser Konferenz. </description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151124.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1448384661/quarks/wdr_fernsehen_quarks_und_co_20151124.mp4" length="173503753" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.11.2015, Atommüll: Fässer ohne Boden</title>
+  <link>http://medien.wdr.de/m/1448269403/quarks/wdr_fernsehen_quarks_und_co_20151110.mp4</link>
+  <pubDate>Mon, 23 Nov 2015 10:03:23 +0100</pubDate>
+  <description>Der Ausstieg aus der Atomenergie ist beschlossen. Aber die Suche nach einem Endlager ist immer noch im Gange. Quarks &amp; Co erklärt, warum Atommüll so gefährlich ist, was bei der Lagerung zu beachten ist und wie die Interessen der Stromkonzerne und Politiker die Endlagersuche bremsen. Unsere Gesellschaft dagegen ist an der Atommüllthematik gereift. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151110.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1448269403/quarks/wdr_fernsehen_quarks_und_co_20151110.mp4" length="169976069" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.11.2015, Haare - 7 Dinge, die sie über uns verraten!</title>
+  <link>http://medien.wdr.de/m/1446633841/quarks/wdr_fernsehen_quarks_und_co_20151103.mp4</link>
+  <pubDate>Wed, 04 Nov 2015 11:44:01 +0100</pubDate>
+  <description>Wir pflegen sie, wir stylen sie  und manchmal gehen sie uns auch auf die Nerven: Unsere Haare! Eigentlich sind sie nur tote Hornfäden auf unserem Kopf. Doch den meisten Menschen bedeuten sie viel mehr - Was sagt die Frisur über einen Menschen aus? Halten Männer Blondinen tatsächlich für dumm? Und welche Informationen speichern Haare über ihren Träger ab? 7 erstaunliche Dinge über Haare! © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151103.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1446633841/quarks/wdr_fernsehen_quarks_und_co_20151103.mp4" length="178330641" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.10.2015, Überdosis Medizin</title>
+  <link>http://medien.wdr.de/m/1445958930/quarks/wdr_fernsehen_quarks_und_co_20151027.mp4</link>
+  <pubDate>Tue, 27 Oct 2015 16:15:30 +0100</pubDate>
+  <description>&quot;Behandeln ist besser als Nichtstun&quot;: Dieser Grundsatz galt in der Medizin seit langem. Mittlerweile zeigt sich aber: Nicht alles, was Ärzte für ihre Patienten tun können, macht die Menschen gesünder. Es gibt immer mehr Stimmen, die sagen, in deutschen Arztpraxen und Krankenhäusern wird zu viel geröntgt und zu viel operiert und es werden zu viele Medikamente verschrieben. Wer krank ist, möchte natürlich vor allem schnell gesund werden  und die bestmögliche Therapie. Doch welche ist das? © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151027.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1445958930/quarks/wdr_fernsehen_quarks_und_co_20151027.mp4" length="170652936" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co.: 20.10.2015, Leben nach dem Wachkoma</title>
+  <link>http://medien.wdr.de/m/1445349484/quarks/wdr_fernsehen_quarks_und_co_20151020.mp4</link>
+  <pubDate>Tue, 20 Oct 2015 15:58:04 +0200</pubDate>
+  <description>Vor gut einem Jahr haben wir bei Quarks &amp; Co zwei Menschen vorgestellt, die durch einen Unfall ins Wachkoma gefallen waren. Johannes und Stefan. Ihr Schicksal und die Geschichten ihrer Familien, die sich um sie kümmern und deren Leben sich seit dem Unfall massiv verändert hat, ließen uns nicht mehr los. Wir wollten wissen, wie es mit ihnen weitergeht und haben beide Familien noch einmal besucht. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151020.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1445349484/quarks/wdr_fernsehen_quarks_und_co_20151020.mp4" length="181389327" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co.: 13.10.2015, Spuren eines Mordes - Was der Tatort verrät. Ein Quarks-Spezial - exklusiv im Netz</title>
+  <link>http://medien.wdr.de/m/1444746892/quarks/wdr_fernsehen_quarks_und_co_20151013.mp4</link>
+  <pubDate>Tue, 13 Oct 2015 16:34:52 +0200</pubDate>
+  <description>Statt Quarks &amp; Co läuft heute Abend ein Tatort. Anlass für uns, noch einmal hinter die Kulissen eines Mordfalls zu schauen: Wie arbeitet eine Mordkommission wirklich, wie gehen Spurensicherung und Profiler vor - und was kann man mit DNA-Analysen nicht nachweisen? Ein echter Mordfall. Unser Gegenprogramm zum Tatort - nur im Netz.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20151013.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1444746892/quarks/wdr_fernsehen_quarks_und_co_20151013.mp4" length="174744357" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co.: 29.09.2015, Brauchen wir noch Jäger?</title>
+  <link>http://medien.wdr.de/m/1443793680/quarks/wdr_fernsehen_quarks_und_co_20150929.mp4</link>
+  <pubDate>Fri, 02 Oct 2015 15:48:00 +0200</pubDate>
+  <description>Jagd ist in! Noch nie gab es in Deutschland so viele Jäger wie heute. Doch Jäger haben nicht gerade den besten Ruf: Viele halten sie für traditionsversessen und blutrünstig. Die Frage ist: Was treibt Jäger wirklich? Und sind sie überhaupt noch zu irgendwas nütze?  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150929.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1443793680/quarks/wdr_fernsehen_quarks_und_co_20150929.mp4" length="170794918" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co.: 22.09.2015, Tierversuche</title>
+  <link>http://medien.wdr.de/m/1443018654/quarks/wdr_fernsehen_quarks_und_co_20150922.mp4</link>
+  <pubDate>Wed, 23 Sep 2015 16:30:54 +0200</pubDate>
+  <description>Tierversuche - die quälende Frage © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150922.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1443018654/quarks/wdr_fernsehen_quarks_und_co_20150922.mp4" length="176021512" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Caspers: 08.09.2015, Hat unser Auto noch Zukunft?</title>
+  <link>http://medien.wdr.de/m/1441719243/quarks/wdr_fernsehen_quarks_und_co_20150908.mp4</link>
+  <pubDate>Tue, 08 Sep 2015 15:34:03 +0200</pubDate>
+  <description>Der Autoverkehr soll sich bis 2050 verdreifachen. Schon heute fahren über 44 Millionen Pkw auf deutschen Straßen. Das bedeutet: Mehr Feinstaub, mehr Lärm und mehr Stau. Doch ein Leben ohne Auto ist für viele Menschen kaum vorstellbar. Elektro-Autos böten sich als Alternative an. Quarks erklärt, warum sie aber kaum jemand haben will. Wenn es nach einigen Wissenschaftlern geht, spielt das eigene Auto zukünftig nur noch eine Nebenrolle: Sie entwerfen lebenswerte Städte, die grüner, sauberer und leiser sind als heute. Außerdem zeigen wir, wie weit die Forschung zu selbstfahrenden Autos wirklich ist. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150908.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1441719243/quarks/wdr_fernsehen_quarks_und_co_20150908.mp4" length="162003708" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Du: 01.09.2015, Versuchskaninchen Mensch</title>
+  <link>http://medien.wdr.de/m/1441123838/quarks/wdr_fernsehen_quarks_und_co_20150901.mp4</link>
+  <pubDate>Tue, 01 Sep 2015 18:10:38 +0200</pubDate>
+  <description>Wir lügen alle, immer und überall: um andere nicht zu verletzen oder um uns selbst in ein besseres Licht zu stellen. Wie leicht lassen sich Menschen zu einer Lüge verleiten? Macht Lügen erfolgreicher? Wollen wir sogar selbst angelogen werden? Wir finden es in Experimenten gemeinsam mit unseren Zuschauern in der zweiten Folge &quot;Quarks &amp; Du&quot; heraus. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150901.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1441123838/quarks/wdr_fernsehen_quarks_und_co_20150901.mp4" length="175187717" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Du: 25.08.2015, Das erste Mal</title>
+  <link>http://medien.wdr.de/m/1442827493/quarks/wdr_fernsehen_quarks_und_co_20150825.mp4</link>
+  <pubDate>Mon, 21 Sep 2015 11:24:53 +0200</pubDate>
+  <description>Der erste Kuss, das erste Mal Sex, der erste Joint - erste Male brennen sich ins Gedächtnis. Warum? Die erste Folge &quot;Quarks&amp;Du&quot; - mit drei alten Damen, die zum ersten Mal kiffen und einem Rassismus-Experiment, das europaweit für Debatten gesorgt hat. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150825.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1442827493/quarks/wdr_fernsehen_quarks_und_co_20150825.mp4" length="180152048" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.08.2015, Street Science</title>
+  <link>http://medien.wdr.de/m/1439810517/quarks/wdr_fernsehen_quarks_und_co_20150818.mp4</link>
+  <pubDate>Mon, 17 Aug 2015 13:21:57 +0200</pubDate>
+  <description>Quarks &amp; Co bringt Wissenschaft auf die Straße und verwickelt ahnungslose Menschen in Experimente: Wie gut sind wir darin Gesichter zu erkennen? Warum fühlen wir uns unwohl, wenn uns fremde Menschen zu nahe kommen? Und warum fällt das Toastbrot immer auf die Marmeladenseite? Die Quarks-Reporter Burkhardt Weiß und Lisa Weitemeier motivieren Passanten, den Dingen selbst auf den Grund zu gehen. Außerdem zeigen sie die besten Filme aus Quarks &amp; Co: Geschichten mit Aha-Effekt zum Weitersagen! © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150818.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1439810517/quarks/wdr_fernsehen_quarks_und_co_20150818.mp4" length="168002564" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 04.08.2015, Die letzte Geschichte des Orang-Utan</title>
+  <link>http://medien.wdr.de/m/1438594445/quarks/wdr_fernsehen_quarks_und_co_20150804.mp4</link>
+  <pubDate>Mon, 03 Aug 2015 11:34:05 +0200</pubDate>
+  <description>Wir alle sind an der Zerstörung des Regenwaldes beteiligt  und damit an der Ausrottung des Orang-Utans. Grund ist der scheinbar ökologische Rohstoff Palmöl, der in vielen Supermarktprodukten steckt. Für die Palmöl-Plantagen wird Regenwald zerstört, es werden Einheimische vertrieben und Orang-Utans abgeschlachtet. Ranga Yogeshwar war auf Sumatra und besuchte die entscheidenden Schauplätze dieses Dramas.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150804.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1438594445/quarks/wdr_fernsehen_quarks_und_co_20150804.mp4" length="181354002" type="video/mp4" />
+</item>
+
+<item>
+  <title>14.07.2015, Bilder, die die Welt verändern</title>
+  <link>http://medien.wdr.de/m/1435765943/quarks/wdr_fernsehen_quarks_und_co_20150714.mp4</link>
+  <pubDate>Wed, 01 Jul 2015 17:52:23 +0200</pubDate>
+  <description>Im vergangenen Jahr begeisterte der deutsche Astronaut Alexander Gerst Millionen Internetnutzer mit eindrucksvollen Bildern der Erde. Satelliten liefern heute Bilder, mit denen wir neue Zusammenhänge erkennen. Und Google Earth verrät sogar Geheimnisse aus dem Krieg zwischen Russland und der Ukraine. Quarks &amp; Co zeigt, welche Details Luft- und Satellitenbilder heute bieten, was die Bilder verraten und welche Orte jeder selbst aus dieser spektakulären Perspektive anschauen kann.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150714.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1435765943/quarks/wdr_fernsehen_quarks_und_co_20150714.mp4" length="174304669" type="video/mp4" />
+</item>
+
+<item>
+  <title>07.07.2015, Die Moden der Medizin</title>
+  <link>http://medien.wdr.de/m/1435920680/quarks/wdr_fernsehen_quarks_und_co_20150707.mp4</link>
+  <pubDate>Fri, 03 Jul 2015 12:51:20 +0200</pubDate>
+  <description>Ratschläge für die Gesundheit sind oft nur Wahrheiten mit Verfallsdatum! Medizinische Erkenntnisse und Therapien von gestern können heute längst überholt sein. Doch viele Gesundheits-Tipps und Behandlungsmethoden halten sich beständig, obwohl medizinisch wenig dahinter steckt  aus Unkenntnis oder Profitgier. Egal, ob es um die Behandlung von Rückenschmerzen, Ernährungstipps als Schutz vor Herzinfarkt oder Eingriffe am Knie oder Mandel-Operationen bei Kindern geht: Was gestern die Top-Therapie war, kann heute schon veraltet sein.   © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150707.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1435920680/quarks/wdr_fernsehen_quarks_und_co_20150707.mp4" length="173379778" type="video/mp4" />
+</item>
+
+<item>
+  <title>30.06.2015, Biss aufs Blut</title>
+  <link>http://medien.wdr.de/m/1435330840/quarks/wdr_fernsehen_quarks_und_co_20150630.mp4</link>
+  <pubDate>Fri, 26 Jun 2015 17:00:40 +0200</pubDate>
+  <description>Sie können uns sehen, riechen, schmecken und Menschen sogar über die Hauttemperatur erspüren. Ihr Ziel: unser Blut, das sie für die Entwicklung ihrer Eier brauchen. Mücken sind lästig, aber sie können auch gefährlich sein und tödliche Krankheiten wie Malaria und das Dengue-Fieber übertragen.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150630.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1435330840/quarks/wdr_fernsehen_quarks_und_co_20150630.mp4" length="173235640" type="video/mp4" />
+</item>
+
+<item>
+  <title>23.06.2015, Was Männer schon immer über Menstruation wissen wollten!</title>
+  <link>http://medien.wdr.de/m/1434978480/quarks/wdr_fernsehen_quarks_und_co_20150623.mp4</link>
+  <pubDate>Mon, 22 Jun 2015 15:08:00 +0200</pubDate>
+  <description>100 Millionen Liter Blut fließen jeden Monat ganz ohne Kampf und Verletzung. Zwei Milliarden Menschen sind betroffen. Trotzdem herrschen vor allem bei Männern Unwissen, Mythen und Vorurteile, wenn es um das Thema Menstruation geht.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150623.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1434978480/quarks/wdr_fernsehen_quarks_und_co_20150623.mp4" length="169413856" type="video/mp4" />
+</item>
+
+<item>
+  <title>16.06.2015, Fisch - 7 Dinge, auf die Sie achten sollten!</title>
+  <link>http://medien.wdr.de/m/1434441502/quarks/wdr_fernsehen_quarks_und_co_20150616.mp4</link>
+  <pubDate>Tue, 16 Jun 2015 09:58:22 +0200</pubDate>
+  <description>Fisch ist ein besonderes Lebensmittel: Er ist nicht lange haltbar und wird bei falscher Zubereitung schnell labberig. Und doch essen wir ihn oft und gerne. Denn Fisch gilt als gesund. Aber ist Fisch wirklich so  unverzichtbar für unsere Ernährung? Und ist Tiefkühlfisch eine gute Wahl, denn im Gefrierfisch könnte mehr Wasser stecken, als drin sein sollte.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150616.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1434441502/quarks/wdr_fernsehen_quarks_und_co_20150616.mp4" length="174000955" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.06.2015, Unter die Haut</title>
+  <link>http://medien.wdr.de/m/1434451324/quarks/wdr_fernsehen_quarks_und_co_20150608.mp4</link>
+  <pubDate>Tue, 16 Jun 2015 12:42:04 +0200</pubDate>
+  <description>Ein Tattoo gilt manchen als verrucht, für andere ist es eine Kunstform. Fakt ist: Über sechs Millionen Menschen in Deutschland tragen eins auf der Haut. Damit folgen sie einer jahrtausendealten Tradition. Forscher warnen jedoch: Über mögliche Gesundheitsgefahren ist kaum etwas bekannt. Und die Tattoo-Entfernung ist immer noch schwierig.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150608.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1434451324/quarks/wdr_fernsehen_quarks_und_co_20150608.mp4" length="171382831" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 02.06.2015, Zwillinge - 7 Dinge, die wir von ihnen lernen können</title>
+  <link>http://medien.wdr.de/m/1433320660/quarks/wdr_fernsehen_quarks_und_co_20150602.mp4</link>
+  <pubDate>Wed, 03 Jun 2015 10:37:40 +0200</pubDate>
+  <description>Eineiige Zwillinge üben eine besondere Faszination auf uns aus. Sie sehen sich zum Verwechseln ähnlich, denn sie besitzen die gleichen Gene. Genau das macht sie zu einem Glücksfall für die Forschung. Zwillingsstudien geben Antworten auf die Frage, was einen zu dem macht, der man ist. Quarks stellt außerdem Gesichtserkennung, Irisscanner &amp; Co auf den Prüfstand und fragt: Können eineiige Zwillinge biometrische Verfahren überlisten? © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150602.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1433320660/quarks/wdr_fernsehen_quarks_und_co_20150602.mp4" length="171791182" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 26.05.2015, Auf Teilchenjagd   Ranga Yogeshwar am CERN</title>
+  <link>http://medien.wdr.de/m/1432679728/quarks/wdr_fernsehen_quarks_und_co_20150526.mp4</link>
+  <pubDate>Wed, 27 May 2015 00:35:28 +0200</pubDate>
+  <description>Wie ist die Welt entstanden? Was hält sie zusammen? Und woraus besteht unsere Materie? Forscher am Kernforschungszentrum CERN suchen nach den Antworten. Einst hat Ranga Yogeshwar selbst als Teilchenphysiker am CERN gearbeitet; jetzt kehrt er zurück und stellt die größte Maschine der Welt vor. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150526.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1432679728/quarks/wdr_fernsehen_quarks_und_co_20150526.mp4" length="176227231" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 05.05.2015, Unser Körper - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1430901293/quarks/wdr_fernsehen_quarks_und_co_20150505.mp4</link>
+  <pubDate>Wed, 06 May 2015 10:34:53 +0200</pubDate>
+  <description>Ralph Caspers erforscht unseren Körper und will herausfinden, wie dieser funktioniert. Dabei erfahren Sie auch, was so alles auf seinem Körper lebt und wie er in 1.000 Jahren aussehen wird. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150505.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1430901293/quarks/wdr_fernsehen_quarks_und_co_20150505.mp4" length="175215058" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.05.2015, Evolution  7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1433091005/quarks/wdr_fernsehen_quarks_und_co_20150519.mp4</link>
+  <pubDate>Sun, 31 May 2015 18:50:05 +0200</pubDate>
+  <description>Ralph Caspers begibt sich auf die Spuren des Lebens und will herausfinden, wie es entstanden ist. Dabei erfahren Sie, ob er mit einer Maus verwandt ist oder mit einem Kohlkopf. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150519.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1433091005/quarks/wdr_fernsehen_quarks_und_co_20150519.mp4" length="152525414" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 21.04.2015,Todkrank - wem hilft die Sterbehilfe?</title>
+  <link>http://medien.wdr.de/m/1429026867/quarks/wdr_fernsehen_quarks_und_co_20150421.mp4</link>
+  <pubDate>Tue, 14 Apr 2015 17:54:27 +0200</pubDate>
+  <description>Laut Meinungsumfragen würden über siebzig Prozent der Deutschen gerne selbst über den eigenen Tod, seinen Zeitpunkt und seine Begleitumstände entscheiden  und beim Sterben die Hilfe eines Arztes in Anspruch nehmen. Doch in Deutschland ist aktive Sterbehilfe verboten. Welche Vorstellungen stehen hinter dem Wunsch nach Sterbehilfe?  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150421.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1429026867/quarks/wdr_fernsehen_quarks_und_co_20150421.mp4" length="177601226" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 14.04.2015, Die Wahrheit über Vitamine</title>
+  <link>http://medien.wdr.de/m/1429022400/quarks/wdr_fernsehen_quarks_und_co_20150414.mp4</link>
+  <pubDate>Tue, 14 Apr 2015 16:40:00 +0200</pubDate>
+  <description>Vitamine gelten als wahre Wunderstoffe: Sie sollen leistungsfähiger machen, gegen Müdigkeit und Abgeschlagenheit helfen, vor Krankheiten schützen und das Altern aufhalten. Viele Menschen greifen deshalb zu Vitamin-Präparaten. Doch die Produkte sind umstritten. Wissenschaftler warnen: Vitamin-Pillen und Brausetabletten sind meist überflüssig und manchmal sogar schädlich. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150414.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1429022400/quarks/wdr_fernsehen_quarks_und_co_20150414.mp4" length="180776576" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.04.2015, Zucker  7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1428414252/quarks/wdr_fernsehen_quarks_und_co_20150407.mp4</link>
+  <pubDate>Tue, 07 Apr 2015 15:44:12 +0200</pubDate>
+  <description>Ein Leben ohne Zucker ist fast unmöglich - im Schnitt vertilgt jeder von uns 35 Kilogramm davon im Jahr! Quarks &amp; Caspers erklärt, warum Zucker für viele so unwiderstehlich ist, wo er unauffällig versteckt wird und wie wir schon von klein auf mit ausgeklügelten Marketingstrategien an Süßes gewöhnt werden  - obwohl Zucker im Verdacht steht, dick und krank zu machen.   © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150407.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1428414252/quarks/wdr_fernsehen_quarks_und_co_20150407.mp4" length="175945583" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 31.03.2015, Von Bauern und Kühen - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1427813310/quarks/wdr_fernsehen_quarks_und_co_20150331.mp4</link>
+  <pubDate>Tue, 31 Mar 2015 16:48:30 +0200</pubDate>
+  <description>Vor einem Jahr hatte Quarks &amp; Co mit einem satirischen Comic über die Rinderhaltung in Deutschland Bauernverbände und viele Landwirte empört. Jetzt widmen wir den Beteiligten eine eigene Sendung und zeigen den Spagat, den Michbauern leisten müssen, wenn ihnen auch das Wohl der Tiere am Herzen liegt.   © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150331.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1427813310/quarks/wdr_fernsehen_quarks_und_co_20150331.mp4" length="169200929" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 17.03.2015, Wurst ist was drin ist</title>
+  <link>http://medien.wdr.de/m/1426517517/quarks/wdr_fernsehen_quarks_und_co_20150317.mp4</link>
+  <pubDate>Mon, 16 Mar 2015 15:51:57 +0100</pubDate>
+  <description>Die Deutschen sind Wurstweltmeister: Rund 1.500 verschiedene Wurstsorten gibt es hierzulande. Pro Jahr isst jeder Deutsche knapp 30 Kilogramm. Warum schmeckt uns Wurst so gut und wie gesund ist sie? Schließlich ist es alles andere als &quot;wurst&quot;, was in diesem Lebensmittel steckt. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150317.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1426517517/quarks/wdr_fernsehen_quarks_und_co_20150317.mp4" length="175179763" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.03.2015, Fukushima  Ende nicht in Sicht</title>
+  <link>http://medien.wdr.de/m/1426781838/quarks/wdr_fernsehen_quarks_und_co_20150310.mp4</link>
+  <pubDate>Thu, 19 Mar 2015 17:17:18 +0100</pubDate>
+  <description>Auch vier Jahre nach der Reaktorkatastrophe im Atomkraftwerk Fukushima Daiichi arbeiten die Japaner unentwegt daran, die Folgen des Unglücks in den Griff zu bekommen. Quarks &amp; Co hat nach der Katastrophe die Menschen in Fukushima besucht und zeigt, mit welchen medizinischen, technischen und menschlichen Herausforderungen sie im Sperrgebiet und darüber hinaus bis heute zu kämpfen haben.  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150310.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1426781838/quarks/wdr_fernsehen_quarks_und_co_20150310.mp4" length="169036004" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.03.2015, Alles unverträglich? Wenn Lebensmittel krank machen</title>
+  <link>http://medien.wdr.de/m/1425393281/quarks/wdr_fernsehen_quarks_und_co_20150303.mp4</link>
+  <pubDate>Tue, 03 Mar 2015 15:34:41 +0100</pubDate>
+  <description>Viele Menschen glauben, Nahrungsmittel mit Gluten, Laktose oder Fruktose machten sie krank. Doch tatsächlich leiden weniger Menschen an einer echten Nahrungsmittelunverträglichkeit als sie meinen. Doch die Beschwerden der Betroffenen sind real: wie Bauchweh, Durchfall oder Übelkeit. Was also steckt dahinter? Die Nahrungsmittelindustrie jedenfalls hat einen neuen Markt gefunden und bietet vermehrt Produkte ohne Gluten &amp; Co an  mit traumhaften Wachstumsquoten. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150303.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1425393281/quarks/wdr_fernsehen_quarks_und_co_20150303.mp4" length="161525107" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.02.2015, Quarks &amp; Caspers: Vegetarier - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1424782560/quarks/wdr_fernsehen_quarks_und_co_20150224.mp4</link>
+  <pubDate>Tue, 24 Feb 2015 13:56:00 +0100</pubDate>
+  <description>Quarks &amp; Caspers: In Deutschland entscheiden sich immer mehr Menschen Vegetarier zu werden. Doch nicht alle Vegetarier sind gleich und essen dasselbe.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150224.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1424782560/quarks/wdr_fernsehen_quarks_und_co_20150224.mp4" length="175768767" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.02.2015, Quarks &amp; Caspers: Sand - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1441034605/quarks/wdr_fernsehen_quarks_und_co_20150210.mp4</link>
+  <pubDate>Mon, 31 Aug 2015 17:23:25 +0200</pubDate>
+  <description>Sand gibt es wie Sand am Meer  aber wie lange noch? Schon heute ist Sand in einigen Ländern knapp  dort wird er teilweise zur Schmuggelware. Quarks begibt sich auf Spurensuche und zeigt die sieben wichtigsten Dinge, die man über diesen besonderen Rohstoff wissen sollte.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150210.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1441034605/quarks/wdr_fernsehen_quarks_und_co_20150210.mp4" length="169053686" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.02.2015, Arbeiten im Team</title>
+  <link>http://medien.wdr.de/m/1423060231/quarks/wdr_fernsehen_quarks_und_co_20150203.mp4</link>
+  <pubDate>Wed, 04 Feb 2015 15:30:31 +0100</pubDate>
+  <description>Teamarbeit ist angesagt  durch Meetings, Brainstorming und Großraumbüros sollen Mitarbeiter noch kreativer und produktiver werden. Manchmal gehen Einzelne aber auch im Team unter und bei anderen schleicht sich das &quot;soziale Faulenzen&quot; ein. Wenn ein Team scheitert, kann das sogar zu Katastrophen führen. Quarks &amp; Co durchleuchtet Stärken und Schwächen von Teams - im Büro, im Cockpit und beim Fußball. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150203.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1423060231/quarks/wdr_fernsehen_quarks_und_co_20150203.mp4" length="170956003" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.01.2015, Erkältung - 7 Dinge, die Sie wissen sollten!</title>
+  <link>http://medien.wdr.de/m/1422381886/quarks/wdr_fernsehen_quarks_und_co_20150127.mp4</link>
+  <pubDate>Tue, 27 Jan 2015 19:04:46 +0100</pubDate>
+  <description>Seit Urzeiten wird die Menschheit von Erkältungen geplagt. Warum erkälten wir uns immer wieder neu? Haben Erkältungen womöglich sogar einen Nutzen? Quarks &amp; Caspers über die Krankheit, die jeden trifft! © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150127.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1422381886/quarks/wdr_fernsehen_quarks_und_co_20150127.mp4" length="176094614" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 20.01.2015, Welche Zukunft hat die bemannte Raumfahrt?</title>
+  <link>http://medien.wdr.de/m/1421928236/quarks/wdr_fernsehen_quarks_und_co_20150120.mp4</link>
+  <pubDate>Thu, 22 Jan 2015 13:03:56 +0100</pubDate>
+  <description>Mehr als fünf Monate lebte Alexander Gerst im Weltall auf der ISS. Wie verändert einen Menschen solch eine Weltraumerfahrung? Brauchen wir die bemannte Raumfahrt überhaupt? © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150120.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1421928236/quarks/wdr_fernsehen_quarks_und_co_20150120.mp4" length="174850309" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 13.01.2015, Schicht im Schacht</title>
+  <link>http://medien.wdr.de/m/1421148452/quarks/wdr_fernsehen_quarks_und_co_20150113.mp4</link>
+  <pubDate>Tue, 13 Jan 2015 12:27:32 +0100</pubDate>
+  <description>100 Jahre wurde im Bergwerk West in Kamp-Lintfort Kohle gefördert. Danach war Schluss - das Bergwerk West ist geschlossen! Quarks &amp; Co begleitete die Kumpels bei ihrer letzten Förderschicht und bei der Abwicklung ihres Bergwerks; Ranga Yogeshwar betrachtet dabei auch die Geschichte und die Entwicklung des Ruhrgebiets und wagt einen Blick in die Zukunft der ehemaligen Industrieregion. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150113.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1421148452/quarks/wdr_fernsehen_quarks_und_co_20150113.mp4" length="156806776" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.01.2015, Hormone</title>
+  <link>http://medien.wdr.de/m/1420562885/quarks/wdr_fernsehen_quarks_und_co_20150106.mp4</link>
+  <pubDate>Tue, 06 Jan 2015 17:48:05 +0100</pubDate>
+  <description>Ohne Hormone geht nichts. Rund 100 chemische Botenstoffe steuern uns ein Leben lang, und ihr Einfluss beginnt schon beim ungeborenen Baby. Hormone bestimmen, ob wir hungrig, satt, gestresst, aktiv oder müde sind. Quarks erklärt sieben erstaunliche Dinge über Hormone und zeigt, was passiert, wenn sie aus dem Gleichgewicht geraten. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20150106.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1420562885/quarks/wdr_fernsehen_quarks_und_co_20150106.mp4" length="156622589" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 09.12.2014, Ebola!</title>
+  <link>http://medien.wdr.de/m/1418145848/quarks/wdr_fernsehen_quarks_und_co_20141209.mp4</link>
+  <pubDate>Tue, 09 Dec 2014 18:24:08 +0100</pubDate>
+  <description>Die Welt fürchtet ein Virus. Anfang 2014 nahm die Katastrophe in Guinea ihren Anfang. Inzwischen wütet die Epidemie in mehreren Ländern West-Afrikas und die Ausbreitung des Virus´ ist noch immer nicht gestoppt. Ebola hat schon jetzt rund 17.000 Menschen infiziert und mehr als 6.000 Menschen getötet. Warum ist dieses Virus für uns Menschen so gefährlich? Und wie gut sind wir in Deutschland auf Ebola vorbereitet?  © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141209.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1418145848/quarks/wdr_fernsehen_quarks_und_co_20141209.mp4" length="173716530" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 02.12.2014, Kiffen - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1417551381/quarks/wdr_fernsehen_quarks_und_co_20141202.mp4</link>
+  <pubDate>Tue, 02 Dec 2014 21:16:21 +0100</pubDate>
+  <description>Fast ein Viertel aller Deutschen hat schon mal gekifft, meistens um zu entspannen. Cannabis lindert sogar die Beschwerden einiger Krankheiten. Weil es unser Gehirn massiv beeinflusst, wird es manchmal aber auch zur Gefahr. Quarks zeigt, wem Cannabis helfen kann, wie die Droge unseren Hirnstoffwechsel manipuliert, wann sie gefährlich wird und was für und gegen eine Legalisierung spricht.  ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141202.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1417551381/quarks/wdr_fernsehen_quarks_und_co_20141202.mp4" length="172677597" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 25.11.2014, Macht wissen krank? Vom Volk der Hypochonder</title>
+  <link>http://medien.wdr.de/m/1416925965/quarks/wdr_fernsehen_quarks_und_co_20141125.mp4</link>
+  <pubDate>Tue, 25 Nov 2014 15:32:45 +0100</pubDate>
+  <description>Viele Menschen sorgen sich ständig um ihre Gesundheit, gehen mehrfach im Quartal zum Arzt, lassen kein Früherkennungsprogramm aus und überwachen selbst täglich Blutdruck, Puls, Schlafdauer &amp; Co.  Doch was befeuert unsere Angst vor Krankheit in Zeiten bester medizinischer Versorgung? Sind wir eine Gesellschaft von Hypochondern? ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141125.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1416925965/quarks/wdr_fernsehen_quarks_und_co_20141125.mp4" length="181287427" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.11.2014, Ich bin doch noch da!</title>
+  <link>http://medien.wdr.de/m/1416329947/quarks/wdr_fernsehen_quarks_und_co_20141118.mp4</link>
+  <pubDate>Tue, 18 Nov 2014 17:59:07 +0100</pubDate>
+  <description>Es kann jeden treffen - ein unglücklicher Sturz oder ein schwerer Unfall. Diagnose: Wachkoma. Doch Studien zeigen, dass 30 bis 40 Prozent dieser Diagnosen falsch sind. Diese Menschen haben noch Reste von Bewusstsein, sind also gar keine Wachkomapatienten! ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141118.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1416329947/quarks/wdr_fernsehen_quarks_und_co_20141118.mp4" length="175764238" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 04.11.2014, Kommt das Leben aus dem All?</title>
+  <link>http://medien.wdr.de/m/1415127663/quarks/wdr_fernsehen_quarks_und_co_20141104.mp4</link>
+  <pubDate>Tue, 04 Nov 2014 20:01:03 +0100</pubDate>
+  <description>Wie ist das Leben auf die Erde gekommen? Möglicherweise aus dem Weltall? Denn auf Kometen, die auf die Erde stürzten, hat man Spuren organischer Verbindungen gefunden. Die Europäische Raumfahrtagentur ESA will dieser Frage ein Stück näherkommen und hat 2004 Rosetta ins All geschickt. In Kürze soll sie, als erste Raumsonde überhaupt, auf einem Kometen landen und dort nach Spuren des Lebens suchen. Quarks &amp; Co begleitet Rosetta auf ihrer abenteuerlichen Reise. ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141104.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1415127663/quarks/wdr_fernsehen_quarks_und_co_20141104.mp4" length="168436446" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 28.10.2014, Die Eifel</title>
+  <link>http://medien.wdr.de/m/1414501620/quarks/wdr_fernsehen_quarks_und_co_20141028.mp4</link>
+  <pubDate>Tue, 28 Oct 2014 14:07:00 +0100</pubDate>
+  <description>Unter der Eifel brodelt es: Zum letzten Mal ist in diesem Mittelgebirge vor 13.000 Jahren ein Vulkan ausgebrochen. Ist die Gefahr endgültig gebannt? Quarks &amp; Co ist den Geheimnissen der Eifel auf der Spur, testet die berühmten Mineralwässer der Region und begleitet ein Jahr lang einen Ranger durch den einzigen Nationalpark von Nordrhein-Westfalen. ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141028.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1414501620/quarks/wdr_fernsehen_quarks_und_co_20141028.mp4" length="170323950" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 21.10.2014, Das Pferd - 7 Dinge, die sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1415804170/quarks/wdr_fernsehen_quarks_und_co_20141021.mp4</link>
+  <pubDate>Wed, 12 Nov 2014 15:56:10 +0100</pubDate>
+  <description>Wir sind Pferdeweltmeister! Wir Deutsche sind rekordverdächtig vernarrt in Pferde, kein anderes Land auf der Welt ist so erfolgreich in Pferdesport und Pferdezucht wie wir. Pferde faszinieren Millionen  und bringen Milliarden. Quarks &amp; Caspers blickt hinter die Kulissen der vermeintlich heilen Pferdewelt, zeigt, warum das Pferd das wichtigste Tier der Menschheitsgeschichte ist und was die Pferde eigentlich vom Pferdesport halten.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141021.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1415804170/quarks/wdr_fernsehen_quarks_und_co_20141021.mp4" length="181813763" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.10.2014, Heimliche Herrscher - die wundersame Welt der Pilze</title>
+  <link>http://medien.wdr.de/m/1412666460/quarks/wdr_fernsehen_quarks_und_co_20141007.mp4</link>
+  <pubDate>Tue, 07 Oct 2014 09:21:00 +0200</pubDate>
+  <description>Pilze sind weder Tier noch Pflanze, sie können töten und Leben retten. Noch wissen wir viel zu wenig über diese Lebensform  dabei wäre unsere Welt ohne sie nicht dieselbe. Ohne, dass wir es wirklich erahnen, sind Pilze heimliche Herrscher, die im Verborgenen wirken. ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20141007.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1412666460/quarks/wdr_fernsehen_quarks_und_co_20141007.mp4" length="171505679" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 30.09.2014, Geld regiert - regieren wir mit?</title>
+  <link>http://medien.wdr.de/m/1413886560/quarks/wdr_fernsehen_quarks_und_co_20140930.mp4</link>
+  <pubDate>Tue, 21 Oct 2014 12:16:00 +0200</pubDate>
+  <description>Die &quot;Superreichen&quot; werden immer zahlreicher, in Deutschland und auf der ganzen Welt. Quarks &amp; Co begibt sich auf die Spur des großen Geldes. Was macht Geld mit uns - und welche Macht verleiht es? ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140930.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1413886560/quarks/wdr_fernsehen_quarks_und_co_20140930.mp4" length="182470424" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 23.09.2014, Alles unverträglich? Wenn Lebensmittel krank machen</title>
+  <link>http://medien.wdr.de/m/1411503962/quarks/wdr_fernsehen_quarks_und_co_20140923.mp4</link>
+  <pubDate>Tue, 23 Sep 2014 22:26:02 +0200</pubDate>
+  <description>Viele Menschen glauben, Nahrungsmittel mit Gluten, Laktose oder Fruktose machten sie krank. Doch tatsächlich leiden weniger Menschen an einer echten Nahrungsmittelunverträglichkeit als sie meinen. Doch die Beschwerden der Betroffenen sind real: wie Bauchweh, Durchfall oder Übelkeit. Was also steckt dahinter? Die Nahrungsmittelindustrie jedenfalls hat einen neuen Markt gefunden und bietet vermehrt Produkte ohne Gluten &amp; Co an  mit traumhaften Wachstumsquoten.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140923.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1411503962/quarks/wdr_fernsehen_quarks_und_co_20140923.mp4" length="203582457" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 16.09.2014, Die letzte Geschichte des Orang-Utan</title>
+  <link>http://medien.wdr.de/m/1410897946/quarks/wdr_fernsehen_quarks_und_co_20140916.mp4</link>
+  <pubDate>Tue, 16 Sep 2014 22:05:46 +0200</pubDate>
+  <description>Wir alle sind an der Zerstörung des Regenwaldes beteiligt  und damit an der Ausrottung des Orang-Utans. Grund ist der scheinbar ökologische Rohstoff Palmöl, der in vielen Supermarktprodukten steckt. Für die Palmöl-Plantagen wird Regenwald zerstört, es werden Einheimische vertrieben und Orang-Utans abgeschlachtet. Ranga Yogeshwar war auf Sumatra und besuchte die entscheidenden Schauplätze dieses Dramas.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140916.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1410897946/quarks/wdr_fernsehen_quarks_und_co_20140916.mp4" length="181354002" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 09.09.2014, Edelschimmel und Scheibletten - Die Wissenschaft vom Käse</title>
+  <link>http://medien.wdr.de/m/1410294197/quarks/wdr_fernsehen_quarks_und_co_20140909.mp4</link>
+  <pubDate>Tue, 09 Sep 2014 22:23:17 +0200</pubDate>
+  <description>Quarks &amp; Co zeigt, dass Käse weit mehr ist als ein alltägliches Lebensmittel: Dahinter steckt eine Kunst - die Kunst des Erfindens, des Herstellens und des Genießens. Außerdem begibt sich Quarks &amp; Co auf die Suche nach dem mysteriösen Löcher-Schwund im Schweizer Käse und hat Antworten auf folgende Fragen: Was ist der Unterschied zwischen gutem und schlechtem Schimmel? Wie gut ist künstlicher Käse aus Pflanzenfett? Kann man mit Käse tatsächlich Mäuse fangen? Und was haben Käsefüße mit Käse zu tun? Schließlich macht Quarks &amp; Co den großen Geruchs-Test: Warum essen Menschen mit Vergnügen etwas, was so schlecht riecht?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140909.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1410294197/quarks/wdr_fernsehen_quarks_und_co_20140909.mp4" length="182023917" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 02.09.2014, Die Macht der Stimme</title>
+  <link>http://medien.wdr.de/m/1409692743/quarks/wdr_fernsehen_quarks_und_co_20140902.mp4</link>
+  <pubDate>Tue, 02 Sep 2014 23:19:03 +0200</pubDate>
+  <description>Unsere Stimme kann verführen, beschwichtigen und einschüchtern und verrät weit mehr über uns, als uns bewusst ist. Und sie ist ein mächtiges Instrument  wenn wir es beherrschen. Doch viel zu oft bleibt das Potenzial unserer Stimme ungenutzt. Schlimmer noch: Falsche Atmung und schlechte Angewohnheiten setzen der Stimme auf Dauer zu.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140902.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1409692743/quarks/wdr_fernsehen_quarks_und_co_20140902.mp4" length="174189126" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 26.08.2014, Wem nützt Krebsvorsorge?</title>
+  <link>http://medien.wdr.de/m/1409084673/quarks/wdr_fernsehen_quarks_und_co_20140826.mp4</link>
+  <pubDate>Tue, 26 Aug 2014 22:24:33 +0200</pubDate>
+  <description>Unzählige Zellen leisten täglich ihre Arbeit in unserem Körper. Doch Krebszellen sind anders: Sie sind auf Chaos programmiert und verdrängen andere Zellen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140826.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1409084673/quarks/wdr_fernsehen_quarks_und_co_20140826.mp4" length="194781436" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.08.2014, Allein gegen den Wind</title>
+  <link>http://medien.wdr.de/m/1408475742/quarks/wdr_fernsehen_quarks_und_co_20140819.mp4</link>
+  <pubDate>Tue, 19 Aug 2014 21:15:42 +0200</pubDate>
+  <description>Wilfried Erdmann sucht das Abenteuer. Mit seinem Segelboot  der &quot;Kathena Nui&quot;  hat der Extremsegler mehrfach die Welt umrundet  allein und nonstop. Bei Ranga Yogeshwar erzählt er von seinen außergewöhnlichen Törns und was er dabei fürs Leben gelernt hat.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140819.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1408475742/quarks/wdr_fernsehen_quarks_und_co_20140819.mp4" length="137624721" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 12.08.2014, Demenz - wie wir uns vergessen und was wir dagegen tun können</title>
+  <link>http://medien.wdr.de/m/1407870342/quarks/wdr_fernsehen_quarks_und_co_20140812.mp4</link>
+  <pubDate>Tue, 12 Aug 2014 21:05:42 +0200</pubDate>
+  <description>In Deutschland leben 1,4 Millionen Menschen mit einer Demenz. Die Sendung geht u.a. der Frage nach, was eine Demenz ist und wie sie ausgelöst wird. Denn auch nach Jahrzenten der Forschung ist bis heute unklar, wie die Alzheimer-Erkrankung, die für zwei Drittel aller Demenzfälle verantwortlich gemacht wird, entsteht.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140812.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1407870342/quarks/wdr_fernsehen_quarks_und_co_20140812.mp4" length="200828165" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 05.08.2014, Das Huhn</title>
+  <link>http://medien.wdr.de/m/1407266841/quarks/wdr_fernsehen_quarks_und_co_20140805.mp4</link>
+  <pubDate>Tue, 05 Aug 2014 21:27:21 +0200</pubDate>
+  <description>Das dumme Huhn ist gar nicht dumm. Im Gegenteil: Es hat mathematische Fähigkeiten, besitzt Empathie und ist ein geschickter Jäger. Wir Menschen lieben Hühner vor allem als Eier- und Fleischlieferant. Aber um welchen Preis? Quarks Co stellt das Huhn in all seinen Facetten vor und macht sich auf die Suche nach glücklichen Hennen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140805.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1407266841/quarks/wdr_fernsehen_quarks_und_co_20140805.mp4" length="209044238" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.07.2014, Quarks &amp; Co: 7 Dinge, die Sie über Ihr Gehirn wissen sollten</title>
+  <link>http://medien.wdr.de/m/1406664429/quarks/wdr_fernsehen_quarks_und_co_20140729.mp4</link>
+  <pubDate>Tue, 29 Jul 2014 22:07:09 +0200</pubDate>
+  <description>Nutzen wir nur 10 Prozent unseres Gehirns? Wie kann man seine geistige Leistungsfähigkeit auch im Alter erhalten und was lernen Hirnforscher von Taschendieben? Quarks &amp; Caspers zeigt die wunderbare und geheimnisvolle Welt unserer Denkmaschine.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140729.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1406664429/quarks/wdr_fernsehen_quarks_und_co_20140729.mp4" length="179842557" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.07.2014, Die Kunst der Ingenieure - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1406056110/quarks/wdr_fernsehen_quarks_und_co_20140722.mp4</link>
+  <pubDate>Tue, 22 Jul 2014 21:08:30 +0200</pubDate>
+  <description>Wissen Sie, was wir der Dampfkraft verdanken, wie hoch wir bauen können und wann wir auf den Mars umziehen könnten? Der Spieltrieb der Ingenieure hat schon immer den technischen Fortschritt angetrieben. Ein alter Grieche baute die erste Dampfmaschine und heute, 2.000 Jahre und eine industrielle Revolution später, gelang es deutschen Forschern, sie auf das Dreißigstel eines Haardurchmessers zu schrumpfen. Was sie damit genau anfangen können, wissen die Ingenieure noch nicht - die Bedeutung von technischen Neuentwicklungen wird oft sehr viel später erkannt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140722.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1406056110/quarks/wdr_fernsehen_quarks_und_co_20140722.mp4" length="199928593" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Caspers: 15.07.2014, 7 Dinge, die Sie über Geschwindigkeit wissen sollten</title>
+  <link>http://medien.wdr.de/m/1405451583/quarks/wdr_fernsehen_quarks_und_co_20140715.mp4</link>
+  <pubDate>Tue, 15 Jul 2014 21:13:03 +0200</pubDate>
+  <description>Wer weiß schon, dass man die Schallmauer - mit einer Peitsche - ganz alleine durchbrechen kann? Dass man mit einer Art Schwerkraftexpress jeden Ort der Welt theoretisch in 42 Minuten erreichen könnte und dass Forscher zum ersten Mal die Lichtgeschwindigkeit gefilmt haben? In &quot;Quarks und Caspers - 7 Dinge, die Sie über Geschwindigkeit wissen sollten&quot; reist Ralph Caspers durch die wunderbare Welt der Geschwindigkeit.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140715.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1405451583/quarks/wdr_fernsehen_quarks_und_co_20140715.mp4" length="196645370" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.07.2014, Wie die Zeit vergeht</title>
+  <link>http://medien.wdr.de/m/1404843084/quarks/wdr_fernsehen_quarks_und_co_20140708.mp4</link>
+  <pubDate>Tue, 08 Jul 2014 20:11:24 +0200</pubDate>
+  <description>Wir leben immer länger - und leiden trotzdem unter ständiger Zeitnot. Woran liegt das? Warum vergeht Zeit für uns oft so schnell, manchmal aber auch quälend langsam? Quarks &amp; Co untersucht das menschliche Zeitempfinden im Gehirn, zeigt Methoden des Zeitmanagements und erklärt, warum in unserer Welt alles immer schneller geht: das Wichtigste zum Thema Zeit - in nur 2600 Sekunden!; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140708.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1404843084/quarks/wdr_fernsehen_quarks_und_co_20140708.mp4" length="173323404" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 01.07.2014, Quarks &amp; Co: Batman oder Dracula? - Die Wahrheit über die Fledermaus</title>
+  <link>http://medien.wdr.de/m/1404243357/quarks/wdr_fernsehen_quarks_und_co_20140701.mp4</link>
+  <pubDate>Tue, 01 Jul 2014 21:35:57 +0200</pubDate>
+  <description>Graf Dracula kann sich in eine Fledermaus verwandeln und davonfliegen - das prägt das gruselige Bild der Fledermaus bis heute. Aber wieso wurde das für Menschen eigentlich harmlose Tier so verkannt? Quarks &amp; Co forscht in den Mythen vergangener Jahrhunderte.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140701.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1404243357/quarks/wdr_fernsehen_quarks_und_co_20140701.mp4" length="202609431" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.06.2014, Wie verrückt ist noch normal? Wenn das Gehirn anders tickt</title>
+  <link>http://medien.wdr.de/m/1403638512/quarks/wdr_fernsehen_quarks_und_co_20140624.mp4</link>
+  <pubDate>Tue, 24 Jun 2014 21:35:12 +0200</pubDate>
+  <description>In unserer Gesellschaft scheinen viele Menschen mit anderen Mitmenschen nicht zurecht zu kommen, weil sie anders ticken, eben nicht #normal# sind. Doch was ist eigentlich normal und wer entscheidet, was die Norm ist, was psychische Krankheit? Klar ist: Die Grenze verläuft fließend, der Graubereich ist riesig. Die Kriterien für die Diagnose psychischer Störungen sind in einem Standwerk aufgeführt, das mit jeder Neuauflage umfangreicher wird. Erst 2013 wurden wieder neue Krankheitsbilder hinzugefügt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140624.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1403638512/quarks/wdr_fernsehen_quarks_und_co_20140624.mp4" length="198045864" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.06.2014, Organspende - auf Leben und Tod</title>
+  <link>http://medien.wdr.de/m/1402428467/quarks/wdr_fernsehen_quarks_und_co_20140610.mp4</link>
+  <pubDate>Tue, 10 Jun 2014 21:27:47 +0200</pubDate>
+  <description>Das eigene Herz verschenken? Ganz wörtlich? Alle Versicherten bekommen neuerdings von ihren Krankenkassen Organspender-Ausweise zugeschickt, mit der Aufforderung: Entscheiden Sie sich! Doch was bedeutet es, wenn man tatsächlich ein &quot;Ja&quot; ankreuzt? Ranga Yogeshwar erklärt in &quot;Quarks Co&quot;, was man zum Thema Organspende wissen sollte.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140610.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1402428467/quarks/wdr_fernsehen_quarks_und_co_20140610.mp4" length="199002250" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.06.2014, Quarks &amp; Co: Tier oder wir?! - Wenn Tiere die Stadt erobern</title>
+  <link>http://medien.wdr.de/m/1402478436/quarks/wdr_fernsehen_quarks_und_co_20140603.mp4</link>
+  <pubDate>Wed, 11 Jun 2014 11:20:36 +0200</pubDate>
+  <description>Der natürliche Lebensraum für Tiere ist in Nordrhein-Westfalen knapp. Landwirtschaft, Städte, Industrie und Verkehrsflächen prägen das Land. Die Tiere müssen sich neue Nischen suchen  und finden sie bei uns in der Stadt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140603.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1402478436/quarks/wdr_fernsehen_quarks_und_co_20140603.mp4" length="200446218" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.05.2014, Quarks &amp; Co: Die Macht der Daten</title>
+  <link>http://medien.wdr.de/m/1401212664/quarks/wdr_fernsehen_quarks_und_co_20140527.mp4</link>
+  <pubDate>Tue, 27 May 2014 19:44:24 +0200</pubDate>
+  <description>Die Datenanalyse schleicht sich in unser Leben: Rechenmodelle, sogenannte Algorithmen, übernehmen immer mehr Macht über unseren Alltag und unsere Wirtschaft. Blindes Vertrauen  zum Beispiel in Navigationsgeräte oder vollautomatische Systeme an der Börse  kann sich aber rächen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140527.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1401212664/quarks/wdr_fernsehen_quarks_und_co_20140527.mp4" length="198115915" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 20.05.2014, Verdatet und verkauft-wem gehören unsere Daten?</title>
+  <link>http://medien.wdr.de/m/1400612677/quarks/wdr_fernsehen_quarks_und_co_20140520.mp4</link>
+  <pubDate>Tue, 20 May 2014 21:04:37 +0200</pubDate>
+  <description>Wir sind Zwillinge. Wir haben eine reale und eine digitale Identität. Es gibt uns doppelt, zu Hause oder am Arbeitsplatz und im digitalen Kosmos. Das Problem ist, dass die Wenigsten ihr digitales Alter Ego kennen, geschweige denn selbstbestimmt kontrollieren können. Sind wir also bereits &quot;verdatet und verkauft&quot;? Wem gehören die Daten, die wir in sozialen Netzwerken, bei Onlinehändlern, Banken, Krankenkassen und Behörden hinterlassen? &quot;Quarks Co&quot; zeigt, welche Chancen und Risiken hinter &quot;Big Data&quot; stecken, und verrät, wie jeder von uns seine digitale Freiheit zurückgewinnen kann. ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140520.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1400612677/quarks/wdr_fernsehen_quarks_und_co_20140520.mp4" length="197701611" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.05.2014, Quarks &amp; Caspers: Sand - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1399405737/quarks/wdr_fernsehen_quarks_und_co_20140506.mp4</link>
+  <pubDate>Tue, 06 May 2014 21:48:57 +0200</pubDate>
+  <description>Sand gibt es wie Sand am Meer  aber wie lange noch? Schon heute ist Sand in einigen Ländern knapp  dort wird er teilweise zur Schmuggelware. Quarks begibt sich auf Spurensuche und zeigt die sieben wichtigsten Dinge, die man über diesen besonderen Rohstoff wissen sollte.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140506.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1399405737/quarks/wdr_fernsehen_quarks_und_co_20140506.mp4" length="193092623" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.04.2014, Wie viel Fisch soll auf den Tisch?</title>
+  <link>http://medien.wdr.de/m/1398797799/quarks/wdr_fernsehen_quarks_und_co_20140429.mp4</link>
+  <pubDate>Tue, 29 Apr 2014 20:56:39 +0200</pubDate>
+  <description>Fisch gilt heute als wichtiger Bestandteil einer ausgewogenen Ernährung. Experten empfehlen zweimal pro Woche Fisch zu essen. Doch wie wichtig ist Fisch wirklich für die Gesundheit? Und: Welche Arten darf man angesichts leergefischter Meere überhaupt noch kaufen?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140429.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1398797799/quarks/wdr_fernsehen_quarks_und_co_20140429.mp4" length="167731704" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.04.2014, Quarks Co: Was wir über den Glauben wissen</title>
+  <link>http://medien.wdr.de/m/1398193514/quarks/wdr_fernsehen_quarks_und_co_20140422.mp4</link>
+  <pubDate>Tue, 22 Apr 2014 21:05:14 +0200</pubDate>
+  <description>84 Prozent der Weltbevölkerung gehören einer Religionsgemeinschaft an. Doch Religiosität nimmt weltweit ab, während religiös motivierte Gewalttaten zunehmen. &quot;Quarks Co&quot; zeigt, wie die Wissenschaft dem Glauben begegnet. Wie gehen Wissenschaftler mit dem Begriff des Wunders um? Seit wann glaubt der Mensch und warum? ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140422.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1398193514/quarks/wdr_fernsehen_quarks_und_co_20140422.mp4" length="209186043" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.04.2014, Quarks &amp; Caspers: Vegetarier - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1396985637/quarks/wdr_fernsehen_quarks_und_co_20140408.mp4</link>
+  <pubDate>Tue, 08 Apr 2014 21:33:57 +0200</pubDate>
+  <description>In Deutschland entscheiden sich immer mehr Menschen Vegetarier zu werden. Doch nicht alle Vegetarier sind gleich und essen dasselbe.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140408.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1396985637/quarks/wdr_fernsehen_quarks_und_co_20140408.mp4" length="203712599" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 01.04.2014, Wem nützt Krebsvorsorge?</title>
+  <link>http://medien.wdr.de/m/1396604120/quarks/wdr_fernsehen_quarks_und_co_20140401.mp4</link>
+  <pubDate>Fri, 04 Apr 2014 11:35:20 +0200</pubDate>
+  <description>Unzählige Zellen leisten täglich ihre Arbeit in unserem Körper. Doch Krebszellen sind anders: Sie sind auf Chaos programmiert und verdrängen andere Zellen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140401.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1396604120/quarks/wdr_fernsehen_quarks_und_co_20140401.mp4" length="194781436" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 25.03.2014, Demenz - wie wir uns vergessen und was wir dagegen tun können</title>
+  <link>http://medien.wdr.de/m/1395780384/quarks/wdr_fernsehen_quarks_und_co_20140325.mp4</link>
+  <pubDate>Tue, 25 Mar 2014 21:46:24 +0100</pubDate>
+  <description>In Deutschland leben 1,4 Millionen Menschen mit einer Demenz. Die Sendung geht u.a. der Frage nach, was eine Demenz ist und wie sie ausgelöst wird. Denn auch nach Jahrzenten der Forschung ist bis heute unklar, wie die Alzheimer-Erkrankung, die für zwei Drittel aller Demenzfälle verantwortlich gemacht wird, entsteht.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140325.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1395780384/quarks/wdr_fernsehen_quarks_und_co_20140325.mp4" length="200828165" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.03.2014, Zähne - 7 Dinge, die Sie wissen sollten!</title>
+  <link>http://medien.wdr.de/m/1395173845/quarks/wdr_fernsehen_quarks_und_co_20140318.mp4</link>
+  <pubDate>Tue, 18 Mar 2014 21:17:25 +0100</pubDate>
+  <description>Warum haben manche Menschen kaum Probleme mit Karies, wohingegen andere trotz guter Zahnhygiene besonders anfällig scheinen? Wie viel Einfluss haben wir wirklich auf unsere Zähne?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140318.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1395173845/quarks/wdr_fernsehen_quarks_und_co_20140318.mp4" length="195294729" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 11.03.2014, Unkaputtbar - die Magie neuer Materialien</title>
+  <link>http://medien.wdr.de/m/1394557671/quarks/wdr_fernsehen_quarks_und_co_20140311.mp4</link>
+  <pubDate>Tue, 11 Mar 2014 18:07:51 +0100</pubDate>
+  <description>Das Material der Alltagsgegenstände prägt unser Leben viel stärker, als die meisten glauben. Material weckt Emotionen, entscheidet Kriege und ermöglicht neue Technologien. Wer das richtige Material kennt, hat die Macht  denn die Wahl des Materials entscheidet über Erfolg und Misserfolg. Quarks &amp; Co stellt die Magie neuer Materialien vor, blickt zurück auf die Kulturgeschichte der Metalle, fragt nach der Umweltverträglichkeit von Carbon und zeigt, wie zwei Wissenschaftler beim Herumspielen mit Tesafilm das Wundermaterial Graphen entdeckten und dafür den Nobelpreis bekamen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140311.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1394557671/quarks/wdr_fernsehen_quarks_und_co_20140311.mp4" length="155339553" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.03.2014, Alkohol</title>
+  <link>http://medien.wdr.de/m/1394225006/quarks/wdr_fernsehen_quarks_und_co_20140308.mp4</link>
+  <pubDate>Fri, 07 Mar 2014 21:43:26 +0100</pubDate>
+  <description>Wer den Rausch studieren möchte, hat dazu im Kölner Karneval die beste Gelegenheit. Quarks &amp; Co war feiern und erklärt, was in den verschiedenen Phasen des Rauschs in unserem Gehirn passiert.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140308.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1394225006/quarks/wdr_fernsehen_quarks_und_co_20140308.mp4" length="172094905" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 25.02.2014, Quarks &amp; Co: 7 Dinge, die Sie über Ihr Gehirn wissen sollten</title>
+  <link>http://medien.wdr.de/m/1395232499/quarks/wdr_fernsehen_quarks_und_co_20140225.mp4</link>
+  <pubDate>Wed, 19 Mar 2014 13:34:59 +0100</pubDate>
+  <description>Nutzen wir nur 10 Prozent unseres Gehirns? Wie kann man seine geistige Leistungsfähigkeit auch im Alter erhalten und was lernen Hirnforscher von Taschendieben? Quarks &amp; Caspers zeigt die wunderbare und geheimnisvolle Welt unserer Denkmaschine.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140225.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1395232499/quarks/wdr_fernsehen_quarks_und_co_20140225.mp4" length="179842557" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.02.2014, Die Kuh - das unbekannte Wesen</title>
+  <link>http://medien.wdr.de/m/1392753713/quarks/wdr_fernsehen_quarks_und_co_20140218.mp4</link>
+  <pubDate>Tue, 18 Feb 2014 21:01:53 +0100</pubDate>
+  <description>Rinder sind harmlos, dumm und liebenswert  oder? Tatsächlich kommen jedes Jahr mehr Menschen durch Angriffe von Kühen als durch Haiattacken ums Leben. Quarks &amp; Co liefert spannende Fakten über Rinder und zeigt ihre ungeahnten Fähigkeiten;© WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140218.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1392753713/quarks/wdr_fernsehen_quarks_und_co_20140218.mp4" length="181413014" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 11.02.2014, Quarks &amp; Co: Mensch 2.0 - Wie wir zum Maschinenmenschen werden</title>
+  <link>http://medien.wdr.de/m/1392149264/quarks/wdr_fernsehen_quarks_und_co_20140211.mp4</link>
+  <pubDate>Tue, 11 Feb 2014 21:07:44 +0100</pubDate>
+  <description>Handys, die Teil unseres sozialen Lebens sind, künstliche Organe und Prothesen, die Körperteile ersetzen, Computer, die mit dem Gehirn kommunizieren: Mensch und Maschine verschmelzen immer stärker miteinander. Viele dieser Entwicklungen sollen das Leben erleichtern oder sogar verlängern. Doch sie verändern dabei auch uns und unsere Welt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140211.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1392149264/quarks/wdr_fernsehen_quarks_und_co_20140211.mp4" length="180884008" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 04.02.2014, In der Arktis</title>
+  <link>http://medien.wdr.de/m/1391544137/quarks/wdr_fernsehen_quarks_und_co_20140204.mp4</link>
+  <pubDate>Tue, 04 Feb 2014 21:02:17 +0100</pubDate>
+  <description>Ranga Yogeshwar unterwegs im eiskalten NordenDie Heimat der Eisbären ist in Gefahr: Der Klimawandel lässt in der Arktis die Temperaturen steigen - künftig noch stärker als heute schon! Welche Folgen sind bereits heute in der weißen Wildnis sichtbar? Ranga Yogeshwar besucht Forscher in Ny Ålesund auf Spitzbergen und begleitet sie zu abschmelzenden Gletschern und in die eisige Unterwasserwelt des Polarmeers; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140204.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1391544137/quarks/wdr_fernsehen_quarks_und_co_20140204.mp4" length="159303677" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 28.01.2014, Quarks &amp; Caspers: Off-Shore-Strom - Was der Meerwind wirklich mehr bringt</title>
+  <link>http://medien.wdr.de/m/1390939793/quarks/wdr_fernsehen_quarks_und_co_20140128.mp4</link>
+  <pubDate>Tue, 28 Jan 2014 21:09:53 +0100</pubDate>
+  <description>Ralph Caspers hat die Windkraft-Pioniere in der Nordsee besucht und miterlebt, welch harte Arbeit es ist, einen Windpark mitten im Meer zu errichten. Dabei zeigt #Quarks Caspers# auch, wozu dieser gigantische Aufwand betrieben wird und geht der Frage nach, ob es überhaupt sinnvoll ist, aus dem Meerwind Strom zu gewinnen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140128.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1390939793/quarks/wdr_fernsehen_quarks_und_co_20140128.mp4" length="178630995" type="video/mp4" />
+</item>
+
+<item>
+  <title>quarks und co: 21.01.2014, Die Wissenschaft vom Klo</title>
+  <link>http://medien.wdr.de/m/1390335696/quarks/wdr_fernsehen_quarks_und_co_20140121.mp4</link>
+  <pubDate>Tue, 21 Jan 2014 21:21:36 +0100</pubDate>
+  <description>&quot;Sie ist unverzichtbarer Teil unseres Lebens und trotzdem reden wir nicht über sie: die Toilette. Im Laufe unseres Lebens verbringen wir bis zu neun Monate auf dem Klo und für viele ist es der Ort, an dem sie die besten Ideen haben. Quarks &amp; Co zeigt, was die Toilette zur wichtigsten Erfindung der Zivilisation macht, warum Frauenklos dreckiger sind als Herren-Toiletten und wie wir unser Geschäft in Zukunft verrichten werden.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140121.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1390335696/quarks/wdr_fernsehen_quarks_und_co_20140121.mp4" length="148601074" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 14.01.2014, Krankenhaus mit Nebenwirkungen</title>
+  <link>http://medien.wdr.de/m/1389731136/quarks/wdr_fernsehen_quarks_und_co_20140114.mp4</link>
+  <pubDate>Tue, 14 Jan 2014 21:25:36 +0100</pubDate>
+  <description>Zum Gesundwerden gehört mehr als eine gute medizinische Behandlung. In gut gestalteten Krankenhäusern werden die Patienten schneller gesund! Erfüllen unsere Krankenhäuser auch diesen Aspekt der Heilung? Quarks &amp; Co hat sich umgesehen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140114.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1389731136/quarks/wdr_fernsehen_quarks_und_co_20140114.mp4" length="155590084" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.01.2014, Quarks &amp; Co: Inklusion - Behindertes Lernen?</title>
+  <link>http://medien.wdr.de/m/1389127472/quarks/wdr_fernsehen_quarks_und_co_20140107.mp4</link>
+  <pubDate>Tue, 07 Jan 2014 21:44:32 +0100</pubDate>
+  <description>; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20140107.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1389127472/quarks/wdr_fernsehen_quarks_und_co_20140107.mp4" length="177277394" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 17.12.2013, Quarks &amp; Co: Kaufen. 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1387310616/quarks/wdr_fernsehen_quarks_und_co_20131217.mp4</link>
+  <pubDate>Tue, 17 Dec 2013 21:03:36 +0100</pubDate>
+  <description>Was man wann wo wie und in welchen Mengen kauft, ist kein Zufall. Vorher haben sich Experten Gedanken gemacht, wie sie die potenziellen Käufer dazu bringen können, ein bestimmtes Produkt in den Einkaufskorb zu legen; Quarks &amp; Caspers stellt die überraschendsten und kuriosesten sieben Dinge rund ums Kaufen vor.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131217.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1387310616/quarks/wdr_fernsehen_quarks_und_co_20131217.mp4" length="165577535" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.12.2013, Kleider - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1386694507/quarks/wdr_fernsehen_quarks_und_co_20131210.mp4</link>
+  <pubDate>Tue, 10 Dec 2013 17:55:07 +0100</pubDate>
+  <description>Sie soll schön aussehen und sie soll wärmen. So einfach scheint es mit der Kleidung. Aber Kleidung ist viel wichtiger  denn wir kaufen sie in großen Mengen, wir tragen sie jeden Tag, und wir tragen sie direkt auf unserer Haut. Was für Chemikalien stecken drin? Wie erkenne ich Qualität? Und welche Kleidung meidet man besser, weil sie unter unfairen Bedingungen produziert wird?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131210.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1386694507/quarks/wdr_fernsehen_quarks_und_co_20131210.mp4" length="177245423" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.12.2013, Komet Ison - Gefahr aus dem All?</title>
+  <link>http://medien.wdr.de/m/1386107156/quarks/wdr_fernsehen_quarks_und_co_20131203.mp4</link>
+  <pubDate>Tue, 03 Dec 2013 22:45:56 +0100</pubDate>
+  <description>Es war sein erster und letzter Besuch in unserem Sonnensystem: Der Komet ISON, der zu großen Teilen aus Eis bestand, hat den Vorbeiflug an der glühend heißen Sonne nicht überlebt. Aber er hat die Welt in Atem gehalten. Quarks &amp; Co berichtet über ISON&#039;S abenteuerliche Reise und gibt Einblicke in die geheimnisvolle Erscheinung der Kometen und ihrer nahen Verwandten, der Asteroiden. Woraus bestehen Kometen und wo kommen sie her? Wie gefährlich sind Asteroiden und hat tatsächlich ein einziger Asteroid die Dinosaurier ausgelöscht?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131203.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1386107156/quarks/wdr_fernsehen_quarks_und_co_20131203.mp4" length="173409480" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 26.11.2013, Kalorien 7 Dinge, die sie wissen sollten!</title>
+  <link>http://medien.wdr.de/m/1385494201/quarks/wdr_fernsehen_quarks_und_co_20131126.mp4</link>
+  <pubDate>Tue, 26 Nov 2013 20:30:01 +0100</pubDate>
+  <description>Kalorienzählen ist für viele Menschen leidiger Alltag. Doch die alte Weisheit &quot;Eine Kalorie ist eine Kalorie&quot; ist längst nicht immer so eindeutig. Je nachdem, ob Lebensmittel gekocht, gegart oder roh verzehrt werden, verwertet der Mensch sie anders! Quarks räumt auf mit Mythen über Kalorien und kommt zu dem Schluss, dass kleinliches Kalorienzählen wenig bringt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131126.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1385494201/quarks/wdr_fernsehen_quarks_und_co_20131126.mp4" length="174816516" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.11.2013, Die Macht der Stimme</title>
+  <link>http://medien.wdr.de/m/1384891173/quarks/wdr_fernsehen_quarks_und_co_20131119.mp4</link>
+  <pubDate>Tue, 19 Nov 2013 20:59:33 +0100</pubDate>
+  <description>Unsere Stimme kann verführen, beschwichtigen und einschüchtern und verrät weit mehr über uns, als uns bewusst ist. Und sie ist ein mächtiges Instrument  wenn wir es beherrschen. Doch viel zu oft bleibt das Potenzial unserer Stimme ungenutzt. Schlimmer noch: Falsche Atmung und schlechte Angewohnheiten setzen der Stimme auf Dauer zu.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131119.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1384891173/quarks/wdr_fernsehen_quarks_und_co_20131119.mp4" length="174189126" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 12.11.2013, Die Roboter kommen</title>
+  <link>http://medien.wdr.de/m/1384287486/quarks/wdr_fernsehen_quarks_und_co_20131112.mp4</link>
+  <pubDate>Tue, 12 Nov 2013 21:18:06 +0100</pubDate>
+  <description>Roboter faszinieren. Sie sehen entweder aus wie das künstliche Ebenbild eines Menschen oder aber sie sehen absichtlich maschinenähnlich aus. In jedem Fall stehen sie für einen ewig dienstbaren Geist - doch sie machen auch Angst vor der großen Übernahme. Quarks &amp; Co geht der Frage nach: Wie werden wir in Zukunft leben? Welche Rolle werden Roboter zukünftig in unserem Leben spielen und wie sind sie jetzt schon im Einsatz?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131112.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1384287486/quarks/wdr_fernsehen_quarks_und_co_20131112.mp4" length="173131974" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 05.11.2013, Leben mit Glasknochen</title>
+  <link>http://medien.wdr.de/m/1383678768/quarks/wdr_fernsehen_quarks_und_co_20131105.mp4</link>
+  <pubDate>Tue, 05 Nov 2013 20:12:48 +0100</pubDate>
+  <description>Er kommt schon mit gebrochenen Knochen auf die Welt, und bricht sich als Kind 32-mal die Knochen - doch Oliver Semler stellt sich seiner Glasknochenkrankheit und schafft etwas Einzigartiges: Er ist weltweit der einzige selbst betroffene Kinderarzt, der Glasknochen erforscht und behandelt. Mit Mut und Humor zeigt er seinen Patienten neue Wege auf, wie sie ihr Leben trotz ihrer Behinderung positiv gestalten können.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131105.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1383678768/quarks/wdr_fernsehen_quarks_und_co_20131105.mp4" length="162835735" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.10.2013, Quarks &amp; Co: 20 Jahre - Die Geburtstagssendung!</title>
+  <link>http://medien.wdr.de/m/1383083332/quarks/wdr_fernsehen_quarks_und_co_20131029.mp4</link>
+  <pubDate>Tue, 29 Oct 2013 22:48:52 +0100</pubDate>
+  <description>Im Jahr 1993, als Computer unhandliche Kästen und Handys teure &quot;Knochen&quot; waren, Atomenergie als saubere Alternative zur Kohle galt und noch niemand von BSE, SARS oder Schweinegrippe gehört hatte, startete im WDR das Wissensmagazin Quarks &amp; Co. Zum 20. Geburtstag blickt Quarks &amp; Co zurück und zeigt an fünf ausgewählten Themen wie enorm sich unser Wissen verändert hat und welche gesellschaftlichen Auswirkungen dies hatte. Dazu gibt es zum Geburtstag die besten Experimente, Tests und Selbstversuche von Ranga Yogeshwar aus den vergangenen 20 Jahren.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131029.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1383083332/quarks/wdr_fernsehen_quarks_und_co_20131029.mp4" length="242270508" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.10.2013, Das Mittelalter - 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1382458543/quarks/wdr_fernsehen_quarks_und_co_20131022.mp4</link>
+  <pubDate>Tue, 22 Oct 2013 18:15:43 +0200</pubDate>
+  <description>Das Bild vom Mittelalter ist meist dunkel, unwirtlich und Sagen umwoben. Doch stimmt das auch? Quarks &amp; Caspers begibt sich auf eine Reise in die Zeit zwischen dem sechsten und dem fünfzehnten Jahrhundert. Dabei wird so manch mittelalterlicher Mythos widerlegt und stattdessen eine Zeit des systematischen Fortschritts entdeckt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131022.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1382458543/quarks/wdr_fernsehen_quarks_und_co_20131022.mp4" length="181559546" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.10.2013, Auf Teilchenjagd</title>
+  <link>http://medien.wdr.de/m/1381392560/quarks/wdr_fernsehen_quarks_und_co_20131008.mp4</link>
+  <pubDate>Thu, 10 Oct 2013 10:09:20 +0200</pubDate>
+  <description>Am Genfer See sieht es nach Alpenromantik aus. Doch rund 100 Meter unter der Erde verbirgt sich eine Hightech-Landschaft: das europäische Kernforschungszentrum CERN, genauer dessen Teilchenbeschleuniger: Eine riesige 27 Kilometer lange Röhre, in der winzige Elementarteilchen annähernd auf Lichtgeschwindigkeit beschleunigt werden, um dann aufeinanderzuprallen. © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131008.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1381392560/quarks/wdr_fernsehen_quarks_und_co_20131008.mp4" length="180080720" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 01.10.2013, Wie geht Wein?</title>
+  <link>http://medien.wdr.de/m/1380656919/quarks/wdr_fernsehen_quarks_und_co_20131001.mp4</link>
+  <pubDate>Tue, 01 Oct 2013 21:48:39 +0200</pubDate>
+  <description>Wein ist ein Phänomen, ein Mythos, ein Geheimnis  behauptet jedenfalls das Marketing des Weinhandels. Aber was ist guter Wein, und wie macht man ihn? Quarks &amp; Co begleitet einen Winzer durch das Jahr, erzählt die Geschichte des Weinbaus und geht der Frage nach, welchen Einfluss das Klima hat.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20131001.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1380656919/quarks/wdr_fernsehen_quarks_und_co_20131001.mp4" length="163913977" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.09.2013, Das Pferd - 7 Dinge, die sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1380046954/quarks/wdr_fernsehen_quarks_und_co_20130924.mp4</link>
+  <pubDate>Tue, 24 Sep 2013 20:22:34 +0200</pubDate>
+  <description>Wir sind Pferdeweltmeister! Wir Deutsche sind rekordverdächtig vernarrt in Pferde, kein anderes Land auf der Welt ist so erfolgreich in Pferdesport und Pferdezucht wie wir. Pferde faszinieren Millionen  und bringen Milliarden. Quarks &amp; Caspers blickt hinter die Kulissen der vermeintlich heilen Pferdewelt, zeigt, warum das Pferd das wichtigste Tier der Menschheitsgeschichte ist und was die Pferde eigentlich vom Pferdesport halten.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130924.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1380046954/quarks/wdr_fernsehen_quarks_und_co_20130924.mp4" length="195592605" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 17.09.2013, Hauptsache satt? Was Schulkinder essen (müssen)</title>
+  <link>http://medien.wdr.de/m/1379445035/quarks/wdr_fernsehen_quarks_und_co_20130917.mp4</link>
+  <pubDate>Tue, 17 Sep 2013 21:10:35 +0200</pubDate>
+  <description>Eigentlich sollten wir erwarten können, dass unsere Kinder an den Schulen ein gutes Mittagessen bekommen. Doch wie gesund ist die Schulverpflegung der Kinder wirklich? Und wie steht es um ihr Essverhalten im Allgemeinen? Quarks &amp; Co hat in einer einmaligen Aktion 890 Schulleiter und 6.978 Schulkinder befragt - mit besorgniserregendem Ergebnis.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130917.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1379445035/quarks/wdr_fernsehen_quarks_und_co_20130917.mp4" length="177457192" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.09.2013, Wie die Zeit vergeht</title>
+  <link>http://medien.wdr.de/m/1378236863/quarks/wdr_fernsehen_quarks_und_co_20130903.mp4</link>
+  <pubDate>Tue, 03 Sep 2013 21:34:23 +0200</pubDate>
+  <description>Wir leben immer länger - und leiden trotzdem unter ständiger Zeitnot. Woran liegt das? Warum vergeht Zeit für uns oft so schnell, manchmal aber auch quälend langsam? Quarks &amp; Co untersucht das menschliche Zeitempfinden im Gehirn, zeigt Methoden des Zeitmanagements und erklärt, warum in unserer Welt alles immer schneller geht: das Wichtigste zum Thema Zeit - in nur 2600 Sekunden!; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130903.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1378236863/quarks/wdr_fernsehen_quarks_und_co_20130903.mp4" length="173323404" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.08.2013, Quarks &amp; Caspers: Fett</title>
+  <link>http://medien.wdr.de/m/1377629834/quarks/wdr_fernsehen_quarks_und_co_20130827.mp4</link>
+  <pubDate>Tue, 27 Aug 2013 20:57:14 +0200</pubDate>
+  <description>7 Dinge, die Sie wissen sollten! Das Thema Fett ist im wahrsten Sinne &quot;in aller Munde&quot; und manche Menschen bekommen schon Aversionen, wenn nur der geringste Verdacht entsteht, eine Speise könnte Fett enthalten - Quarks &amp; Caspers erzählt sieben unbekannte, erstaunliche und überraschende Dinge über das Fett, das wir zu uns nehmen und das Fett, das wir in unseren Körpern speichern.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130827.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1377629834/quarks/wdr_fernsehen_quarks_und_co_20130827.mp4" length="155420024" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 20.08.20013, Der Nocebo-Effekt</title>
+  <link>http://medien.wdr.de/m/1377031404/quarks/wdr_fernsehen_quarks_und_co_20130820.mp4</link>
+  <pubDate>Tue, 20 Aug 2013 22:43:24 +0200</pubDate>
+  <description>Der Nocebo-Effekt-Wenn Gedanken krank machen-Der Placebo-Effekt ist heute gut bekannt. Er tritt auf, wenn ein Mittel ohne jeden Wirkstoff heilt. Doch es gibt auch den umgekehrten Fall: Eine negative Erwartung kann krank machen! Der Nocebo-Effekt, wörtlich übersetzt &quot;Ich werde schaden&quot;, gilt als böser Bruder des Placebo; doch wie wird er ausgelöst und was passiert dabei im Körper? Quarks &amp; Co ist den krank machenden Gedanken auf der Spur.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130820.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1377031404/quarks/wdr_fernsehen_quarks_und_co_20130820.mp4" length="166766816" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 13.08.2013, Deutschland im Kaffeerausch</title>
+  <link>http://medien.wdr.de/m/1376478039/quarks/wdr_fernsehen_quarks_und_co_20130813.mp4</link>
+  <pubDate>Wed, 14 Aug 2013 13:00:39 +0200</pubDate>
+  <description>Kaffee ist das Lieblingsgetränk der Deutschen: Rund 1.000 Tassen trinkt jeder pro Jahr  zum wach werden und wach bleiben. Aber warum ist dieses Getränk so beliebt? Was genau steckt drin im Kaffee? Und ist er eigentlich gesund oder eher schädlich? Quarks &amp; Co geht diesen Fragen nach, versucht das Geheimnis des guten Geschmacks zu lüften.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130813.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1376478039/quarks/wdr_fernsehen_quarks_und_co_20130813.mp4" length="152144333" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.08.2013, Leben mit dem Down-Syndrom</title>
+  <link>http://medien.wdr.de/m/1375816853/quarks/wdr_fernsehen_quarks_und_co_20130806.mp4</link>
+  <pubDate>Tue, 06 Aug 2013 21:20:53 +0200</pubDate>
+  <description>Quarks &amp; Co will wissen: Wie leben sie, wie fühlen sie? Etwa 50.000 Menschen in Deutschland haben das Down Syndrom. Es ist nur kleiner Unterschied im Erbgut. Doch was bewirkt er? Wie sieht der Alltag von Menschen mit Down-Syndrom aus. wie lernen sie, wie arbeiten sie? Und wie empfinden sie es, das Down Syndrom zu haben?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130806.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1375816853/quarks/wdr_fernsehen_quarks_und_co_20130806.mp4" length="128500396" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 30.07.2013, Trinken - 10 Dinge, die Sie wissen sollten!</title>
+  <link>http://medien.wdr.de/m/1375213681/quarks/wdr_fernsehen_quarks_und_co_20130730.mp4</link>
+  <pubDate>Tue, 30 Jul 2013 21:48:01 +0200</pubDate>
+  <description>Trinken ist lebenswichtig: Ohne Flüssigkeitszufuhr verdursten wir nach drei bis vier Tagen. Doch warum ist Wasser so wichtig? Wie viel Flüssigkeit braucht unser Körper wirklich? Und wofür? Muss es überhaupt Wasser sein? Ralph Caspers hat Antworten auf diese und andere Fragen rund ums Trinken und räumt auch mit zahlreichen Mythen rund ums Thema Wasser auf.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130730.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1375213681/quarks/wdr_fernsehen_quarks_und_co_20130730.mp4" length="155518782" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 16.07.2013, Allein gegen den Wind</title>
+  <link>http://medien.wdr.de/m/1373990016/quarks/wdr_fernsehen_quarks_und_co_20130716.mp4</link>
+  <pubDate>Tue, 16 Jul 2013 17:53:36 +0200</pubDate>
+  <description>Wilfried Erdmann sucht das Abenteuer. Mit seinem Segelboot  der &quot;Kathena Nui&quot;  hat der Extremsegler mehrfach die Welt umrundet  allein und nonstop. Bei Ranga Yogeshwar erzählt er von seinen außergewöhnlichen Törns und was er dabei fürs Leben gelernt hat.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130716.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1373990016/quarks/wdr_fernsehen_quarks_und_co_20130716.mp4" length="137624721" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 09.07.2013, Werbung - wie wir verführt werden</title>
+  <link>http://medien.wdr.de/m/1373398743/quarks/wdr_fernsehen_quarks_und_co_20130709.mp4</link>
+  <pubDate>Tue, 09 Jul 2013 21:39:03 +0200</pubDate>
+  <description>&quot;Bei mir wirkt Werbung sowieso nicht  ich lass mich nicht verführen!&quot; Diese Annahme ist weit verbreitet. Trotzdem hat die Werbeindustrie 2011 rund 30 Milliarden Euro ausgegeben. Produziert sie etwa alle Fernseh- oder Hörfunkspots, Plakate, Anzeigen in Zeitungen und Banner im Internet vergebens? Oder wirken sie tatsächlich? Quarks &amp; Co hakt nach: Sind wir manipulierbar? Wie funktioniert Werbung? Und mit welchen Tricks arbeiten Marketingexperten?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130709.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1373398743/quarks/wdr_fernsehen_quarks_und_co_20130709.mp4" length="153792583" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 02.07.2013, Müll: 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1372791734/quarks/wdr_fernsehen_quarks_und_co_20130702.mp4</link>
+  <pubDate>Tue, 02 Jul 2013 21:02:14 +0200</pubDate>
+  <description>Der Mensch ist eine Müllmaschine. Tag für Tag entsorgen wir tonnenweise Plastik, Lebensmittelreste oder Papier. Die Industrie produziert Giftmüll, Luftschadstoffe und radioaktive Abfälle - alles Müll, den wir loswerden wollen; doch das Motto &quot;aus den Augen, aus dem Sinn&quot; funktioniert nicht, denn der Müll begegnet uns an unerwarteten Orten wieder - Quarks zeigt, welche Auswirkungen dieses Wiedersehen mit dem Müll auf unser Leben hat, wo es gefährlich wird und wo wir davon profitieren können.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130702.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1372791734/quarks/wdr_fernsehen_quarks_und_co_20130702.mp4" length="146015015" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 25.06.2013, Megacitys - Bauen für Millionen</title>
+  <link>http://medien.wdr.de/m/1372190093/quarks/wdr_fernsehen_quarks_und_co_20130625.mp4</link>
+  <pubDate>Tue, 25 Jun 2013 21:54:53 +0200</pubDate>
+  <description>Die Millionenstädte in Asien wachsen rasend schnell. Der deutsche Architekt Ole Scheeren ist mittendrin und will den Metropolen ein Gesicht geben: Er baut ungewöhnliche/spektakuläre Hochhäuser  Regeln und Grenzen akzeptiert er nur ungern.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130625.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1372190093/quarks/wdr_fernsehen_quarks_und_co_20130625.mp4" length="121704007" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.06.2013, Wie viel Fisch soll auf den Tisch?</title>
+  <link>http://medien.wdr.de/m/1371578308/quarks/wdr_fernsehen_quarks_und_co_20130618.mp4</link>
+  <pubDate>Tue, 18 Jun 2013 19:58:28 +0200</pubDate>
+  <description>Fisch gilt heute als wichtiger Bestandteil einer ausgewogenen Ernährung. Experten empfehlen zweimal pro Woche Fisch zu essen. Doch wie wichtig ist Fisch wirklich für die Gesundheit? Und: Welche Arten darf man angesichts leergefischter Meere überhaupt noch kaufen?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130618.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1371578308/quarks/wdr_fernsehen_quarks_und_co_20130618.mp4" length="167731704" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 11.06.2013, Hormone</title>
+  <link>http://medien.wdr.de/m/1370981569/quarks/wdr_fernsehen_quarks_und_co_20130611.mp4</link>
+  <pubDate>Tue, 11 Jun 2013 22:12:49 +0200</pubDate>
+  <description>Ohne Hormone geht nichts. Rund 100 chemische Botenstoffe steuern uns ein Leben lang, und ihr Einfluss beginnt schon beim ungeborenen Baby. Hormone bestimmen, ob wir hungrig, satt, gestresst, aktiv oder müde sind. Quarks erklärt sieben erstaunliche Dinge über Hormone und zeigt, was passiert, wenn sie aus dem Gleichgewicht geraten.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130611.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1370981569/quarks/wdr_fernsehen_quarks_und_co_20130611.mp4" length="156622589" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 04.06.2013, Pfusch in der Wissenschaft</title>
+  <link>http://medien.wdr.de/m/1370380531/quarks/wdr_fernsehen_quarks_und_co_20130604.mp4</link>
+  <pubDate>Tue, 04 Jun 2013 23:15:31 +0200</pubDate>
+  <description>Angemalte Präparate, erfundene Versuchspersonen, selbstverbuddelte Steinzeitwerkzeuge  manche Wissenschaftler pfuschen ganz plump. Andere verheimlichen Ergebnisse oder entwerfen ihre Studien so, dass ein irreführendes Ergebnis dabei herauskommen muss: Wem darf man noch glauben und warum machen Wissenschaftler so etwas? Quarks zeigt, wie Forscher tricksen und welche Auswirkungen dieser Pfusch auf uns alle hat.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130604.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1370380531/quarks/wdr_fernsehen_quarks_und_co_20130604.mp4" length="155278518" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 28.05.2013, Ein Schweineleben</title>
+  <link>http://medien.wdr.de/m/1369747828/quarks/wdr_fernsehen_quarks_und_co_20130528.mp4</link>
+  <pubDate>Tue, 28 May 2013 15:30:28 +0200</pubDate>
+  <description>Das Schwein ist ein intelligentes, empfindsames und sympathisches Lebewesen, dessen Alltag meist in krassem Widerspruch zu seinen tatsächlichen Bedürfnissen steht; rund 40 Millionen Schweine leben unter uns, doch die Meisten kennen diese nahen Verwandten des Nilpferds nur als Schnitzel - Quarks &amp; Co sieht sich ein Schweineleben einmal genauer an.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130528.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1369747828/quarks/wdr_fernsehen_quarks_und_co_20130528.mp4" length="115803471" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 21.05.2013, Unkaputtbar - die Magie neuer Materialien</title>
+  <link>http://medien.wdr.de/m/1369159900/quarks/wdr_fernsehen_quarks_und_co_20130521.mp4</link>
+  <pubDate>Tue, 21 May 2013 20:11:40 +0200</pubDate>
+  <description>Das Material der Alltagsgegenstände prägt unser Leben viel stärker, als die meisten glauben. Material weckt Emotionen, entscheidet Kriege und ermöglicht neue Technologien. Wer das richtige Material kennt, hat die Macht  denn die Wahl des Materials entscheidet über Erfolg und Misserfolg. Quarks &amp; Co stellt die Magie neuer Materialien vor, blickt zurück auf die Kulturgeschichte der Metalle, fragt nach der Umweltverträglichkeit von Carbon und zeigt, wie zwei Wissenschaftler beim Herumspielen mit Tesafilm das Wundermaterial Graphen entdeckten und dafür den Nobelpreis bekamen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130521.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1369159900/quarks/wdr_fernsehen_quarks_und_co_20130521.mp4" length="155339553" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 14.05.2013, Edelschimmel und Scheibletten - Die Wissenschaft vom Käse</title>
+  <link>http://medien.wdr.de/m/1368537511/quarks/wdr_fernsehen_quarks_und_co_20130514.mp4</link>
+  <pubDate>Tue, 14 May 2013 15:18:31 +0200</pubDate>
+  <description>Käse ist Geschmackssache. Was dem einen stinkt, ist für den anderen ein Wohlgeruch. Quarks &amp; Co zeigt, dass Käse weit mehr ist als ein alltägliches Lebensmittel: Dahinter steckt eine Kunst  die Kunst des Erfindens, des Herstellens und des Genießens.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130514.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1368537511/quarks/wdr_fernsehen_quarks_und_co_20130514.mp4" length="134536773" type="video/mp4" />
+</item>
+
+<item>
+  <title>quarks und co: 07.05.2013, Die Wissenschaft vom Klo</title>
+  <link>http://medien.wdr.de/m/1367958679/quarks/wdr_fernsehen_quarks_und_co_20130507.mp4</link>
+  <pubDate>Tue, 07 May 2013 22:31:19 +0200</pubDate>
+  <description>&quot;Sie ist unverzichtbarer Teil unseres Lebens und trotzdem reden wir nicht über sie: die Toilette. Im Laufe unseres Lebens verbringen wir bis zu neun Monate auf dem Klo und für viele ist es der Ort, an dem sie die besten Ideen haben. Quarks &amp; Co zeigt, was die Toilette zur wichtigsten Erfindung der Zivilisation macht, warum Frauenklos dreckiger sind als Herren-Toiletten und wie wir unser Geschäft in Zukunft verrichten werden.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130507.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1367958679/quarks/wdr_fernsehen_quarks_und_co_20130507.mp4" length="148601074" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 30.04.2013, Verbrechen</title>
+  <link>http://medien.wdr.de/m/1367348843/quarks/wdr_fernsehen_quarks_und_co_20130430.mp4</link>
+  <pubDate>Tue, 30 Apr 2013 21:07:23 +0200</pubDate>
+  <description>Mord, Totschlag, Diebstahl, Einbruch: Jeden Tag geschehen in Deutschland Verbrechen. Warum tun Täter so etwas? Und wie verändert ein Verbrechen das Opfer? Quarks &amp; Co zeigt die neuesten Entwicklungen in der Kriminaltechnik und fragt: Kann man Verbrechen vorhersagen?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130430.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1367348843/quarks/wdr_fernsehen_quarks_und_co_20130430.mp4" length="156257592" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 23.04.2013, Haltbarkeit um jeden Preis</title>
+  <link>http://medien.wdr.de/m/1366745775/quarks/wdr_fernsehen_quarks_und_co_20130423.mp4</link>
+  <pubDate>Tue, 23 Apr 2013 21:36:15 +0200</pubDate>
+  <description>Möglichst frisch soll unser Essen sein, am besten vom Feld direkt auf den Teller. Gut aussehen soll es auch und auf keinen Fall Konservierungsstoffe enthalten - Quarks &amp; Co zeigt, wie die Lebensmittelindustrie versucht, den widersprüchlichen Wünschen der Verbraucher nachzukommen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130423.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1366745775/quarks/wdr_fernsehen_quarks_und_co_20130423.mp4" length="147261450" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 09.04.2013, Krankenhaus mit Nebenwirkungen</title>
+  <link>http://medien.wdr.de/m/1365521573/quarks/wdr_fernsehen_quarks_und_co_20130409.mp4</link>
+  <pubDate>Tue, 09 Apr 2013 17:32:53 +0200</pubDate>
+  <description>Zum Gesundwerden gehört mehr als eine gute medizinische Behandlung. In gut gestalteten Krankenhäusern werden die Patienten schneller gesund! Erfüllen unsere Krankenhäuser auch diesen Aspekt der Heilung? Quarks &amp; Co hat sich umgesehen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130409.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1365521573/quarks/wdr_fernsehen_quarks_und_co_20130409.mp4" length="155590084" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 02.04.2013, Stress - 7 Dinge, die sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1364915062/quarks/wdr_fernsehen_quarks_und_co_20130402.mp4</link>
+  <pubDate>Tue, 02 Apr 2013 17:04:22 +0200</pubDate>
+  <description>In der modernen Gesellschaft scheint fast jedes ihrer Mitglieder unter &quot;Stress&quot; zu leiden, dabei ist Stress zunächst einmal die normale und gesunde Reaktion des Körpers auf äußere Situationen, die als bedrohlich wahrgenommen werden. Auf sie antwortet der Körper mit dem Anstieg der Puls/Herzfrequenz, der Ausschüttung bestimmter Hormone und der Abschaltung vieler seiner Systeme, die eine schnelle Flucht oder ein kraftvolles Sich-wehren ermöglichen. Insofern lässt Stress sich nicht abschaffen und kann sogar positive Aspekte haben. Traumatisch und pathologisch wirksam wird Stress aber dann, wenn die Stressreaktion sich mit der Erfahrung von Hilflosigkeit paart und das Gefühl entsteht, einer extremen und unabänderlichen Situation hilflos ausgeliefert zu sein. Die Sendung orientiert sich an den messbaren Stoffen und Größen, die bei Stressreaktionen eine Rolle spielen und sucht nach den belegbaren Gründen und den Folgen des Stresses in der Biologie des Menschen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130402.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1364915062/quarks/wdr_fernsehen_quarks_und_co_20130402.mp4" length="150294104" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 26.03.2013, Der verletzliche Riese</title>
+  <link>http://medien.wdr.de/m/1364333786/quarks/wdr_fernsehen_quarks_und_co_20130326.mp4</link>
+  <pubDate>Tue, 26 Mar 2013 22:36:26 +0100</pubDate>
+  <description>Der Kölner Dom ist das meistbesuchte historische Bauwerk Deutschlands. 20.000 Menschen besichtigen täglich die gotische Kathedrale, die bei ihrer Fertigstellung im Jahr 1880 das höchste Gebäude der Welt war - Quarks &amp; Co blickt hinter die Kulissen und entdeckt einen verletzlichen Riesen, dem Verwitterung und Umwelteinflüsse mächtig zusetzen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130326.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1364333786/quarks/wdr_fernsehen_quarks_und_co_20130326.mp4" length="148492673" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.03.2013, Das kleine 1x1 des Universums</title>
+  <link>http://medien.wdr.de/m/1363724138/quarks/wdr_fernsehen_quarks_und_co_20130319.mp4</link>
+  <pubDate>Tue, 19 Mar 2013 21:15:38 +0100</pubDate>
+  <description>Unser Universum steckt voller Geheimnisse und faszinierender Phänomene: Urknall, Schwarze Löcher, Dunkle Materie und Exoplaneten. Was ist das alles? Quarks &amp; Co erklärt, wie das Universum funktioniert und gibt Antworten auf die wichtigsten Fragen über unseren Kosmos.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130319.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1363724138/quarks/wdr_fernsehen_quarks_und_co_20130319.mp4" length="158324366" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks und Co: 12.03.2013, Unser Darm</title>
+  <link>http://medien.wdr.de/m/1363118718/quarks/wdr_fernsehen_quarks_und_co_20130312.mp4</link>
+  <pubDate>Tue, 12 Mar 2013 21:05:18 +0100</pubDate>
+  <description>Der Darm beeinflusst unsere Gesundheit viel stärker als bisher angenommen. Darmbakterien sind individuell wie ein Fingerabdruck, machen uns anfällig für bestimmte Krankheiten und können sogar dick machen! Neueste Forschung zeigt, dass der Darm sogar unsere Gefühle beeinflusst - Quarks &amp; Caspers stellt das Superorgan vor, hinterfragt gängige Verdauungsmythen und stellt fest, dass der Reizdarm alles andere als eine eingebildete Krankheit ist.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130312.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1363118718/quarks/wdr_fernsehen_quarks_und_co_20130312.mp4" length="192329803" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks und Co: 05.03.2013, Lautstarker Terror Leben mit Lärm</title>
+  <link>http://medien.wdr.de/m/1362521007/quarks/wdr_fernsehen_quarks_und_co_20130305.mp4</link>
+  <pubDate>Tue, 05 Mar 2013 23:03:27 +0100</pubDate>
+  <description>Lärm macht krank. Betroffen sind wir alle, denn wir können uns nicht generell vor Krach schützen. Quarks &amp; Co hakt nach: Welche Auswirkungen hat Lärm auf unsere Gesundheit? Wie lässt sich Lärm vermindern? Außerdem: Wie muss ein guter Staubsauger klingen? Und: Lärm als Waffe.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130305.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1362521007/quarks/wdr_fernsehen_quarks_und_co_20130305.mp4" length="169777262" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks und Co: 26.02.2013, Das Huhn</title>
+  <link>http://medien.wdr.de/m/1362173023/quarks/wdr_fernsehen_quarks_und_co_20130226.mp4</link>
+  <pubDate>Fri, 01 Mar 2013 22:23:43 +0100</pubDate>
+  <description>Das dumme Huhn ist gar nicht dumm. Im Gegenteil: Es hat mathematische Fähigkeiten, besitzt Empathie und ist ein geschickter Jäger. Wir Menschen lieben Hühner vor allem als Eier- und Fleischlieferant; aber um welchen Preis? Quarks &amp; Co stellt das Huhn in all seinen Facetten vor und macht sich auf die Suche nach glücklichen Hennen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130226.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1362173023/quarks/wdr_fernsehen_quarks_und_co_20130226.mp4" length="200161945" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.02.2013, Alkohol</title>
+  <link>http://medien.wdr.de/m/1361183805/quarks/wdr_fernsehen_quarks_und_co_20130219.mp4</link>
+  <pubDate>Mon, 18 Feb 2013 11:36:45 +0100</pubDate>
+  <description>Wer den Rausch studieren möchte, hat dazu im Kölner Karneval die beste Gelegenheit. Quarks &amp; Co war feiern und erklärt, was in den verschiedenen Phasen des Rauschs in unserem Gehirn passiert.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130219.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1361183805/quarks/wdr_fernsehen_quarks_und_co_20130219.mp4" length="157064256" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 05.02.2013, Unser tägliches Doping</title>
+  <link>http://medien.wdr.de/m/1360095661/quarks/wdr_fernsehen_quarks_und_co_20130205.mp4</link>
+  <pubDate>Tue, 05 Feb 2013 21:21:01 +0100</pubDate>
+  <description>Höher, schneller, weiter heißt heute die Devise - oft um jeden Preis. Doping gehört längst nicht nur für viele Spitzensportler zum Alltag. Denn wir dopen fast alle: der Kaffee am Morgen, der Energy-Drink am Abend und  immer beliebter: Leistungs-Pillen für das Gehirn; aber warum tun wir das und was macht Doping mit uns?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130205.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1360095661/quarks/wdr_fernsehen_quarks_und_co_20130205.mp4" length="151015654" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.01.2013, Geheimnissvolle Faszien</title>
+  <link>http://medien.wdr.de/m/1359485494/quarks/wdr_fernsehen_quarks_und_co_20130129.mp4</link>
+  <pubDate>Tue, 29 Jan 2013 19:51:34 +0100</pubDate>
+  <description>Zwei Drittel der Deutschen leiden unter Rückenproblemen. Aber trotz Röntgen- oder Kernspin-Bildern ist vielen Ärzten ein möglicher Verursacher der Schmerzen bisher entgangen: Faszien! Dieses Bindegewebe hielten Wissenschaftler bisher für totes Stützmaterial! Immer mehr wird klar, dass die Faszien bei der Entstehung von Rückenschmerzen eine Rolle spielen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130129.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1359485494/quarks/wdr_fernsehen_quarks_und_co_20130129.mp4" length="178414306" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.01.2013, Die geheimnisvolle Welt des Spielens</title>
+  <link>http://medien.wdr.de/m/1358884712/quarks/wdr_fernsehen_quarks_und_co_20130122.mp4</link>
+  <pubDate>Tue, 22 Jan 2013 20:58:32 +0100</pubDate>
+  <description>Alle spielen: Tiere und Menschen, Kinder und Erwachsene, Männer und Frauen, Alte und Junge. Das Spiel ist kein unnützer Zeitvertreib, sondern existenzieller Bestandteil unseres Lebens - es kann gesund, aber auch krank machen; Quarks &amp; Co taucht ein in die Welt des Spiels und erklärt, welchen Einfluss es auf die kindliche Entwicklung hat und warum Männer anders spielen als Frauen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130122.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1358884712/quarks/wdr_fernsehen_quarks_und_co_20130122.mp4" length="162417312" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 15.01.2013, Schicht im Schacht</title>
+  <link>http://medien.wdr.de/m/1358279900/quarks/wdr_fernsehen_quarks_und_co_20130115.mp4</link>
+  <pubDate>Tue, 15 Jan 2013 20:58:20 +0100</pubDate>
+  <description>100 Jahre wurde im Bergwerk West in Kamp-Lintfort Kohle gefördert. Jetzt ist Schluss - das Bergwerk West wird geschlossen! Quarks &amp; Co begleitet die Kumpels bei ihrer letzten Förderschicht und bei der Abwicklung ihres Bergwerks; Ranga Yogeshwar betrachtet dabei auch die Geschichte und die Entwicklung des Ruhrgebiets und wagt einen Blick in die Zukunft der ehemaligen Industrieregion.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20130115.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1358279900/quarks/wdr_fernsehen_quarks_und_co_20130115.mp4" length="171867455" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.12.2012, 100 Dinge, die wir Anfang des Jahres noch nicht wussten</title>
+  <link>http://medien.wdr.de/m/1355858839/quarks/wdr_fernsehen_quarks_und_co_20121218.mp4</link>
+  <pubDate>Tue, 18 Dec 2012 20:27:19 +0100</pubDate>
+  <description>Welche Entdeckung oder Erfindung fanden Sie 2012 besonders spannend oder bewegend? Sie haben im Internet abgestimmt - das Ergebnis: Ihre Top 100 aus der Welt der Wissenschaft! Ralph Caspers präsentiert Ihnen eine Auswahl der überraschendsten, schönsten und kuriosesten Geschichten, die 2012 für Schlagzeilen sorgten.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121218.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1355858839/quarks/wdr_fernsehen_quarks_und_co_20121218.mp4" length="177141442" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 11.12.2012, Der lange Weg zum Mars</title>
+  <link>http://medien.wdr.de/m/1355258225/quarks/wdr_fernsehen_quarks_und_co_20121211.mp4</link>
+  <pubDate>Tue, 11 Dec 2012 21:37:05 +0100</pubDate>
+  <description>Keinen anderen Planeten erforschen wir so intensiv wie den Mars - &quot;nur&quot; rund 60 Millionen Kilometer entfernt, ähnelt er der Erde in Vielem. Seit Monaten sucht &quot;Curiosity&quot;, der teuerste fahrbare Roboter aller Zeiten, nach Spuren des Lebens auf dem Roten Planeten; werden eines Tages Menschen folgen? Quarks &amp; Co macht sich auf den langen Weg zum Mars.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121211.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1355258225/quarks/wdr_fernsehen_quarks_und_co_20121211.mp4" length="178258937" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.11.2012, In der Arktis</title>
+  <link>http://medien.wdr.de/m/1354033488/quarks/wdr_fernsehen_quarks_und_co_20121127.mp4</link>
+  <pubDate>Tue, 27 Nov 2012 17:24:48 +0100</pubDate>
+  <description>Ranga Yogeshwar unterwegs im eiskalten NordenDie Heimat der Eisbären ist in Gefahr: Der Klimawandel lässt in der Arktis die Temperaturen steigen - künftig noch stärker als heute schon! Welche Folgen sind bereits heute in der weißen Wildnis sichtbar? Ranga Yogeshwar besucht Forscher in Ny Ålesund auf Spitzbergen und begleitet sie zu abschmelzenden Gletschern und in die eisige Unterwasserwelt des Polarmeers; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121127.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1354033488/quarks/wdr_fernsehen_quarks_und_co_20121127.mp4" length="159303677" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 20.11.2012, Quarks &amp; Co: Kaufen. 7 Dinge, die Sie wissen sollten</title>
+  <link>http://medien.wdr.de/m/1353441580/quarks/wdr_fernsehen_quarks_und_co_20121120.mp4</link>
+  <pubDate>Tue, 20 Nov 2012 20:59:40 +0100</pubDate>
+  <description>Was man wann wo wie und in welchen Mengen kauft, ist kein Zufall. Vorher haben sich Experten Gedanken gemacht, wie sie die potenziellen Käufer dazu bringen können, ein bestimmtes Produkt in den Einkaufskorb zu legen; Quarks &amp; Caspers stellt die überraschendsten und kuriosesten sieben Dinge rund ums Kaufen vor; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121120.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1353441580/quarks/wdr_fernsehen_quarks_und_co_20121120.mp4" length="165577535" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 13.11.2012, Wie geht Wein?</title>
+  <link>http://medien.wdr.de/m/1352837688/quarks/wdr_fernsehen_quarks_und_co_20121113.mp4</link>
+  <pubDate>Tue, 13 Nov 2012 21:14:48 +0100</pubDate>
+  <description>Wein ist ein Phänomen, ein Mythos, ein Geheimnis - behauptet jedenfalls das Marketing des Weinhandels. Aber was ist guter Wein, und wie macht man ihn? Quarks &amp; Co begleitet einen Winzer durch das Jahr, erzählt die Geschichte des Weinbaus und geht der Frage nach, welchen Einfluss das Klima hat.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121113.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1352837688/quarks/wdr_fernsehen_quarks_und_co_20121113.mp4" length="163913977" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.11.2012, Quarks &amp; Co: Heute gekauft, morgen kaputt</title>
+  <link>http://medien.wdr.de/m/1352287664/quarks/wdr_fernsehen_quarks_und_co_20121106.mp4</link>
+  <pubDate>Wed, 07 Nov 2012 12:27:44 +0100</pubDate>
+  <description>Kaum ist die Garantie abgelaufen, bleibt der Fernseher schwarz. Und das neue T-Shirt leiert schon nach der ersten Wäsche aus. Es scheint, als würden viele Produkte heute nur noch hergestellt, um möglichst schnell wieder kaputt zu gehen - auf dass wir sie ersetzen müssen; bleibt die Frage, ob die Unternehmen bewusst auf Qualität und Langlebigkeit verzichten oder ob unser Wunsch, immer das Neueste vom Neuen zu haben, diese Verschwendung erst hervorgebracht hat.</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121106.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1352287664/quarks/wdr_fernsehen_quarks_und_co_20121106.mp4" length="161657822" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 30.10.2012, Quarks &amp; Caspers: Fett</title>
+  <link>http://medien.wdr.de/m/1351617822/quarks/wdr_fernsehen_quarks_und_co_20121030.mp4</link>
+  <pubDate>Tue, 30 Oct 2012 18:23:42 +0100</pubDate>
+  <description>7 Dinge, die Sie wissen sollten! Das Thema Fett ist im wahrsten Sinne &quot;in aller Munde&quot; und manche Menschen bekommen schon Aversionen, wenn nur der geringste Verdacht entsteht, eine Speise könnte Fett enthalten - Quarks &amp; Caspers erzählt sieben unbekannte, erstaunliche und überraschende Dinge über das Fett, das wir zu uns nehmen und das Fett, das wir in unseren Körpern speichern.</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121030.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1351617822/quarks/wdr_fernsehen_quarks_und_co_20121030.mp4" length="155420024" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 23.10.2012, Entspann dich!</title>
+  <link>http://medien.wdr.de/m/1351022031/quarks/wdr_fernsehen_quarks_und_co_20121023.mp4</link>
+  <pubDate>Tue, 23 Oct 2012 21:53:51 +0200</pubDate>
+  <description>Manchmal wächst einem alles über den Kopf: Arbeit, Familie und sogar das geliebte Hobby. Man fühlt sich gestresst. Aber viele Menschen merken gar nicht, dass sie dauerhaft angespannt sind - und werden krank; stressbedingte Erkrankungen rangieren in Statistiken ganz vorn - Quarks &amp; Co erklärt, warum Stress die Gesundheit gefährdet und wie die ideale Feierabend-Entspannung aussieht.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121023.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1351022031/quarks/wdr_fernsehen_quarks_und_co_20121023.mp4" length="166166375" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 02.10.2012, Wie viel Fisch soll auf den Tisch?</title>
+  <link>http://medien.wdr.de/m/1349202211/quarks/wdr_fernsehen_quarks_und_co_20121002.mp4</link>
+  <pubDate>Tue, 02 Oct 2012 20:23:31 +0200</pubDate>
+  <description>Fisch gilt heute als wichtiger Bestandteil einer ausgewogenen Ernährung. Experten empfehlen zweimal pro Woche Fisch zu essen. Doch wie wichtig ist Fisch wirklich für die Gesundheit? Und: Welche Arten darf man angesichts leergefischter Meere überhaupt noch kaufen?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20121002.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1349202211/quarks/wdr_fernsehen_quarks_und_co_20121002.mp4" length="167731704" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.09.2012, Quarks &amp; Co Talk: David Behre</title>
+  <link>http://medien.wdr.de/m/1347988702/quarks/wdr_fernsehen_quarks_und_co_20120918.mp4</link>
+  <pubDate>Tue, 18 Sep 2012 19:18:22 +0200</pubDate>
+  <description>Der schnellste Deutsche ohne Füße -Mit 19 wird David Behre von einem Zug überrollt und verliert beide Beine. Heute ist Behre der schnellste deutsche Sprinter mit Prothesen! Quarks &amp; Co begleitet den jungen Sportler bei den Paralympics 2012 in London und Ranga Yogeshwar spricht mit David Behre über seinen Unfall, wie er das Trauma der Amputation mithilfe des Sports überwand, was ein Leben mit Prothesen genau bedeutet und warum Sport-Wissenschaftler nach wie vor über die angeblichen Wettbewerbsvorteile von Prothesen diskutieren. [mehr]; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120918.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1347988702/quarks/wdr_fernsehen_quarks_und_co_20120918.mp4" length="130690591" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 04.09.2012, Die Natur im Waisenhaus</title>
+  <link>http://medien.wdr.de/m/1346786135/quarks/wdr_fernsehen_quarks_und_co_20120904.mp4</link>
+  <pubDate>Tue, 04 Sep 2012 21:15:35 +0200</pubDate>
+  <description>Wilderei ist ein lukratives Geschäft  obwohl der Handel mit Elfenbein seit 1989 weltweit verboten ist. &quot;Es reicht nicht aus, zu sagen: Schützt die Elefanten&quot;, erklärt Ranga Yogeshwar: &quot;Es ist wichtig, auch die Menschen vor Ort zu verstehen.&quot; Sein Fazit: &quot;Die Armut und die Not der Menschen sind der Nährboden für Wilderei.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120904.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1346786135/quarks/wdr_fernsehen_quarks_und_co_20120904.mp4" length="161426801" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 28.08.2012, Der Buschmann in uns</title>
+  <link>http://medien.wdr.de/m/1346135962/quarks/wdr_fernsehen_quarks_und_co_20120828.mp4</link>
+  <pubDate>Tue, 28 Aug 2012 08:39:22 +0200</pubDate>
+  <description>Auf Spurensuche beim ältesten Volk der Welt. Quarks &amp; Co begibt sich auf Spurensuche zu einer der letzten Jäger- und Sammler-Kulturen der Welt: zu den San in Namibia. Diese &quot;Buschleute&quot;  wie sie sich selbst nennen - sind für Wissenschaftler etwas ganz Besonderes: Sowohl ihre uralte Klicksprache als auch ihre Gene deuten darauf hin, dass diese Menschen dem ältesten Volk der Welt angehören.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120828.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1346135962/quarks/wdr_fernsehen_quarks_und_co_20120828.mp4" length="166886741" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 21.08.2012, Der Lehrer - Das unbekannte Wesen</title>
+  <link>http://medien.wdr.de/m/1345616915/quarks/wdr_fernsehen_quarks_und_co_20120821.mp4</link>
+  <pubDate>Wed, 22 Aug 2012 08:28:35 +0200</pubDate>
+  <description>Lehrer haben vormittags Recht und nachmittags frei. Oder? Quarks &amp; Co geht den häufigsten Klischees zum Beruf des Pädagogen auf den Grund, besucht drei der beliebtesten Lehrer aus NRW im Unterricht, begleitet eine Referendarin bei ihrer zweiten Staats-Prüfung und erklärt, wie sich der so genannte Praxisschock vermeiden lässt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120821.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1345616915/quarks/wdr_fernsehen_quarks_und_co_20120821.mp4" length="158426661" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 14.08.2012, Wie alt bist Du wirklich?</title>
+  <link>http://medien.wdr.de/m/1344971930/quarks/wdr_fernsehen_quarks_und_co_20120814.mp4</link>
+  <pubDate>Tue, 14 Aug 2012 21:18:50 +0200</pubDate>
+  <description>Alle wollen lange leben, aber niemand will altern. Darum fragt Quarks &amp; Co: Ist man notwendigerweise so alt, wie es im Pass steht, oder doch eher so, wie man sich fühlt? Was ist das so genannte &quot;biologische Alter&quot;? Kann man das Altern verlangsamen, zum Beispiel mit Tricks wie Vitaminpillen oder mit grünem Tee? Außerdem will Quarks &amp; Co wissen, ob Altern immer nur Abbau bedeuten muss, oder ob man auch etwas dabei gewinnen kann: Gibt es tatsächlich so etwas wie Alters-Weisheit?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120814.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1344971930/quarks/wdr_fernsehen_quarks_und_co_20120814.mp4" length="168348532" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.08.2012, Was ist dran? Teil 2</title>
+  <link>http://medien.wdr.de/m/1344364270/quarks/wdr_fernsehen_quarks_und_co_20120807.mp4</link>
+  <pubDate>Tue, 07 Aug 2012 20:31:10 +0200</pubDate>
+  <description>&quot;Lesen bei schwacher Beleuchtung schädigt die Augen&quot;. Oder können die Lebensumstände die Augen kurzsichtig machen? Mit der Taschenlampe heimlich unter der Bettdecke lesen macht Spaß, besonders, weil es die Eltern verboten haben. Denn Lesen bei schwacher Beleuchtung schadet den Augen, heißt es.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120807.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1344364270/quarks/wdr_fernsehen_quarks_und_co_20120807.mp4" length="165479987" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 31.07.2012, Was ist dran?</title>
+  <link>http://medien.wdr.de/m/1343763624/quarks/wdr_fernsehen_quarks_und_co_20120731.mp4</link>
+  <pubDate>Tue, 31 Jul 2012 21:40:24 +0200</pubDate>
+  <description>Die Top 10 der Zuschauerfragen bei Quarks &amp; Caspers: Was ist dran an Alltagsweisheiten? Quarks beantwortet die häufigsten zehn Rätsel, Mythen und Sprüche, über die das Publikum abgestimmt hat. In der ersten Folge von Was ist dran? präsentiert Gastmoderator Ralph Caspers die Plätze 10 bis 6 Ihrer Fragen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120731.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1343763624/quarks/wdr_fernsehen_quarks_und_co_20120731.mp4" length="155879360" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.07.2012, Wie geht es unserem Wald?</title>
+  <link>http://medien.wdr.de/m/1343370588/quarks/wdr_fernsehen_quarks_und_co_20120724.mp4</link>
+  <pubDate>Fri, 27 Jul 2012 08:29:48 +0200</pubDate>
+  <description>Ein Drittel von Deutschland ist mit Wald bedeckt. Wald  das ist für uns Idylle und Naturgenuss. Aber wie viel Natur steckt wirklich drin in unserem Wald  und wie viel Holzplantage? Wie gesund ist der Wald heute, nachdem wir uns alle vor dem &quot;Waldsterben&quot; gefürchtet haben? Und wie machen wir den Wald fit für die Zukunft?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120724.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1343370588/quarks/wdr_fernsehen_quarks_und_co_20120724.mp4" length="167619339" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 17.07.2012, Deutschland im Kaffeerausch</title>
+  <link>http://medien.wdr.de/m/1342549394/quarks/wdr_fernsehen_quarks_und_co_20120717.mp4</link>
+  <pubDate>Tue, 17 Jul 2012 20:23:14 +0200</pubDate>
+  <description>Kaffee ist das Lieblingsgetränk der Deutschen: Rund 1.000 Tassen trinkt jeder pro Jahr  zum wach werden und wach bleiben. Aber warum ist dieses Getränk so beliebt? Was genau steckt drin im Kaffee? Und ist er eigentlich gesund oder eher schädlich? Quarks &amp; Co geht diesen Fragen nach, versucht das Geheimnis des guten Geschmacks zu lüften.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120717.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1342549394/quarks/wdr_fernsehen_quarks_und_co_20120717.mp4" length="151270939" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.07.2012, Wo Deutschland am schönsten ist</title>
+  <link>http://medien.wdr.de/m/1341946088/quarks/wdr_fernsehen_quarks_und_co_20120710.mp4</link>
+  <pubDate>Tue, 10 Jul 2012 20:48:08 +0200</pubDate>
+  <description>Das Geheimnis sagenhafter Orte. Muscheln auf dem Berg, Stoßzähne in der Nordsee: Wer die Augen aufmacht, kann in Deutschland viel entdecken. Warum in die Ferne schweifen? Quarks zeigt, wie spannend Deutschland ist.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120710.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1341946088/quarks/wdr_fernsehen_quarks_und_co_20120710.mp4" length="155059506" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.07.20012, Der Nocebo-Effekt</title>
+  <link>http://medien.wdr.de/m/1341335725/quarks/wdr_fernsehen_quarks_und_co_20120703.mp4</link>
+  <pubDate>Tue, 03 Jul 2012 19:15:25 +0200</pubDate>
+  <description>Der Nocebo-Effekt-Wenn Gedanken krank machen-Der Placebo-Effekt ist heute gut bekannt. Er tritt auf, wenn ein Mittel ohne jeden Wirkstoff heilt. Doch es gibt auch den umgekehrten Fall: Eine negative Erwartung kann krank machen! Der Nocebo-Effekt, wörtlich übersetzt &quot;Ich werde schaden&quot;, gilt als böser Bruder des Placebo; doch wie wird er ausgelöst und was passiert dabei im Körper? Quarks &amp; Co ist den krank machenden Gedanken auf der Spur.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120703.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1341335725/quarks/wdr_fernsehen_quarks_und_co_20120703.mp4" length="166766816" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 26.06.2012, Trinken</title>
+  <link>http://medien.wdr.de/m/1340724413/quarks/wdr_fernsehen_quarks_und_co_20120626.mp4</link>
+  <pubDate>Tue, 26 Jun 2012 17:26:53 +0200</pubDate>
+  <description>Trinken,10 Dinge, die Sie wissen sollten! Trinken ist lebenswichtig: Ohne Flüssigkeitszufuhr verdursten wir nach drei bis vier Tagen. Doch warum ist Wasser so wichtig? Wie viel Flüssigkeit braucht unser Körper wirklich? Und wofür? Muss es überhaupt Wasser sein? Ralph Caspers hat Antworten auf diese und andere Fragen rund ums Trinken und räumt auch mit zahlreichen Mythen rund ums Thema Wasser auf; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120626.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1340724413/quarks/wdr_fernsehen_quarks_und_co_20120626.mp4" length="168109946" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.06.2012, Zeitreise durch 2.000 Jahre</title>
+  <link>http://medien.wdr.de/m/1340174284/quarks/wdr_fernsehen_quarks_und_co_20120619.mp4</link>
+  <pubDate>Wed, 20 Jun 2012 08:38:04 +0200</pubDate>
+  <description>Köln ist eine der ältesten Städte Deutschlands und war schon zur Zeit der Römer eine pulsierende Metropole. Quarks &amp; Co gräbt sich auf einer Zeitreise Schicht für Schicht durch 2.000 Jahre deutscher Geschichte. ; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120619.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1340174284/quarks/wdr_fernsehen_quarks_und_co_20120619.mp4" length="166110680" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 12.06.2012, Die Welt der Babys</title>
+  <link>http://medien.wdr.de/m/1339516498/quarks/wdr_fernsehen_quarks_und_co_20120612.mp4</link>
+  <pubDate>Tue, 12 Jun 2012 17:54:58 +0200</pubDate>
+  <description>Babys scheinen nichts anderes zu tun als zu schlafen, zu trinken und zu schreien. Dabei ist im Kopf von Säuglingen viel mehr los, als man bisher dachte. Inzwischen wissen Forscher: Kein Jahr ist für die spätere Entwicklung des Menschen so wichtig wie das erste Lebensjahr! Quarks &amp; Co fragt Neurobiologen, wie viel Förderung Babys überhaupt brauchen, und zeigt, wie ein Säugling wahrnimmt, wie er sprechen und denken lernt, schon lange, bevor er sich verständigen kann.</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120612.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1339516498/quarks/wdr_fernsehen_quarks_und_co_20120612.mp4" length="149570310" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 05.06.2012, Geld</title>
+  <link>http://medien.wdr.de/m/1338984519/quarks/wdr_fernsehen_quarks_und_co_20120605.mp4</link>
+  <pubDate>Wed, 06 Jun 2012 14:08:39 +0200</pubDate>
+  <description>Alle wollen es haben, und zwar möglichst viel davon: Geld regiert die Welt. Es gibt kaum etwas, das die Menschen mehr interessiert. Quarks &amp; Caspers erklärt, warum Geld eine geniale Erfindung ist, wir uns im Umgang damit aber zu oft auf unser Gefühl verlassen - außerdem geht es um die Fragen, wie dreckig Geld wirklich ist, warum es für reiche Menschen besser ist, ihr Geld für alle möglichen Dienstleistungen auszugeben, statt es erneut anzulegen und wann Geld süchtig macht.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120605.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1338984519/quarks/wdr_fernsehen_quarks_und_co_20120605.mp4" length="165897021" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.05.2012, Edelschimmel und Scheibletten - Die Wissenschaft vom Käse</title>
+  <link>http://medien.wdr.de/m/1338315769/quarks/wdr_fernsehen_quarks_und_co_20120529.mp4</link>
+  <pubDate>Tue, 29 May 2012 20:22:49 +0200</pubDate>
+  <description>Käse ist Geschmackssache. Was dem einen stinkt, ist für den anderen ein Wohlgeruch. Quarks &amp; Co zeigt, dass Käse weit mehr ist als ein alltägliches Lebensmittel: Dahinter steckt eine Kunst  die Kunst des Erfindens, des Herstellens und des Genießens.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120529.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1338315769/quarks/wdr_fernsehen_quarks_und_co_20120529.mp4" length="134536773" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.05.2012, Auf der Suche nach dem Glück</title>
+  <link>http://medien.wdr.de/m/1337704604/quarks/wdr_fernsehen_quarks_und_co_20120522.mp4</link>
+  <pubDate>Tue, 22 May 2012 18:36:44 +0200</pubDate>
+  <description>Vom Herzchirurgen zum Brummifahrer - Er war ein &quot;Halbgott in Weiß&quot;, Herr über Leben und Tod, mit Leib und Seele Herzchirurg. Doch auf dem Höhepunkt seiner Karriere entschloss sich Markus Studer zu einem &quot;Spurwechsel&quot; Er erfüllte sich seinen Jugendtraum, kaufte sich einen 40-Tonner und ist seitdem als Brummi-Fahrer unterwegs - mit Ranga Yogeshwar spricht der Schweizer über seine Entscheidung.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120522.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1337704604/quarks/wdr_fernsehen_quarks_und_co_20120522.mp4" length="127715690" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 15.05.2012, Hitzewelle, Tornado, Wolkenbruch. Wenn das Wetter verrückt spielt</title>
+  <link>http://medien.wdr.de/m/1337109616/quarks/wdr_fernsehen_quarks_und_co_20120515.mp4</link>
+  <pubDate>Tue, 15 May 2012 21:20:16 +0200</pubDate>
+  <description>Wüstentemperaturen im Rheinland, Wirbelstürme im Ruhrgebiet und &quot;Land unter&quot; durch Starkregen: Häufiger als früher fühlen wir uns durch Extremwetterlagen bedroht  sind das schon die Vorboten des Klimawandels?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120515.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1337109616/quarks/wdr_fernsehen_quarks_und_co_20120515.mp4" length="132566064" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.05.2012, Leben mit dem Down-Syndrom</title>
+  <link>http://medien.wdr.de/m/1336507361/quarks/wdr_fernsehen_quarks_und_co_20120508.mp4</link>
+  <pubDate>Tue, 08 May 2012 22:02:41 +0200</pubDate>
+  <description>Quarks &amp; Co will wissen: Wie leben sie, wie fühlen sie? Etwa 50.000 Menschen in Deutschland haben das Down Syndrom. Es ist nur kleiner Unterschied im Erbgut. Doch was bewirkt er? Wie sieht der Alltag von Menschen mit Down-Syndrom aus. wie lernen sie, wie arbeiten sie? Und wie empfinden sie es, das Down Syndrom zu haben?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120508.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1336507361/quarks/wdr_fernsehen_quarks_und_co_20120508.mp4" length="128500396" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.04.2012, Der verletzliche Riese</title>
+  <link>http://medien.wdr.de/m/1335292217/quarks/wdr_fernsehen_quarks_und_co_20120424.mp4</link>
+  <pubDate>Tue, 24 Apr 2012 20:30:17 +0200</pubDate>
+  <description>Der Kölner Dom ist das meistbesuchte historische Bauwerk Deutschlands. 20.000 Menschen besichtigen täglich die gotische Kathedrale, die bei ihrer Fertigstellung im Jahr 1880 das höchste Gebäude der Welt war - Quarks &amp; Co blickt hinter die Kulissen und entdeckt einen verletzlichen Riesen, dem Verwitterung und Umwelteinflüsse mächtig zusetzen.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120424.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1335292217/quarks/wdr_fernsehen_quarks_und_co_20120424.mp4" length="120918619" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 17.04.2012, Schlaflosigkeit</title>
+  <link>http://medien.wdr.de/m/1334683496/quarks/wdr_fernsehen_quarks_und_co_20120417.mp4</link>
+  <pubDate>Tue, 17 Apr 2012 19:24:56 +0200</pubDate>
+  <description>Schäfchenzählen, Meditation oder ein heißes Bad vor dem Zubettgehen,es gibt viele Tipps aus der Volksapotheke, die bei Schlaflosigkeit helfen sollen; aber was, wenn das Einschlafen ewig dauert, das Durchschlafen schwerfällt oder man immer wieder aufwacht? Quarks und Caspers stellt zehn Dinge vor, die man über Schlaflosigkeit wissen sollte, und Moderator Ralph Caspers gibt Tipps für einen erholsamen Schlaf; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120417.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1334683496/quarks/wdr_fernsehen_quarks_und_co_20120417.mp4" length="116951059" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.04.2012, Ein Schweineleben</title>
+  <link>http://medien.wdr.de/m/1334939196/quarks/wdr_fernsehen_quarks_und_co_20120410.mp4</link>
+  <pubDate>Fri, 20 Apr 2012 18:26:36 +0200</pubDate>
+  <description>Das Schwein ist ein intelligentes, empfindsames und sympathisches Lebewesen, dessen Alltag meist in krassem Widerspruch zu seinen tatsächlichen Bedürfnissen steht; rund 40 Millionen Schweine leben unter uns, doch die Meisten kennen diese nahen Verwandten des Nilpferds nur als Schnitzel - Quarks &amp; Co sieht sich ein Schweineleben einmal genauer an.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120410.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1334939196/quarks/wdr_fernsehen_quarks_und_co_20120410.mp4" length="115803471" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.04.2012, Was Sie schon immer über Eier wissen wollten</title>
+  <link>http://medien.wdr.de/m/1333473128/quarks/wdr_fernsehen_quarks_und_co_20120403.mp4</link>
+  <pubDate>Tue, 03 Apr 2012 19:12:08 +0200</pubDate>
+  <description>Zwischen Karneval und Ostern bricht ein regelrechter Eier-Boom aus: Dann werden neben den frischen Eiern vor allem bunte Ostereier gekauft. Aber wie entsteht überhaupt das Ei im Huhn? Wodurch wird die Farbe der Eier bestimmt? Und wie wurde aus dem Haushuhn eine hocheffiziente Eierleg-Maschine, die bis zu 300 Eier pro Jahr legt? Und Moderator Ralph Caspers stellt das Ergebnis des größten Eier-Koch-Experiments vor: Anpiksen oder nicht?; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120403.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1333473128/quarks/wdr_fernsehen_quarks_und_co_20120403.mp4" length="119239900" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.03.2012, Alles. Immer. Überall. Wie Logistik unseren Alltag bestimmt</title>
+  <link>http://medien.wdr.de/m/1332872420/quarks/wdr_fernsehen_quarks_und_co_20120327.mp4</link>
+  <pubDate>Tue, 27 Mar 2012 20:20:20 +0200</pubDate>
+  <description>Wir können alles kaufen  immer und an fast jedem Ort. Im Supermarkt ist das Obst immer frisch und das per Mausklick bestellte Buch landet nach 24 Stunden in unserem Briefkasten; Quarks &amp; Co zeigt, wie Logistik unseren Alltag bestimmt, wie sich der Gütertransport auf die Umwelt auswirkt und welche logistischen Herausforderungen die Zukunft bringt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120327.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1332872420/quarks/wdr_fernsehen_quarks_und_co_20120327.mp4" length="126862906" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 20.03.2012, Der Feind in Uns</title>
+  <link>http://medien.wdr.de/m/1332261557/quarks/wdr_fernsehen_quarks_und_co_20120320.mp4</link>
+  <pubDate>Tue, 20 Mar 2012 17:39:17 +0100</pubDate>
+  <description>Seit Anfang 2010 häufen sich in Europa Fälle einer extrem seltenen Autoimmunkrankheit  der so genannten Narkolepsie. Die Betroffenen fallen immer wieder in einen plötzlichen Schlaf, ihre Glieder werden schlaff, sie verlieren die Kontrolle über ihren Körper.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120320.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1332261557/quarks/wdr_fernsehen_quarks_und_co_20120320.mp4" length="126525304" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 13.03.2012, Was Gesichter verraten</title>
+  <link>http://medien.wdr.de/m/1331755025/quarks/wdr_fernsehen_quarks_und_co_20120313.mp4</link>
+  <pubDate>Wed, 14 Mar 2012 20:57:05 +0100</pubDate>
+  <description>Quarks &amp; Co zeigt eine erstaunliche Leistung des Gehirns.Es ist phänomenal, wie schnell und sicher das Gehirn Gesichter erkennt und vom Gesicht Gefühle ablesen kann. Quarks erklärt, wieso diese Fähigkeit so wichtig ist und fragt unter anderem, ob die Mimik in unterschiedlichen Kulturkreisen immer dasselbe ausdrückt.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120313.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1331755025/quarks/wdr_fernsehen_quarks_und_co_20120313.mp4" length="142423302" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.03.2012, Fukushima</title>
+  <link>http://medien.wdr.de/m/1331066104/quarks/wdr_fernsehen_quarks_und_co_20120306.mp4</link>
+  <pubDate>Tue, 06 Mar 2012 21:35:04 +0100</pubDate>
+  <description>Am 11. März 2011 arbeitet zufällig eine Gruppe deutscher Materialprüfer im Kernkraftwerk Fukushima-Daiichi. Gorden Hünies und seine Kollegen sind im Block vier des Kernkraftwerks als die Erde mit der Stärke 9,0 bebt. Sie erleben, wie es zu dem Unfall in dem Kernkraftwerk kommt. Nachdem zunächst das Stromnetz zusammenbricht, zerstört der folgende Tsunami die wichtigen Notstromversorgungen, so dass die Kühlsysteme des Kraftwerks nach und nach ausfallen. Der Druck in den Sicherheitsbehältern steigt, so dass Wasserstoffexplosionen die Blöcke eins und drei zerreißen und radioaktives Material in die Umgebung verteilen. Im Film erfahren sie die Details der Atomkatastrophe und wie Gorden Hünies den Unfall erlebt hat.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120306.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1331066104/quarks/wdr_fernsehen_quarks_und_co_20120306.mp4" length="145051980" type="video/mp4" />
+</item>
+
+<item>
+  <title>quarks &amp; co: 28.02.2012, Fasten und Abnehmen</title>
+  <link>http://medien.wdr.de/m/1330502839/quarks/wdr_fernsehen_quarks_und_co_20120228.mp4</link>
+  <pubDate>Wed, 29 Feb 2012 09:07:19 +0100</pubDate>
+  <description>in paar Kilo abnehmen, den Körper entschlacken, innerlich zur Ruhe kommen  ist eine Fastenkur dafür das Richtige? Was passiert im Körper beim Fasten? Moderator Ralph Caspers zeigt, wie man richtig verzichtet.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120228.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1330502839/quarks/wdr_fernsehen_quarks_und_co_20120228.mp4" length="156729771" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 14.02.2012, Alkohol</title>
+  <link>http://medien.wdr.de/m/1329234118/quarks/wdr_fernsehen_quarks_und_co_20120214.mp4</link>
+  <pubDate>Tue, 14 Feb 2012 16:41:58 +0100</pubDate>
+  <description>Wer den Rausch studieren möchte, hat dazu im Kölner Karneval die beste Gelegenheit. Quarks &amp; Co war feiern und erklärt, was in den verschiedenen Phasen des Rauschs in unserem Gehirn passiert.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120214.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1329234118/quarks/wdr_fernsehen_quarks_und_co_20120214.mp4" length="157064256" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.02.2012, Amnesie  Die Luecke im Leben</title>
+  <link>http://medien.wdr.de/m/1328644202/quarks/wdr_fernsehen_quarks_und_co_20120207.mp4</link>
+  <pubDate>Tue, 07 Feb 2012 20:50:02 +0100</pubDate>
+  <description>Es klingt wie das Drehbuch zu &quot;Good Bye, Lenin!&quot;. Kurz vor der Wende verliert Janet Oldinski ihr Gedächtnis. Nach dem Mauerfall ist nicht nur die DDR sondern auch ihr altes Leben verschwunden.; © WDR Videopodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120207.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1328644202/quarks/wdr_fernsehen_quarks_und_co_20120207.mp4" length="147734450" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 31.01.2012, Die großen, ungelösten Rätsel der Physik</title>
+  <link>http://medien.wdr.de/m/1328040000/quarks/wdr_fernsehen_quarks_und_co_20120131.mp4</link>
+  <pubDate>Tue, 31 Jan 2012 21:00:00 +0100</pubDate>
+  <description>Was ist es, dass die Welt im Innersten zusammenhält? Antworten gibt es viele. Doch bis heute bleiben viele Fragen offen. Quarks &amp; Co widmet sich den bedeutenden ungelösten Rätseln der Physik.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120131.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1328040000/quarks/wdr_fernsehen_quarks_und_co_20120131.mp4" length="149755010" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.01.2012, Medikamente - von Wirkungen und Nebenwirkungen...</title>
+  <link>http://medien.wdr.de/m/1327435200/quarks/wdr_fernsehen_quarks_und_co_20120124.mp4</link>
+  <pubDate>Tue, 24 Jan 2012 21:00:00 +0100</pubDate>
+  <description>Das Kostbarste, was wir haben, ist unsere Gesundheit. Und dafür sind in Deutschland genau 61.503 Arzneimittel zugelassen. Doch machen die wirklich immer gesund? Quarks &amp; Co entlarvt überflüssige Arzneimittel, erklärt, warum manche Medikamente gerade für ältere Menschen gefährlich sind, und stellt Arzneimittel vor, die Millionen Menschen das Leben gerettet haben.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120124.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1327435200/quarks/wdr_fernsehen_quarks_und_co_20120124.mp4" length="158909696" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 17.01.2012, Blackout Deutschland - die Revolution im Stromnetz</title>
+  <link>http://medien.wdr.de/m/1326830400/quarks/wdr_fernsehen_quarks_und_co_20120117.mp4</link>
+  <pubDate>Tue, 17 Jan 2012 21:00:00 +0100</pubDate>
+  <description>Wann immer wir ihn brauchen, ist er für uns da: Wir drücken auf einen Schalter und schon fließt der Strom. Trotzdem ist unser heutiges Stromsystem anfällig für Störungen; Quarks &amp; Co hat nachgeforscht, wie wahrscheinlich ein totaler Blackout heute ist und zeigt, warum wir mit weniger Großkraftwerken die Risiken eines solchen Blackouts verringern könnten.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120117.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1326830400/quarks/wdr_fernsehen_quarks_und_co_20120117.mp4" length="146363605" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.01.2012, Gute Vorsätze - die Wissenschaft vom inneren Schweinehund</title>
+  <link>http://medien.wdr.de/m/1326225600/quarks/wdr_fernsehen_quarks_und_co_20120110.mp4</link>
+  <pubDate>Tue, 10 Jan 2012 21:00:00 +0100</pubDate>
+  <description>Weniger Stress, mehr Sport treiben oder überhaupt gesünder leben: alles ganz einfach, wenn nur der innere Schweinehund nicht wäre. Dahinter steckt eine handfeste wissenschaftliche Frage: Wie lernt das menschliche Gehirn Verhaltensänderungen - und warum fallen sie uns so schwer? Quarks &amp; Co verrät, wie man den inneren Schweinehund mit Tricks aus der Wissenschaft an die Leine legen kann.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20120110.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1326225600/quarks/wdr_fernsehen_quarks_und_co_20120110.mp4" length="149292710" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 13.12.2011, Die Welt der Bakterien</title>
+  <link>http://medien.wdr.de/m/1323806400/quarks/wdr_fernsehen_quarks_und_co_20111213.mp4</link>
+  <pubDate>Tue, 13 Dec 2011 21:00:00 +0100</pubDate>
+  <description>Bakterien sind überall: in der Luft, in der Wohnung, im Essen und sogar in und auf unserem Körper. Und sie haben einen schlechten Ruf: Für negative Schlagzeilen sorgen immer wieder Meldungen über Lebensmittelvergiftungen, EHEC oder gefährliche Krankenhauskeime - dabei sind Bakterien viel mehr als nur krankmachende Mikroorganismen: Sie erfüllen lebenswichtige Aufgaben - auf der Erde und sogar in unserem Körper - Quarks &amp; Co stellt die ältesten Lebewesen der Erde vor.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111213.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1323806400/quarks/wdr_fernsehen_quarks_und_co_20111213.mp4" length="152644287" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.12.2011, Transsexualität</title>
+  <link>http://medien.wdr.de/m/1323201600/quarks/wdr_fernsehen_quarks_und_co_20111206.mp4</link>
+  <pubDate>Tue, 06 Dec 2011 21:00:00 +0100</pubDate>
+  <description>Balian Buschbaum spielte lange für die falsche Mannschaft: Er wurde als Yvonne geboren und gehörte zu den besten Stabhochspringerinnen der Welt - seit August 2008 ist er ein Mann - innen und außen; im Gespräch mit Ranga Yogeshwar erzählt der 31-Jährige, wie er der werden konnte, der er im Inneren immer schon war.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111206.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1323201600/quarks/wdr_fernsehen_quarks_und_co_20111206.mp4" length="157557490" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.11.2011, Plastik - Fluch oder Segen?</title>
+  <link>http://medien.wdr.de/m/1322596800/quarks/wdr_fernsehen_quarks_und_co_20111129.mp4</link>
+  <pubDate>Tue, 29 Nov 2011 21:00:00 +0100</pubDate>
+  <description>Plastik ist aus unserem Alltag nicht mehr wegzudenken; es ist robust, haltbar, leicht und billig. Die Kehrseite: Kunststoffe werden zumeist aus Erdöl produziert und sie sind fast unkaputtbar - ein riesiges Problem; Quarks &amp; Co geht dem Wunderstoff auf den Grund, verfolgt den Aufschwung des Kunststoffzeitalters und fragt, wie gut Kunststoffe heute recycelt werden.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111129.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1322596800/quarks/wdr_fernsehen_quarks_und_co_20111129.mp4" length="162511604" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.11.2011, Auf Tauchfahrt</title>
+  <link>http://medien.wdr.de/m/1321992000/quarks/wdr_fernsehen_quarks_und_co_20111122.mp4</link>
+  <pubDate>Tue, 22 Nov 2011 21:00:00 +0100</pubDate>
+  <description>Ranga Yogeshwar begleitet Meereswissenschaftler auf einer Expedition vor der Küste Norwegens und taucht mit Deutschlands einzigem bemannten Forschungs-U-Boot zum geheimnisvollen Lebensraum der Kaltwasserkorallen: Sie könnten die ersten Opfer der Ozeanversauerung werden.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111122.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1321992000/quarks/wdr_fernsehen_quarks_und_co_20111122.mp4" length="154059956" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 08.11.2011, Menschen auf der Autobahn</title>
+  <link>http://medien.wdr.de/m/1320782400/quarks/wdr_fernsehen_quarks_und_co_20111108.mp4</link>
+  <pubDate>Tue, 08 Nov 2011 21:00:00 +0100</pubDate>
+  <description>Hier regiert die Technik - doch ohne Menschen geht auf der Autobahn nichts. Was macht die Autobahn mit uns? Warum fasziniert sie uns, und wie verändert sie uns?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111108.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1320782400/quarks/wdr_fernsehen_quarks_und_co_20111108.mp4" length="159811244" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 25.10.2011, Wie alt bist Du wirklich? (Wdh.)</title>
+  <link>http://medien.wdr.de/m/1319565600/quarks/wdr_fernsehen_quarks_und_co_20111025.mp4</link>
+  <pubDate>Tue, 25 Oct 2011 20:00:00 +0200</pubDate>
+  <description>Alle wollen lange leben, aber niemand will altern. Darum fragt Quarks &amp; Co: Ist man notwendigerweise so alt, wie es im Pass steht, oder doch eher so, wie man sich fühlt? Was ist das so genannte &quot;biologische Alter&quot;? Kann man das Altern verlangsamen, zum Beispiel mit Tricks wie Vitaminpillen oder mit grünem Tee? Außerdem will Quarks &amp; Co wissen, ob Altern immer nur Abbau bedeuten muss, oder ob man auch etwas dabei gewinnen kann: Gibt es tatsächlich so etwas wie Alters-Weisheit?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111025.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1319565600/quarks/wdr_fernsehen_quarks_und_co_20111025.mp4" length="162729431" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.10.2011, Sterbehilfe - Ein Ende in Würde?</title>
+  <link>http://medien.wdr.de/m/1318960800/quarks/wdr_fernsehen_quarks_und_co_20111018.mp4</link>
+  <pubDate>Tue, 18 Oct 2011 20:00:00 +0200</pubDate>
+  <description>Ranga Yogeshwar spricht mit Elke Gloor über Sterbehilfe. Sie beendete die künstliche Ernährung ihrer Mutter mit einer Schere. Aber was ist bei der Sterbehilfe erlaubt? Und: Wer kann diese schwere Entscheidung treffen?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111018.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1318960800/quarks/wdr_fernsehen_quarks_und_co_20111018.mp4" length="158092449" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 11.10.2011, Der Feind in uns - Autoimmunerkrankungen</title>
+  <link>http://medien.wdr.de/m/1318356000/quarks/wdr_fernsehen_quarks_und_co_20111011.mp4</link>
+  <pubDate>Tue, 11 Oct 2011 20:00:00 +0200</pubDate>
+  <description>Das Immunsystem schützt den Körper vor Viren, Bakterien und anderen Fremdstoffen - normalerweise. Doch manchmal erkennt es Feinde, wo gar keine sind. Dann attackiert es den eigenen Körper und greift Haut, Knochen, Organe oder Nervenzellen an. Quarks &amp; Co zeigt, was dabei im Körper passiert und stellt die wichtigsten Autoimmunerkrankungen vor.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111011.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1318356000/quarks/wdr_fernsehen_quarks_und_co_20111011.mp4" length="160915736" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 04.10.2011, Wie geht Wein?</title>
+  <link>http://medien.wdr.de/m/1317751200/quarks/wdr_fernsehen_quarks_und_co_20111004.mp4</link>
+  <pubDate>Tue, 04 Oct 2011 20:00:00 +0200</pubDate>
+  <description>Wein ist ein Phänomen, ein Mythos, ein Geheimnis - behauptet jedenfalls das Marketing des Weinhandels. Aber was ist guter Wein, und wie macht man ihn? Quarks &amp; Co begleitet einen Winzer durch das Jahr, erzählt die Geschichte des Weinbaus und geht der Frage nach, welchen Einfluss das Klima hat.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20111004.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1317751200/quarks/wdr_fernsehen_quarks_und_co_20111004.mp4" length="163913977" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 27.09.2011, Erinnerungen - wie unser Gehirn die Wirklichkeit verfälscht (Wdh.)</title>
+  <link>http://medien.wdr.de/m/1317146400/quarks/wdr_fernsehen_quarks_und_co_20110927.mp4</link>
+  <pubDate>Tue, 27 Sep 2011 20:00:00 +0200</pubDate>
+  <description>Das Gedächtnis arbeitet niemals objektiv: Es beschönigt, ergänzt oder verdrängt. Unsere Erinnerungen betrügen uns ständig und verändern sich im Laufe des Lebens. Doch wir brauchen sie, denn sie machen unsere Persönlichkeit aus. Quarks &amp; Co begibt sich auf Spurensuche im Gehirn.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110927.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1317146400/quarks/wdr_fernsehen_quarks_und_co_20110927.mp4" length="143419913" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 20.09.2011, Unsichtbare Welten - Die spektakulärsten Bilder der Wissenschaft</title>
+  <link>http://medien.wdr.de/m/1316541600/quarks/wdr_fernsehen_quarks_und_co_20110920.mp4</link>
+  <pubDate>Tue, 20 Sep 2011 20:00:00 +0200</pubDate>
+  <description>Mit bloßen Augen nehmen wir nur einen Bruchteil der Welt wahr. Aber mit speziellen Kameras, aufwändigen Röntgengeräten, Mikroskopen oder Teleskopen gelingt es Wissenschaftlern, das Unsichtbare sichtbar zu machen. Quarks &amp; Co lüftet Geheimnisse der Natur und zeigt die spektakulärsten Bilder.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110920.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1316541600/quarks/wdr_fernsehen_quarks_und_co_20110920.mp4" length="157229404" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 13.09.2011, Wie geht es unserem Wald?</title>
+  <link>http://medien.wdr.de/m/1315936800/quarks/wdr_fernsehen_quarks_und_co_20110913.mp4</link>
+  <pubDate>Tue, 13 Sep 2011 20:00:00 +0200</pubDate>
+  <description>Ein Drittel von Deutschland ist mit Wald bedeckt. Wald - das ist für uns Idylle und Naturgenuss. Aber wie viel Natur steckt wirklich drin in unserem Wald - und wie viel Holzplantage? Wie gesund ist der Wald heute, nachdem wir uns alle vor dem &quot;Waldsterben&quot; gefürchtet haben? Und wie machen wir den Wald fit für die Zukunft?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110913.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1315936800/quarks/wdr_fernsehen_quarks_und_co_20110913.mp4" length="162198363" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 06.09.2011, Der Lehrer - das unbekannte Wesen</title>
+  <link>http://medien.wdr.de/m/1315332000/quarks/wdr_fernsehen_quarks_und_co_20110906.mp4</link>
+  <pubDate>Tue, 06 Sep 2011 20:00:00 +0200</pubDate>
+  <description>Lehrer haben vormittags Recht und nachmittags frei. Oder? Quarks &amp; Co geht den häufigsten Klischees zum Beruf des Pädagogen auf den Grund, besucht drei der beliebtesten Lehrer aus NRW im Unterricht, begleitet eine Referendarin bei ihrer zweiten Staats-Prüfung und erklärt, wie sich der so genannte Praxisschock vermeiden lässt.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110906.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1315332000/quarks/wdr_fernsehen_quarks_und_co_20110906.mp4" length="154507302" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 30.08.2011, Der Buschmann in uns - Auf Spurensuche beim ältesten Volk der Welt</title>
+  <link>http://medien.wdr.de/m/1314727200/quarks/wdr_fernsehen_quarks_und_co_20110830.mp4</link>
+  <pubDate>Tue, 30 Aug 2011 20:00:00 +0200</pubDate>
+  <description>Quarks &amp; Co begibt sich auf Spurensuche zu einer der letzten Jäger- und Sammler-Kulturen der Welt: zu den San in Namibia. Diese &quot;Buschleute&quot; - wie sie sich selbst nennen - sind für Wissenschaftler etwas ganz Besonderes: Sowohl ihre uralte Klicksprache als auch ihre Gene deuten darauf hin, dass diese Menschen dem ältesten Volk der Welt angehören. Der Besuch bei diesen Menschen verrät uns viel über unsere eigenen Ursprünge.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110830.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1314727200/quarks/wdr_fernsehen_quarks_und_co_20110830.mp4" length="161273000" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 23.08.2011, Die Wissenschaft vom Urin (Wdh.)</title>
+  <link>http://medien.wdr.de/m/1314122400/quarks/wdr_fernsehen_quarks_und_co_20110823.mp4</link>
+  <pubDate>Tue, 23 Aug 2011 20:00:00 +0200</pubDate>
+  <description>Warum ist Urin gelb? Kann die Blase eigentlich platzen? Stimmt es, dass Urin ein wirksames Heilmittel gegen Krankheiten ist? Quarks &amp; Co beantwort die Fragen, die sich vermutlich jeder schon einmal gestellt hat. Außerdem erzählt Quarks &amp; Co, was Ärzte alles aus dem Urin über den Menschen erfahren können und wie man Urin als wertvollen Rohstoff nutzen kann.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110823.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1314122400/quarks/wdr_fernsehen_quarks_und_co_20110823.mp4" length="153233227" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 16.08.2011, Wie frisch sind unsere Lebensmittel? (Wdh.)</title>
+  <link>http://medien.wdr.de/m/1313517600/quarks/wdr_fernsehen_quarks_und_co_20110816.mp4</link>
+  <pubDate>Tue, 16 Aug 2011 20:00:00 +0200</pubDate>
+  <description>Quarks &amp; Co macht den Test: Wie frisch sind unsere Lebensmittel und wie kann man Frische erkennen? Unterstützung bekommt Ranga Yogeshwar von zwei Reportern: Katty Salié und Sven Kuntze. Sie kontrollieren Kühltheken, schicken Salat ins Testlabor und besuchen eine Bananen-Reiferei. Außerdem gibt eine Expertin Tipps zur richtigen Vorratshaltung.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110816.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1313517600/quarks/wdr_fernsehen_quarks_und_co_20110816.mp4" length="159695941" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 09.08.2011, Kleidung - der Stoff auf unserer Haut (Wdh.)</title>
+  <link>http://medien.wdr.de/m/1312912800/quarks/wdr_fernsehen_quarks_und_co_20110809.mp4</link>
+  <pubDate>Tue, 09 Aug 2011 20:00:00 +0200</pubDate>
+  <description>Nichts tragen wir näher auf der Haut als unsere Kleidung. Darum bestimmt Kleidung direkt, wie gut wir uns fühlen: Sie wärmt oder kühlt, sie kann uns ausgrenzen oder zum Teil einer Gruppe machen. Quarks &amp; Co probiert es ganz konkret aus: Können wir mit Kleidung erreichen, dass unsere Mitmenschen uns für intelligenter, gesünder, sympathischer halten? Und welches Material gewinnt beim Praxistest: Kunstfaser oder Naturtextilien? Quarks &amp; Co auf der Suche nach der perfekten Kleidung.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110809.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1312912800/quarks/wdr_fernsehen_quarks_und_co_20110809.mp4" length="161724496" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.07.2011, Was ist dran? (2)</title>
+  <link>http://medien.wdr.de/m/1311098400/quarks/wdr_fernsehen_quarks_und_co_20110719.mp4</link>
+  <pubDate>Tue, 19 Jul 2011 20:00:00 +0200</pubDate>
+  <description>Was ist dran an Alltagsweisheiten? In der 2. Folge von Quarks &amp; Caspers gibt es Antworten auf die am häufigsten gestellten Zuschauerfragen. Platz 5 bis 1: &quot;Lesen bei schwacher Beleuchtung schädigt die Augen&quot;, &quot;Sex hält jung&quot;, &quot;Fingerknacken schadet den Gelenken&quot;, &quot;Spätes Essen macht dick&quot;, &quot;Zu wenig Schlaf verkürzt das Leben&quot;.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110719.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1311098400/quarks/wdr_fernsehen_quarks_und_co_20110719.mp4" length="160034613" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 12.07.2011, Was ist dran?</title>
+  <link>http://medien.wdr.de/m/1310493600/quarks/wdr_fernsehen_quarks_und_co_20110712.mp4</link>
+  <pubDate>Tue, 12 Jul 2011 20:00:00 +0200</pubDate>
+  <description>Was ist dran an Alltagsweisheiten? Quarks beantwortet die häufigsten zehn Rätsel, Mythen und Sprüche, über die das Publikum abgestimmt hat. In der ersten Folge von Was ist dran? präsentiert Gastmoderator Ralph Caspers die Plätze 10 bis 6 Ihrer Fragen.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110712.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1310493600/quarks/wdr_fernsehen_quarks_und_co_20110712.mp4" length="151798728" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 28.06.2011, Zeitreise durch 2.000 Jahre</title>
+  <link>http://medien.wdr.de/m/1309284000/quarks/wdr_fernsehen_quarks_und_co_20110628.mp4</link>
+  <pubDate>Tue, 28 Jun 2011 20:00:00 +0200</pubDate>
+  <description>Köln ist eine der ältesten Städte Deutschlands und war schon zur Zeit der Römer eine pulsierende Metropole. Quarks &amp; Co gräbt sich auf einer Zeitreise Schicht für Schicht durch 2.000 Jahre deutscher Geschichte.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110628.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1309284000/quarks/wdr_fernsehen_quarks_und_co_20110628.mp4" length="160107380" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 21.06.2011, Burnout - die rätselhafte Krankheit</title>
+  <link>http://medien.wdr.de/m/1308679200/quarks/wdr_fernsehen_quarks_und_co_20110621.mp4</link>
+  <pubDate>Tue, 21 Jun 2011 20:00:00 +0200</pubDate>
+  <description>Auf dem Höhepunkt seiner Karriere ging nichts mehr: Sven Hannawald (36), erfolgreichster Skispringer aller Zeiten, fühlte sich total erschöpft, konnte nicht mehr schlafen und begann grundlos zu weinen.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110621.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1308679200/quarks/wdr_fernsehen_quarks_und_co_20110621.mp4" length="145451182" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 14.06.2011, Auf Wolkenjagd (Wdh.)</title>
+  <link>http://medien.wdr.de/m/1308074460/quarks/wdr_fernsehen_quarks_und_co_20110614.mp4</link>
+  <pubDate>Tue, 14 Jun 2011 20:01:00 +0200</pubDate>
+  <description>Wolken sind faszinierende Gebilde aus unzähligen Wassertropfen: Sie heißen Zirrus, Stratus oder Kumulus; sie segeln wie weiße Schäfchen über den Himmel oder türmen sich auf wie ein riesiges Gebirge; sie kündigen warmes Wetter an oder sind die Vorboten eines Sturms. Quarks &amp; Co begibt sich auf Wolkenjagd.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110614.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1308074460/quarks/wdr_fernsehen_quarks_und_co_20110614.mp4" length="159923448" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.06.2011, Erziehung - ein Kinderspiel?</title>
+  <link>http://medien.wdr.de/m/1307469600/quarks/wdr_fernsehen_quarks_und_co_20110607.mp4</link>
+  <pubDate>Tue, 07 Jun 2011 20:00:00 +0200</pubDate>
+  <description>Warum Grenzen setzen so wichtig ist. Kindern die richtigen Grenzen zu setzen, ist eine große Herausforderung für viele Eltern. Sie scheinen heute wesentlich unsicherer zu sein als früher. Woher kommt diese Unsicherheit? Gibt es allgemeingültige Regeln, nach denen man Kinder erziehen kann? Quarks &amp; Co sucht Antworten auf diese Fragen und präsentiert typische Konfliktsituationen zwischen Eltern und Kindern.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110607.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1307469600/quarks/wdr_fernsehen_quarks_und_co_20110607.mp4" length="159767679" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 31.05.2011, Wie behandle ich meinen Arzt?</title>
+  <link>http://medien.wdr.de/m/1306864800/quarks/wdr_fernsehen_quarks_und_co_20110531.mp4</link>
+  <pubDate>Tue, 31 May 2011 20:00:00 +0200</pubDate>
+  <description>Der Arzt und sein Patient: eine ganz besondere Beziehung. Das Gespräch zwischen den beiden ist entscheidend fürs Gesundwerden. Doch warum gibt es immer wieder Missverständnisse - manchmal mit fatalen Folgen? Was verdient ein Arzt überhaupt an einem Patientengespräch? Und wo finden Patienten verlässliche Informationen, wenn nach dem Arztbesuch noch Fragen offen geblieben sind? Quarks &amp; Co gibt Antworten.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110531.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1306864800/quarks/wdr_fernsehen_quarks_und_co_20110531.mp4" length="159940355" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 24.05.2011, Sicher durch die Datenwelt</title>
+  <link>http://medien.wdr.de/m/1306260000/quarks/wdr_fernsehen_quarks_und_co_20110524.mp4</link>
+  <pubDate>Tue, 24 May 2011 20:00:00 +0200</pubDate>
+  <description>Das Internet ist ein fester Bestandteil unseres Alltags geworden. Doch den wenigsten Menschen ist bewusst, was sie alles über sich preisgeben, wenn sie im Netz unterwegs sind. Quarks &amp; Co zeigt, welche Spuren wir mit jedem Besuch in der virtuellen Welt hinterlassen, welche Gefahren das birgt und wie man seine Daten besser schützen kann.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110524.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1306260000/quarks/wdr_fernsehen_quarks_und_co_20110524.mp4" length="145506053" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 10.05.2011, Als Gott geboren wurde - Die Suche nach der Weltformel</title>
+  <link>http://medien.wdr.de/m/1305050400/quarks/wdr_fernsehen_quarks_und_co_20110510.mp4</link>
+  <pubDate>Tue, 10 May 2011 20:00:00 +0200</pubDate>
+  <description>Woher kommen und wohin gehen wir? Wie ist unsere Welt entstanden? Gab es einen Schöpfer? Das sind Fragen, die wir Menschen uns stellen, seit es uns gibt. Theologen und Philosophen suchen ebenso nach Antworten, wie Physiker und Kosmologen.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110510.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1305050400/quarks/wdr_fernsehen_quarks_und_co_20110510.mp4" length="156433684" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 03.05.2011, Die Welt der Blinden</title>
+  <link>http://medien.wdr.de/m/1304445600/quarks/wdr_fernsehen_quarks_und_co_20110503.mp4</link>
+  <pubDate>Tue, 03 May 2011 20:00:00 +0200</pubDate>
+  <description>Sabriye Tenberken ist seit ihrem zwölften Lebensjahr völlig blind - und sagt: &quot;Ja, ich bin blind, aber hindert mich nicht daran, mich mit all meinen Fähigkeiten und Ideen an eurem Leben zu beteiligen!&quot; Mit Ranga Yogeshwar spricht die außergewöhnliche Frau über ihre Sicht auf die Welt.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110503.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1304445600/quarks/wdr_fernsehen_quarks_und_co_20110503.mp4" length="160381452" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 26.04.2011, Die Atom-Ruinen von Tschernobyl und Fukushima</title>
+  <link>http://medien.wdr.de/m/1303840800/quarks/wdr_fernsehen_quarks_und_co_20110426.mp4</link>
+  <pubDate>Tue, 26 Apr 2011 20:00:00 +0200</pubDate>
+  <description>Vor 25 Jahren ereignete sich in Tschernobyl das bisher schwerste Reaktorunglück in der Geschichte der Kernenergie. Der Unfall im Atomkomplex Fukushima gibt diesem Jahrestag eine neue und tragische Bedeutung. Quarks &amp; Co entdeckt viele Parallelen zwischen den Ereignissen von damals und heute in Japan.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110426.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1303840800/quarks/wdr_fernsehen_quarks_und_co_20110426.mp4" length="159466470" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 19.04.2011, Was Sie schon immer über Eier wissen wollten</title>
+  <link>http://medien.wdr.de/m/1303236000/quarks/wdr_fernsehen_quarks_und_co_20110419.mp4</link>
+  <pubDate>Tue, 19 Apr 2011 20:00:00 +0200</pubDate>
+  <description>Zwischen Karneval und Ostern bricht ein regelrechter Eier-Boom aus: Dann werden neben den frischen Eiern vor allem bunte Ostereier gekauft. Aber wie entsteht überhaupt das Ei im Huhn? Wodurch wird die Farbe der Eier bestimmt? Und wie wurde aus dem Haushuhn eine hocheffiziente Eierleg-Maschine, die bis zu 300 Eier pro Jahr legt? Und Moderator Ralph Caspers stellt das Ergebnis des größten Eier-Koch-Experiments vor: Anpiksen oder nicht?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110419.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1303236000/quarks/wdr_fernsehen_quarks_und_co_20110419.mp4" length="152021354" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 12.04.2011, Bist Du reich genug?</title>
+  <link>http://medien.wdr.de/m/1302631200/quarks/wdr_fernsehen_quarks_und_co_20110412.mp4</link>
+  <pubDate>Tue, 12 Apr 2011 20:00:00 +0200</pubDate>
+  <description>Wie Geld unser Leben bestimmt Manche werden arm geboren - und andere reich. Quarks &amp; Co fragt: Wie wichtig ist das für unser Leben? Welche Chancen haben arme und reiche Kinder in Deutschland auf Karriere, Glück und Gesundheit? Und ab wann ist man überhaupt arm, ab wann gilt man als reich?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110412.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1302631200/quarks/wdr_fernsehen_quarks_und_co_20110412.mp4" length="158824559" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 05.04.2011, Kampf dem Schmutz</title>
+  <link>http://medien.wdr.de/m/1302026400/quarks/wdr_fernsehen_quarks_und_co_20110405.mp4</link>
+  <pubDate>Tue, 05 Apr 2011 20:00:00 +0200</pubDate>
+  <description>Er kommt aus dem Nichts und legt sich wie von Zauberhand überall dorthin, wo wir gerade geputzt und gewienert haben: der Schmutz! Quarks &amp; Co nimmt den Kampf auf, zeigt woraus Schmutz eigentlich besteht, stellt die besten Schmutzkiller vor und erklärt, warum zu viel Sauberkeit sogar schaden kann.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110405.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1302026400/quarks/wdr_fernsehen_quarks_und_co_20110405.mp4" length="156244395" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 29.03.2011, Die Lust am Laufen</title>
+  <link>http://medien.wdr.de/m/1301421660/quarks/wdr_fernsehen_quarks_und_co_20110329.mp4</link>
+  <pubDate>Tue, 29 Mar 2011 20:01:00 +0200</pubDate>
+  <description>Ob Joggen, Walken oder Wandern - die Lust am Laufen ist ungebrochen. Der Sport stärkt nicht nur Muskeln und Herz, auch Gedächtnis- und Lernfähigkeit verbessern sich. Quarks &amp; Co berichtet über neue Erkenntnisse der Forschung und zeigt, dass der Mensch von Natur aus ein wahres Laufwunder ist.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110329.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1301421660/quarks/wdr_fernsehen_quarks_und_co_20110329.mp4" length="158519046" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.03.2011, Mensch gegen Strahlung</title>
+  <link>http://medien.wdr.de/m/1300824000/quarks/wdr_fernsehen_quarks_und_co_20110322.mp4</link>
+  <pubDate>Tue, 22 Mar 2011 21:00:00 +0100</pubDate>
+  <description>&quot;Quarks extra&quot; zur aktuellen Lage in Fukushima. Mittlerweile kommen aus Japan auch positive Nachrichten. Doch die Lage in dem havarierten Reaktorkomplex ist nach wie vor prekär. Quarks &amp; Co erklärt, vor welchen Herausforderungen die Arbeiter dort stehen und welchen Gefahren sie ausgesetzt sind. Ist das Schlimmste überstanden? Und wie müssten dann die Reaktoren langfristig gesichert werden? Anschließend: Von großen Baggern und dicker Luft. Eine Quarks-Expedition in den Braunkohlen-Tagebau.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110322.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1300824000/quarks/wdr_fernsehen_quarks_und_co_20110322.mp4" length="164733436" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 15.03.2011, GAU in Japan</title>
+  <link>http://medien.wdr.de/m/1300219200/quarks/wdr_fernsehen_quarks_und_co_20110315.mp4</link>
+  <pubDate>Tue, 15 Mar 2011 21:00:00 +0100</pubDate>
+  <description>Quarks &amp; Co geht der Frage nach, was genau in den japanischen Unglücksreaktoren passiert ist. Ranga Yogeshwar beschreibt außerdem die technischen Szenarien, die in den nächsten Tagen passieren könnten. Außerdem erklären wir, was genau in einem atomaren Brennelement passiert, und wie sich das gefährliche Stoffgemisch darin zusammensetzt. Ein Ausblick darauf, was genau auf Japan zukommt, ist nur schwer möglich. Aber am Beispiel Tschernobyl lässt sich zumindest abschätzen, was im schlimmsten Falle geschehen könnte.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110315.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1300219200/quarks/wdr_fernsehen_quarks_und_co_20110315.mp4" length="153005214" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 01.03.2011, Was ist dran am Mann?</title>
+  <link>http://medien.wdr.de/m/1299009600/quarks/wdr_fernsehen_quarks_und_co_20110301.mp4</link>
+  <pubDate>Tue, 01 Mar 2011 21:00:00 +0100</pubDate>
+  <description>Der moderne Mann hats schwer: Er soll ein echter Kerl sein, mutig, selbstbewusst und erfolgreich - gleichzeitig ein sensibler Frauen-Versteher, der sich an der Erziehung der Kinder beteiligt und seinen Part im Haushalt übernimmt. In den letzten 50 Jahren haben sich die Ansprüche an den Mann stark verändert, die &quot;typisch männlichen&quot; Attribute allerdings nicht. Quarks &amp; Co wirft einen Blick auf die Grundlagen des Mann-Seins.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110301.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1299009600/quarks/wdr_fernsehen_quarks_und_co_20110301.mp4" length="158793714" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 22.02.2011, Wie wir das Weltall erobern</title>
+  <link>http://medien.wdr.de/m/1298404800/quarks/wdr_fernsehen_quarks_und_co_20110222.mp4</link>
+  <pubDate>Tue, 22 Feb 2011 21:00:00 +0100</pubDate>
+  <description>In diesem Jahr endet eine Ära in der Geschichte der bemannten Raumfahrt: Die Raumfähren der NASA fliegen zum letzten Mal zur Internationalen Raumstation ISS. Dann werden die Space-Shuttles eingemottet - und die Amerikaner wenden sich neuen Zielen zu: dem Mars. Quarks &amp; Co erzählt die spannende Geschichte des Shuttles und begibt sich auf eine ebenso kühne wie extrem gefährliche Mars-Mission.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110222.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1298404800/quarks/wdr_fernsehen_quarks_und_co_20110222.mp4" length="162391000" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 15.02.2011, Wie gut ist unser Brot?</title>
+  <link>http://medien.wdr.de/m/1297800000/quarks/wdr_fernsehen_quarks_und_co_20110215.mp4</link>
+  <pubDate>Tue, 15 Feb 2011 21:00:00 +0100</pubDate>
+  <description>Nirgendwo gibt es so viele Brotsorten wie in Deutschland, und in kaum einem anderen Land Europas wird so viel Brot gegessen wie hierzulande. Doch gleichzeitig sterben die kleinen Bäckereien aus: Brot ist zur Massenware geworden. Welche Auswirkungen hat das auf die Qualität? Schmeckt industriell gefertigtes Brot schlechter? Und welche Zusatzstoffe stecken in unserem Brot? Quarks &amp; Co wirft einen Blick in die Backstuben und zeigt, dass Brotbacken eine wahre Kunst ist.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110215.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1297800000/quarks/wdr_fernsehen_quarks_und_co_20110215.mp4" length="157939073" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 01.02.2011, Die Welt der Babys</title>
+  <link>http://medien.wdr.de/m/1296590400/quarks/wdr_fernsehen_quarks_und_co_20110201.mp4</link>
+  <pubDate>Tue, 01 Feb 2011 21:00:00 +0100</pubDate>
+  <description>Babys scheinen nichts anderes zu tun als zu schlafen, zu trinken und zu schreien. Dabei ist im Kopf von Säuglingen viel mehr los, als man bisher dachte. Inzwischen wissen Forscher: Kein Jahr ist für die spätere Entwicklung des Menschen so wichtig wie das erste Lebensjahr! Quarks &amp; Co fragt Neurobiologen, wie viel Förderung Babys überhaupt brauchen, und zeigt, wie ein Säugling wahrnimmt, wie er sprechen und denken lernt, schon lange, bevor er sich verständigen kann.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110201.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1296590400/quarks/wdr_fernsehen_quarks_und_co_20110201.mp4" length="144085772" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 18.01.2011, Organspende - Das geschenkte Leben</title>
+  <link>http://medien.wdr.de/m/1295380800/quarks/wdr_fernsehen_quarks_und_co_20110118.mp4</link>
+  <pubDate>Tue, 18 Jan 2011 21:00:00 +0100</pubDate>
+  <description>Vor fünf Jahren bekam die Musikerin Katie Zahn (36) von ihrer Mutter ein Geschenk, das ihr das Leben rettete: eine Niere. Ranga Yogeshwar spricht mit den beiden über den Kampf gegen die Erkrankung, über lebensbedrohliche Momente und über das Gefühl, ein Organ zu spenden und ein fremdes Organ in sich zu tragen.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110118.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1295380800/quarks/wdr_fernsehen_quarks_und_co_20110118.mp4" length="156486462" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 11.01.2011, Wie alt bist Du wirklich?</title>
+  <link>http://medien.wdr.de/m/1294776000/quarks/wdr_fernsehen_quarks_und_co_20110111.mp4</link>
+  <pubDate>Tue, 11 Jan 2011 21:00:00 +0100</pubDate>
+  <description>Alle wollen lange leben, aber niemand will altern. Darum fragt Quarks &amp; Co: Ist man notwendigerweise so alt, wie es im Pass steht, oder doch eher so, wie man sich fühlt? Was ist das so genannte &quot;biologische Alter&quot;? Kann man das Altern verlangsamen, zum Beispiel mit Tricks wie Vitaminpillen oder mit grünem Tee? Außerdem will Quarks &amp; Co wissen, ob Altern immer nur Abbau bedeuten muss, oder ob man auch etwas dabei gewinnen kann: Gibt es tatsächlich so etwas wie Alters-Weisheit?; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20110111.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1294776000/quarks/wdr_fernsehen_quarks_und_co_20110111.mp4" length="162729431" type="video/mp4" />
+</item>
+
+<item>
+  <title>Quarks &amp; Co: 07.12.2010, Wie viel Neandertaler steckt in uns?</title>
+  <link>http://medien.wdr.de/m/1291752000/quarks/wdr_fernsehen_quarks_und_co_20101207.mp4</link>
+  <pubDate>Tue, 07 Dec 2010 21:00:00 +0100</pubDate>
+  <description>Eine Sensation gelang Leipziger Wissenschaftlern: Aus 42.000 Jahre alten Neandertaler-Knochen rekonstruierten sie das Genom des ausgestorbenen Frühmenschen. Dabei stellten sie fest: Neandertaler und moderner Mensch hatten Sex miteinander und haben gemeinsame Nachkommen gezeugt! War der Neandertaler also gar nicht der wilde, primitive Vorfahre des Menschen, für den er so lange gehalten wurde? Quarks &amp; Co geht den neuesten Spuren der Forschung nach.; © WDR VideoPodcast</description>
+  <guid isPermaLink="false">/wdr_fernsehen_quarks_und_co_20101207.mp4</guid>
+  <enclosure url="http://medien.wdr.de/m/1291752000/quarks/wdr_fernsehen_quarks_und_co_20101207.mp4" length="154189862" type="video/mp4" />
+</item>
+
+
+</channel>
+</rss>
+

@@ -1,0 +1,440 @@
+<html>
+<head>
+<title>Fernbedienung</title>
+<meta name="viewport" content="width=device-width" />
+<style>
+ul li {
+  list-style-type: none;
+  display: table-row;
+  width: auto;
+  text-align: center;
+}
+ul ul li {
+  list-style-type: none;
+  display: table-cell;
+  width: auto;
+  text-align: center;
+  vertical-align: bottom;
+}
+ul {
+  display: table;
+    width: 100%;
+  table-layout: fixed;
+  padding: 0;
+}
+input {
+  width: 100%;
+}
+a {
+  border: 1px solid black;
+  display: block;
+  height: 30pt;
+  padding-top: 10pt;
+  word-break: break-all;
+  text-decoration: none;
+  color: black;
+}
+.bar {
+  width: 100%;
+  border: 1px solid black;
+  height: 50pt;
+  line-height: 50pt;
+  position: relative;
+  text-align: center;
+}
+.bar .inner {
+  background-color: lightgray;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 50pt;
+  z-index: -1;
+}
+.bar .label {
+  background-color: white;
+  padding: 5pt 10pt 5pt 10pt;
+}
+.an {
+  background-color: lightgreen;
+}
+.aus {
+  background-color: lightsalmon;
+}
+</style>
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+<body>
+<h1>Fernbedienung</h1>
+<!--<p>
+<a href="?cmd=light&amp;light=2&amp;state=1">Licht an</a><br />
+<a href="?cmd=light&amp;light=2&amp;state=0">Licht aus</a>
+</p>-->
+<h2>Allgemein</h2>
+<ul>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 1 on" class="an">Verst&auml;rker an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 1 off" class="aus">Verst&auml;rker aus</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 2 on" class="an">Stehlampe an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 2 off" class="aus">Stehlampe aus</a></li>
+</ul>
+</li>
+<!--<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 3 on">kleine Lampe an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 3 off">kleine Lampe aus</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/raspberry-remote/send 11010 2 1" class="an">kleine Lampe an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/raspberry-remote/send 11010 2 0" class="aus">kleine Lampe aus</a></li>
+</ul>
+</li>-->
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/opt/vc/bin/tvservice -p && chvt 1 && chvt 7" class="an">Bildschirm an</a></li>
+<li><a href="?cmd=run&amp;line=/opt/vc/bin/tvservice -p && /opt/vc/bin/tvservice -o" class="aus">Bildschirm aus</a></li>
+</ul>
+</li>
+</ul>
+</p>
+
+<h2>Player</h2>
+<p>
+<div id="volume" class="bar">
+<div class="inner"></div>
+<span class="label">Lautst&auml;rke</span>
+</div>
+<script>
+
+var v = document.querySelector("#volume");
+var b = document.querySelector("#volume .inner");
+
+
+function log2lin(x) {
+    return Math.log(x * (Math.E-1) + 1);
+}
+function lin2log(x) {
+    return (Math.exp( x ) - 1) / (Math.E-1) ;
+}
+
+function volumeClickOrTouchEnd(e) {
+    var clientX = (e.type == "touchend") ? e.changedTouches[0].clientX : e.clientX;
+    var vol = lin2log((clientX - v.offsetLeft) / v.clientWidth);
+    console.log("click: "+vol);
+    b.style.width = (clientX - v.offsetLeft);
+    xhttp2.open("GET", '?cmd=call&line=echo '+vol+' >/home/pi/webserver/volume.txt; cat /home/pi/webserver/volume.txt', true);
+    xhttp2.send();
+}
+
+var xhttp2 = new XMLHttpRequest();
+xhttp2.onreadystatechange = function() {
+    console.log("received response");
+    if (xhttp2.readyState == 4 && xhttp2.status == 200) { 
+        var volume = xhttp2.responseText.trim();
+        console.log("received response: "+volume);
+        b.style.width = v.clientWidth * log2lin(volume);
+        b.style.backgroundColor = "lightblue";
+    } 
+};
+xhttp2.open("GET", '?cmd=call&line=cat /home/pi/webserver/volume.txt', true);
+xhttp2.send();
+
+v.addEventListener("touchmove", function(e) {
+    b.style.width = (e.touches[0].clientX - v.offsetLeft);
+});
+    
+v.addEventListener("mouseup", volumeClickOrTouchEnd);
+v.addEventListener("touchend", volumeClickOrTouchEnd);
+
+
+</script>
+
+<ul>
+<!--<li>
+<ul>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh volumedown">Leiser</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh volumeup">Lauter</a></li>
+</ul>
+</li>-->
+<!--<li>
+<ul>
+<li><a href="?cmd=run&amp;line=echo .025 > /home/pi/webserver/volume.txt">2.5%</a></li>
+<li><a href="?cmd=run&amp;line=echo .05 > /home/pi/webserver/volume.txt">5%</a></li>
+<li><a href="?cmd=run&amp;line=echo .10 > /home/pi/webserver/volume.txt">10%</a></li>
+<li><a href="?cmd=run&amp;line=echo .25 > /home/pi/webserver/volume.txt">25%</a></li>
+<li><a href="?cmd=run&amp;line=echo .5 > /home/pi/webserver/volume.txt">50%</a></li>
+<li><a href="?cmd=run&amp;line=echo 1 > /home/pi/webserver/volume.txt">100%</a></li>
+<li><a href="?cmd=run&amp;line=echo 1.25 > /home/pi/webserver/volume.txt">125%</a></li>
+</ul>
+</li>-->
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh seek -420000000">
+<svg width="24" height="16">
+  <path d="M24 0 L16 8 L24 16 Z" />
+  <path d="M16 0 L8 8 L16 16 Z" />
+  <path d="M8 0 L0 8 L8 16 Z" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh seek -60000000">
+<svg width="16" height="16">
+  <path d="M16 0 L8 8 L16 16 Z" />
+  <path d="M8 0 L0 8 L8 16 Z" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh seek -10000000">
+<svg width="8" height="16">
+  <path d="M8 0 L0 8 L8 16 Z" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh pause">
+<svg width="16" height="16">
+  <rect x="0" y="0" width="5" height="16" />
+  <rect x="9" y="0" width="5" height="16" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=pkill xargs; sudo pkill omxplayer">
+<svg width="16" height="16">
+  <rect x="0" y="0" width="16" height="16" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh seek 10000000">
+<svg width="8" height="16">
+  <path d="M0 0 L8 8 L0 16 Z" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh seek 60000000">
+<svg width="16" height="16">
+  <path d="M0 0 L8 8 L0 16 Z" />
+  <path d="M8 0 L16 8 L8 16 Z" />
+</svg>
+</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh seek 420000000">
+<svg width="24" height="16">
+  <path d="M0 0 L8 8 L0 16 Z" />
+  <path d="M8 0 L16 8 L8 16 Z" />
+  <path d="M16 0 L24 8 L16 16 Z" />
+</svg>
+</a></li>
+</ul>
+</li>
+<!--<li><a href="?cmd=run&amp;line=sudo shutdown now">RaspberryPi ausschalten</a></li>-->
+</ul>
+</p>
+
+<h2>Musik</h2>
+<ul>
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http%3A%2F%2Fstream.klassikradio.de%2Flive%2Fmp3-128%2Fwww.klassikradio.de%2F%22">Klassik Radio</a></li><li style="width:40pt"><a href="http://www.klassikradio.de/programm/was-lauft-gerade">...</a></li></ul>
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; curl %22http%3A%2F%2Fwww.ndr.de%2Fresources%2Fmetadaten%2Faudio%2Fm3u%2Fndr2.m3u%22 | xargs omxplayer">NDR 2</a></li><li style="width:40pt"><a href="http://www.ndr.de/ndr2/programm/titelliste1202.html">...</a></li></ul>
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; curl %22http%3A%2F%2Fwww.wdr.de%2Fwdrlive%2Fmedia%2Feinslive.m3u%22 | xargs omxplayer">1Live</a></li><li style="width:40pt"><a href="http://www.einslive.de/einslive/musik/playlist/">...</a></li></ul>
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http%3A%2F%2Fmms.hoerradar.de%2Fam128k%22">Antenne M&uuml;nster</a></li><li style="width:40pt"><a href="http://www.antennemuenster.de/musik/playlist.html">...</a></li></ul>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22udp%3A%2F%2F%3A1234%22">Stream vom PC</a></li>
+</ul>
+
+<h2>Fernsehen</h2>
+<ul>
+<!--<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&dw=0&rebase=on%22">ZDF</a></li>-->
+<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http%3A%2F%2Flive-lh.daserste.de%2Fi%2Fdaserste_de%4091204%2Findex_2692_av-b.m3u8%3Fsd%3D10%26rebase%3Don%22">ARD</a></li>
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww1.wdr.de%2Fmediathek%2Fvideo%2Fpodcast%2Fchannel-quarks-und-co-100.podcast%22 | xargs omxplayer">Quarks und Co</a></li><li style="width: 30pt"><a href="#" id="quarks_more_link">...</a></li></ul>
+<li id="quarks_more" style="display:none"></li>
+<script>
+var xhttpquarks = new XMLHttpRequest();
+xhttpquarks.onreadystatechange = function() {
+    if (xhttpquarks.readyState == 4 && xhttpquarks.status == 200) { 
+        var lines = xhttpquarks.responseText.trim().split('\n');
+        var text = '';
+        for (var i = 0; i < lines.length; i+=2) {
+            text += '<a href="?cmd=run&amp;line=omxplayer %22' + encodeURIComponent(lines[i+1]) + '%22">' + lines[i] + '</a>';
+        }
+        document.getElementById("quarks_more").innerHTML = text;
+        document.getElementById("quarks_more").style.display = "block";
+    } 
+};
+
+var l = document.getElementById("quarks_more_link");
+l.addEventListener("click", function(e) {
+    xhttpquarks.open("GET", '?cmd=call&line=/home/pi/webserver/listPodcast.py %22http%3A%2F%2Fwww1.wdr.de%2Fmediathek%2Fvideo%2Fpodcast%2Fchannel-quarks-und-co-100.podcast%22 1 | head -n 6');
+    xhttpquarks.send();
+    console.log("request sent");
+    e.preventDefault();
+});
+
+</script>
+
+
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.tagesschau.de%2Fexport%2Fvideo-podcast%2Fwebl%2Ftagesthemen%2F%22 | xargs omxplayer">Tagesthemen</a></li><li style="width: 30pt"><a href="#" id="tages_more_link">...</a></li></ul>
+<li id="tages_more" style="display:none"></li>
+<script>
+var xhttptages = new XMLHttpRequest();
+xhttptages.onreadystatechange = function() {
+    if (xhttptages.readyState == 4 && xhttptages.status == 200) { 
+        var lines = xhttptages.responseText.trim().split('\n');
+        var text = '';
+        for (var i = 0; i < lines.length; i+=2) {
+            text += '<a href="?cmd=run&amp;line=omxplayer %22' + encodeURIComponent(lines[i+1]) + '%22">' + lines[i] + '</a>';
+        }
+        document.getElementById("tages_more").innerHTML = text;
+        document.getElementById("tages_more").style.display = "block";
+    } 
+};
+
+var l = document.getElementById("tages_more_link");
+l.addEventListener("click", function(e) {
+    xhttptages.open("GET", '?cmd=call&line=/home/pi/webserver/listPodcast.py %22http%3A%2F%2Fwww.tagesschau.de%2Fexport%2Fvideo-podcast%2Fwebl%2Ftagesthemen%2F%22 1 | head -n 6');
+    xhttptages.send();
+    console.log("request sent");
+    e.preventDefault();
+});
+
+</script>
+
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.zdf.de%2Frss%2Fpodcast%2Fvideo%2Fzdf%2Fnachrichten%2Fheute%22 | xargs omxplayer">Heute (19Uhr)</a></li></ul>
+
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.zdf.de%2Frss%2Fpodcast%2Fvideo%2Fzdf%2Fnachrichten%2Fheute-journal%22 | xargs omxplayer">Heute Journal</a></li><li style="width: 30pt"><a href="#" id="heute_more_link">...</a></li></ul>
+<li id="heute_more" style="display:none"></li>
+<script>
+var xhttpheute = new XMLHttpRequest();
+xhttpheute.onreadystatechange = function() {
+    if (xhttpheute.readyState == 4 && xhttpheute.status == 200) { 
+        var lines = xhttpheute.responseText.trim().split('\n');
+        var text = '';
+        for (var i = 0; i < lines.length; i+=2) {
+            text += '<a href="?cmd=run&amp;line=omxplayer %22' + encodeURIComponent(lines[i+1]) + '%22">' + lines[i] + '</a>';
+        }
+        document.getElementById("heute_more").innerHTML = text;
+        document.getElementById("heute_more").style.display = "block";
+    } 
+};
+
+var l = document.getElementById("heute_more_link");
+l.addEventListener("click", function(e) {
+    xhttpheute.open("GET", '?cmd=call&line=/home/pi/webserver/listPodcast.py %22http%3A%2F%2Fwww.zdf.de%2Frss%2Fpodcast%2Fvideo%2Fzdf%2Fnachrichten%2Fheute-journal%22 1 | head -n 6');
+    xhttpheute.send();
+    console.log("request sent");
+    e.preventDefault();
+});
+
+</script>
+<ul><li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A//www.ardmediathek.de/tv/Tatort/Sendung%3FdocumentId%3D602916%26bcastId%3D602916%26rss%3Dtrue%22 1 | xargs /home/pi/media/get_mediathek_video_link.sh | xargs omxplayer">Tatort</a></li><li style="width: 30pt"><a href="#" id="tatort_more_link">...</a></li></ul>
+<li id="tatort_more" style="display:none"></li>
+<script>
+var xhttptatort = new XMLHttpRequest();
+xhttptatort.onreadystatechange = function() {
+    if (xhttptatort.readyState == 4 && xhttptatort.status == 200) { 
+        var lines = xhttptatort.responseText.trim().split('\n');
+        var text = '';
+        for (var i = 0; i < lines.length; i+=2) {
+            text += '<a href="?cmd=run&amp;line=/home/pi/media/get_mediathek_video_link.sh %22' + encodeURIComponent(lines[i+1]) + '%22 | xargs omxplayer">' + lines[i] + '</a>';
+        }
+        document.getElementById("tatort_more").innerHTML = text;
+        document.getElementById("tatort_more").style.display = "block";
+    } 
+};
+
+var l = document.getElementById("tatort_more_link");
+l.addEventListener("click", function(e) {
+    xhttptatort.open("GET", '?cmd=call&line=/home/pi/webserver/listPodcast.py %22http%3A//www.ardmediathek.de/tv/Tatort/Sendung%3FdocumentId%3D602916%26bcastId%3D602916%26rss%3Dtrue%22 1 | head -n 8');
+    xhttptatort.send();
+    console.log("request sent");
+    e.preventDefault();
+});
+
+</script>
+
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.zdf.de%2Frss%2Fpodcast%2Fvideo%2Fzdf%2Fcomedy%2Fdie-anstalt%22 | xargs omxplayer">Die Anstalt</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.zdf.de%2Frss%2Fpodcast%2Fvideo%2Fzdf%2Fcomedy%2Fneo-magazin-mit-jan-boehmermann%22 | xargs omxplayer">Neo Magazin Royal</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.ndr.de%2Ffernsehen%2Fsendungen%2Fextra_3%2Fvideo-podcast%2Findex.xml%22 | xargs omxplayer">Extra 3</a></li>
+
+
+<!--<li><a href="?cmd=run&amp;line=pkill omxplayer; curl%20-s%20%22http%3A%2F%2Fwww1.wdr.de%2Ffernsehen%2Funterhaltung%2Fdittsche%2Fdittscheuebersicht100.html%22%20%7C%20grep%20videoplayer.html%20%7C%20cut%20-d%20%5c%22%20-f%202%20%7C%20head%20-n%201%20%7C%20xargs%20-I%20%7B%7D%20curl%20-s%20%22http%3A%2F%2Fwww1.wdr.de%7B%7D%22%20%7C%20grep%20adaptiv%20%7C%20cut%20-d%20%5c%22%20-f%206%20%7C%20xargs%20omxplayer">Dittsche</a></li>-->
+</ul>
+
+<!--<h2>Youtube</h2>
+<div>
+<form method="get" action="#">
+<input type="hidden" name="cmd" value="youtube" />
+<input type="text" name="url" value="http://www.youtube.com/watch?v=" />
+<input type="submit" value="Starten" />
+</form>
+
+<input type="text" id="youtubeurl" value="http://www.youtube.com/watch?v=" />
+<script>
+
+var y = document.getElementById("youtubeurl");
+y.addEventListener("change", function() {
+    window.location = '?cmd=run&line=pkill omxplayer; youtube-dl -g "'+y.value+ '" | xargs omxplayer ';
+});
+
+</script>
+</div> -->
+
+<h2>Videos:</h2>
+Play URL: <input type="text" id="videourl" value="http://" />
+<input type="button" onclick="window.location='?cmd=run&line=sudo omxplayer %22'+document.getElementById('videourl').value+'%22'" value="Play URL" /><br />
+Suche: <input type="text" id="videosearchbox" />
+<input type="button" id="videosearchbutton" value="Search" />
+<input type="button" id="videoplayallbutton" value="Play all" />
+<input type="button" id="videoshufflebutton" value="Shuffle all" />
+
+<br />
+<div id="videosearchresult" style="display:none"><div style="text-align: center"><img src="loading.gif" alt="loading..." /></div></div>
+<script>
+
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    if (xhttp.readyState == 4 && xhttp.status == 200) { 
+        var lines = xhttp.responseText.trim().split('\n');
+        var text = '<ul>';
+        for (var i = 0; i < lines.length; i++) {
+            var filename = lines[i].replace(/^.*[\\\/]/, '')
+            text += "<li><a href=\"?cmd=run&amp;line=sudo pkill omxplayer; omxplayer %22" + encodeURIComponent(lines[i]) + "%22\">" + filename + "</a></li>";
+        }
+        text += '</ul>';
+        var resulttag = document.getElementById("videosearchresult").innerHTML = text;
+        window.scrollTo(0, document.getElementById("videosearchbox").offsetTop);
+    } 
+};
+
+var s = document.getElementById("videosearchbox");
+document.getElementById("videosearchbutton").addEventListener("click", function() {
+    xhttp.open("GET", '?cmd=call&line=pkill find; find "/media/pi/My Book/FilmeHD/" "/media/pi/My Book/mp3/" -name "*.mp4" -or -name "*.avi" -or -name "*.mkv" -or -name "*.mp3" -or -name "*.flac" -or -name "*.ogg" | grep -i '+s.value.trim().split(' ').join(' | grep -i '), true);
+    xhttp.send();
+    document.getElementById("videosearchresult").style.display = 'block';
+});
+
+var xhttp_ = new XMLHttpRequest();
+document.getElementById("videoplayallbutton").addEventListener("click", function() {
+    xhttp_.open("GET",'?cmd=run&line=pkill find; sudo pkill omxplayer; find "/media/pi/My Book/FilmeHD/" "/media/pi/My Book/mp3/" -name "*.mp4" -or -name "*.avi" -or -name "*.mkv" -or -name "*.mp3" -or -name "*.flac" -or -name "*.ogg" | grep -i '+s.value.trim().split(' ').join(' | grep -i ')+' | tr "\\n" "\\0" | xargs -0 -I{} sudo omxplayer {}', true);
+    xhttp_.send();    
+});
+
+document.getElementById("videoshufflebutton").addEventListener("click", function() {
+    xhttp_.open("GET", '?cmd=run&line=pkill find; sudo pkill omxplayer; find "/media/pi/My Book/FilmeHD/" "/media/pi/My Book/mp3/" -name "*.mp4" -or -name "*.avi" -or -name "*.mkv" -or -name "*.mp3" -or -name "*.flac" -or -name "*.ogg" | grep -i '+s.value.trim().split(' ').join(' | grep -i ')+' | shuf | tr "\\n" "\\0" | xargs -0 -I{} sudo omxplayer {}' , true);
+    xhttp_.send();
+});
+</script>
+
+<script>
+function asyncClick(ev) {
+            var xhttp = new XMLHttpRequest();
+            console.log("clicked link: "+this.getAttribute("href"));
+            xhttp.open("GET", this.getAttribute("href") , true);
+            xhttp.send();
+            ev.preventDefault();
+        };
+
+for(var i = 0, l=document.links.length; i<l; i++) {   
+    if (document.links[i].href.match(/fernbedienung\/\?cmd=/)) {
+        document.links[i].addEventListener("click", asyncClick, false);
+    } 
+}
+</script>
+</body>
+</html>

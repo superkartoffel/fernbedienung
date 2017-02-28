@@ -1,0 +1,122 @@
+<html>
+<head>
+<title>Fernbedienung</title>
+<meta name="viewport" content="width=device-width">
+<style>
+ul li {
+  list-style-type: none;
+  display: table-row;
+  width: auto;
+  text-align: center;
+}
+ul li ul li {
+  list-style-type: none;
+  display: table-cell;
+  width: auto;
+  text-align: center;
+}
+ul {
+  display: table;
+    width: 100%;
+  table-layout: fixed;
+  padding: 0;
+}
+
+a {
+  border: 1px solid black;
+  display: block;
+  height: 30pt;
+  padding-top: 10pt;
+}
+</style>
+<link href="data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLy8on1dXUo9bW1d7R0dB1o6OiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADPz85I2NjX9Nra2f/a2tn/2trZ/tHR0H6ioqEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1tbV59ra2f/a2tn/29va/9zc2//c3Nv/09PSmru7ugUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTU06/a2tn/29va/9zc2//e3t3/39/e/97e3f/W1tW+xsbFFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAwL8L19fWxt3d3P/e3t3/39/e/+Dg3//i4uH/4uLh/9nZ2ODNzcw4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjIxxTb29rY4ODf/+Hh4P/i4uH/4+Pi/+Tk4//l5eT/3d3c+NHR0G6trawBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzs7NIN7e3ePi4uH/5OTj/+Xl5P/m5uX/5+fm/+jo5//h4eD/1dXUsLHJyhUA7f8AAO3/BgAAAAAAAAAAAAAAAAAAAADS0tEs4eHg7eXl5P/m5uX/1dXj/6mp2v/P0OP/6+vq/+Xl5P/Y2NfgbtzkaQDt/2kA7f8pAAAAAAAAAAAAAAAAAAAAANbW1Tfk5OPw5eXn/z453v8mIeL/LyzX/+fn6v/s7Ov/6Ojn/9Xa2v8k5/bzAO3/bgAAAAAAAAAAAAAAAAAAAAAAAAAA2NjXN+Xl5uxsaOX/PDfk/3575//s7Ov/7Ozr/+zs6//h5uX/HOj3/wDt/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADX19Ym5ublzOzs6//r6+r/6eno8Obm5b526PDlG+r5/gDt/6sA7f9DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALe3tgLMzMsfycnIGra2tQQA7f8PAO3/NADt/2UA7f8DAO3/HgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAP//AACD/wAAAf8AAAD/AAAAfwAAAD8AAIAPAADAAQAA4AAAAPAAAAD4AAAA/AAAAP4AAAD//wAA//8AAA==" rel="icon" type="image/x-icon">
+</head>
+<body>
+<h1>Fernbedienung</h1>
+<!--<p>
+<a href="?cmd=light&amp;light=2&amp;state=1">Licht an</a><br />
+<a href="?cmd=light&amp;light=2&amp;state=0">Licht aus</a>
+</p>-->
+<h2>Allgemein</h2>
+<ul>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 1 on">Verst&auml;rker an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 1 off">Verst&auml;rker aus</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 2 on">Stehlampe an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 2 off">Stehlampe aus</a></li>
+</ul>
+</li>
+<!--<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 3 on">kleine Lampe an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/rossmannfunk 3 off">kleine Lampe aus</a></li>
+</ul>
+</li>-->
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/home/pi/raspberry-remote/send 11010 2 1">kleine Lampe an</a></li>
+<li><a href="?cmd=run&amp;line=/home/pi/raspberry-remote/send 11010 2 0">kleine Lampe aus</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh volumedown">Leiser</a></li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh volumeup">Lauter</a></li>
+</ul>
+</li>
+<li><a href="?cmd=run&amp;line=sudo /home/pi/webserver/omxplayer/dbuscontrol.sh pause">Pause</a></li>
+<li>
+<ul>
+<li><a href="?cmd=run&amp;line=/opt/vc/bin/tvservice -p && chvt 1 && chvt 7">Bildschirm an</a></li>
+<li><a href="?cmd=run&amp;line=/opt/vc/bin/tvservice -p && /opt/vc/bin/tvservice -o">Bildschirm aus</a></li>
+</ul>
+</li>
+<!--<li><a href="?cmd=run&amp;line=sudo shutdown now">RaspberryPi ausschalten</a></li>-->
+</ul>
+</p>
+
+<h2>Musik</h2>
+<ul>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http%3A%2F%2Fedge.live.mp3.mdn.newmedia.nacamar.net%2Fklassikradio128%2Flivestream.mp3%22">Klassik Radio</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; curl %22http%3A%2F%2Fwww.ndr.de%2Fresources%2Fmetadaten%2Faudio%2Fm3u%2Fndr2.m3u%22 | xargs omxplayer">NDR 2</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; curl %22http%3A%2F%2Fwww.wdr.de%2Fwdrlive%2Fmedia%2Feinslive.m3u%22 | xargs omxplayer">1Live</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22udp%3A%2F%2F%3A1234%22">Stream vom PC</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer">Alles aus</a></li>
+</ul>
+
+<h2>Fernsehen</h2>
+<ul>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http%3A%2F%2Fzdf1314-lh.akamaihd.net%2Fi%2Fde14_v1%40392878%2Fmaster.m3u8%3Fdw%3D0%22">ZDF</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; omxplayer %22http%3A%2F%2Fdaserste_live-lh.akamaihd.net%2Fi%2Fdaserste_de%4091204%2Fmaster.m3u8%22">ARD</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fpodcast.wdr.de%2Fquarks.xml%22 | xargs omxplayer">Quarks und Co</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.tagesschau.de%2Fexport%2Fvideo-podcast%2Fwebl%2Ftagesthemen%2F%22 | xargs omxplayer">Tagesthemen</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fcontent.zdf.de%2Fpodcast%2Fzdf_hjo%2Fhjo.xml%22 | xargs omxplayer">Heute Journal</a></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A//www.ardmediathek.de/tv/Tatort/Sendung%3FdocumentId%3D602916%26bcastId%3D602916%26rss%3Dtrue%22 1 | xargs /home/pi/media/get_mediathek_video_link.sh | xargs omxplayer">Tatort</a></li>
+<li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.zdf.de%2FZDFmediathek%2Fpodcast%2F2085930%3Fview%3Dpodcast%22 | xargs omxplayer">Die Anstalt</a></li>
+<!--<li><a href="?cmd=run&amp;line=pkill omxplayer; /home/pi/webserver/getLatestPodcast.py %22http%3A%2F%2Fwww.zdf.de%2FZDFmediathek%2Frss%2F950896%3Fview%3Drss%22 | xargs omxplayer">Heute Show</a></li>-->
+<form method="get" action="#">
+<input type="hidden" name="cmd" value="youtube" />
+Youtube: <input type="text" name="url" value="http://www.youtube.com/watch?v=" />
+<input type="submit" value="Starten" />
+</form></li>
+<li><a href="?cmd=run&amp;line=pkill omxplayer">Alles aus</a></li>
+</ul>
+
+<h2>Videos</h2>
+<ul>
+VIDEO-FILES
+</ul>
+
+<h2>Audios</h2>
+<ul>
+AUDIO-FILES
+</ul>
+
+</body>
+</html>
